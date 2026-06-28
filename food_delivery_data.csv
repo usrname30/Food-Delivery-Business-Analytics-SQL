@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,City,Restaurant_ID,Restaurant_Name,Cuisine,Restaurant_Rating,Delivery_Partner,Vehicle_Type,Payment_Mode,Order_Date,Order_Time,Delivery_Time_Minutes,Distance_km,Order_Value,Discount,Delivery_Fee,Final_Amount,Order_Status,Customer_Rating,Weather,Festival
+1,1053,Customer_280,Male,55,Chandigarh,1,Spice Hub,North Indian,4.1,Partner_2,Bike,Credit Card,27-02-2025,04:45:00,29,8.1,251,50,35,236,Delivered,2,Cloudy,No
+2,1217,Customer_175,Female,27,Mumbai,4,Biryani House,Biryani,3.8,Partner_49,Scooter,UPI,02-01-2025,05:26:00,20,6.3,1406,50,71,1427,Delivered,3,Cloudy,No
+3,1283,Customer_151,Female,54,Delhi,6,Tandoori Treat,Chinese,3.8,Partner_5,Bike,Net Banking,07-04-2025,02:41:00,29,11.8,1140,150,27,1017,Cancelled,2,Sunny,No
+4,1137,Customer_37,Male,52,Bengaluru,4,Biryani House,Biryani,4.6,Partner_11,Scooter,Cash,01-04-2025,07:09:00,32,14.9,947,20,43,970,Delivered,5,Sunny,No
+5,1109,Customer_291,Female,31,Delhi,2,Pizza Point,Italian,4.5,Partner_26,Cycle,Cash,10-03-2025,02:15:00,24,4.7,265,50,45,260,Delivered,5,Cloudy,No
+6,1071,Customer_261,Female,23,Chandigarh,5,Green Bowl,Healthy,4.6,Partner_8,Bike,Net Banking,03-04-2025,07:29:00,25,12.1,1077,150,45,972,Delivered,1,Rainy,No
+7,1059,Customer_275,Female,59,Pune,4,Biryani House,Biryani,4,Partner_19,Scooter,Credit Card,03-01-2025,23:13:00,44,1,1283,50,55,1288,Delivered,3,Cloudy,Yes
+8,1102,Customer_79,Female,28,Pune,1,Spice Hub,North Indian,4.3,Partner_50,Cycle,UPI,13-06-2025,17:19:00,53,5.5,1480,50,73,1503,Delivered,3,Rainy,Yes
+9,1273,Customer_65,Male,60,Delhi,2,Pizza Point,Italian,4.2,Partner_36,Bike,Debit Card,05-05-2025,02:21:00,48,13.2,1361,0,25,1386,Delivered,2,Cloudy,Yes
+10,1062,Customer_127,Male,22,Chandigarh,3,Burger Town,Fast Food,4,Partner_38,Cycle,Credit Card,13-05-2025,15:24:00,52,4.1,1017,50,48,1015,Delivered,1,Sunny,Yes
+11,1249,Customer_110,Male,54,Delhi,3,Burger Town,Fast Food,4.4,Partner_16,Scooter,Cash,13-03-2025,22:50:00,27,2.3,345,150,35,230,Delivered,3,Rainy,No
+12,1056,Customer_128,Male,30,Hyderabad,6,Tandoori Treat,Chinese,4.3,Partner_9,Scooter,Credit Card,14-04-2025,11:34:00,32,7.5,310,0,23,333,Delivered,1,Rainy,Yes
+13,1209,Customer_249,Female,31,Delhi,6,Tandoori Treat,Chinese,4.8,Partner_4,Bike,Cash,02-03-2025,05:40:00,15,14.8,1307,0,25,1332,Delivered,4,Rainy,No
+14,1112,Customer_30,Male,38,Chandigarh,6,Tandoori Treat,Chinese,3.6,Partner_38,Scooter,Wallet,18-02-2025,10:07:00,48,3.2,1338,100,29,1267,Cancelled,1,Sunny,Yes
+15,1297,Customer_21,Male,44,Pune,1,Spice Hub,North Indian,4.5,Partner_37,Cycle,Debit Card,26-05-2025,08:24:00,31,3.9,681,100,27,608,Delivered,2,Rainy,No
+16,1235,Customer_289,Male,22,Mumbai,6,Tandoori Treat,Chinese,4.3,Partner_33,Scooter,Credit Card,19-01-2025,00:19:00,37,13.3,814,100,40,754,Delivered,3,Rainy,Yes
+17,1005,Customer_284,Female,60,Hyderabad,5,Green Bowl,Healthy,3.7,Partner_9,Scooter,UPI,17-06-2025,18:03:00,21,11.4,819,150,71,740,Delivered,3,Cloudy,Yes
+18,1027,Customer_48,Female,35,Chandigarh,3,Burger Town,Fast Food,3.6,Partner_22,Bike,Net Banking,06-05-2025,08:34:00,31,3.3,616,50,52,618,Delivered,4,Cloudy,Yes
+19,1283,Customer_76,Female,26,Delhi,1,Spice Hub,North Indian,3.6,Partner_24,Bike,Debit Card,05-04-2025,19:52:00,28,10.5,505,150,22,377,Delivered,3,Cloudy,No
+20,1212,Customer_13,Male,39,Pune,6,Tandoori Treat,Chinese,4.7,Partner_27,Cycle,Net Banking,11-02-2025,06:02:00,30,4.7,516,20,75,571,Delivered,1,Rainy,Yes
+21,1115,Customer_13,Male,43,Hyderabad,2,Pizza Point,Italian,4,Partner_5,Scooter,Debit Card,20-03-2025,07:46:00,56,8.1,608,100,42,550,Delivered,5,Rainy,Yes
+22,1223,Customer_177,Female,45,Delhi,3,Burger Town,Fast Food,4.4,Partner_33,Bike,Cash,10-01-2025,03:42:00,51,3.7,565,150,36,451,Delivered,4,Sunny,Yes
+23,1064,Customer_154,Female,60,Bengaluru,4,Biryani House,Biryani,4.1,Partner_26,Cycle,Debit Card,22-03-2025,22:38:00,50,2.8,343,50,59,352,Delivered,4,Cloudy,Yes
+24,1147,Customer_108,Female,55,Pune,5,Green Bowl,Healthy,4.4,Partner_21,Scooter,Cash,01-01-2025,10:22:00,43,10.5,816,100,55,771,Delivered,2,Cloudy,Yes
+25,1159,Customer_116,Male,27,Bengaluru,5,Green Bowl,Healthy,3.5,Partner_16,Scooter,Wallet,24-01-2025,08:01:00,19,7.4,1496,150,41,1387,Delivered,5,Sunny,No
+26,1055,Customer_218,Male,29,Hyderabad,4,Biryani House,Biryani,4.7,Partner_45,Cycle,Cash,26-06-2025,00:11:00,18,8.8,699,20,61,740,Delivered,1,Rainy,Yes
+27,1259,Customer_219,Female,28,Hyderabad,6,Tandoori Treat,Chinese,4.6,Partner_31,Scooter,Debit Card,23-03-2025,15:06:00,30,12.8,1287,150,58,1195,Delivered,5,Rainy,Yes
+28,1164,Customer_277,Male,26,Bengaluru,4,Biryani House,Biryani,3.7,Partner_25,Cycle,Credit Card,11-03-2025,11:27:00,60,4,358,50,35,343,Delivered,3,Cloudy,No
+29,1011,Customer_295,Female,48,Hyderabad,1,Spice Hub,North Indian,3.5,Partner_23,Scooter,Cash,30-05-2025,23:44:00,41,8.5,623,100,44,567,Delivered,5,Sunny,No
+30,1208,Customer_85,Female,26,Mumbai,3,Burger Town,Fast Food,5,Partner_35,Bike,Cash,10-04-2025,11:28:00,52,8.9,1092,100,21,1013,Delivered,4,Sunny,No
+31,1168,Customer_173,Female,35,Mumbai,1,Spice Hub,North Indian,4.6,Partner_27,Scooter,UPI,24-02-2025,15:31:00,45,1.3,732,100,40,672,Delivered,3,Sunny,Yes
+32,1079,Customer_123,Male,48,Chandigarh,1,Spice Hub,North Indian,4.5,Partner_37,Bike,Cash,06-01-2025,21:12:00,59,4.6,263,20,32,275,Delivered,5,Cloudy,Yes
+33,1193,Customer_204,Male,22,Mumbai,3,Burger Town,Fast Food,4.4,Partner_41,Bike,UPI,21-03-2025,19:39:00,59,11.8,421,150,21,292,Delivered,5,Sunny,Yes
+34,1175,Customer_7,Female,49,Bengaluru,5,Green Bowl,Healthy,3.7,Partner_24,Cycle,Cash,10-05-2025,22:06:00,60,3.1,1077,50,24,1051,Delivered,5,Cloudy,No
+35,1166,Customer_126,Male,35,Pune,5,Green Bowl,Healthy,4.8,Partner_16,Scooter,Wallet,01-06-2025,09:09:00,54,10.4,1190,100,47,1137,Delivered,4,Rainy,Yes
+36,1142,Customer_285,Male,51,Hyderabad,2,Pizza Point,Italian,4.9,Partner_6,Bike,Net Banking,13-03-2025,20:20:00,41,7.8,926,50,41,917,Delivered,4,Cloudy,No
+37,1125,Customer_157,Female,48,Hyderabad,1,Spice Hub,North Indian,4.3,Partner_23,Scooter,Net Banking,14-04-2025,23:36:00,50,5.6,390,50,34,374,Delivered,3,Rainy,No
+38,1095,Customer_99,Male,48,Mumbai,1,Spice Hub,North Indian,3.9,Partner_38,Cycle,Wallet,18-05-2025,23:33:00,33,14.7,594,50,27,571,Delivered,3,Sunny,No
+39,1028,Customer_284,Female,26,Mumbai,3,Burger Town,Fast Food,4.5,Partner_49,Scooter,UPI,12-03-2025,01:33:00,15,9,228,150,28,106,Delivered,4,Rainy,Yes
+40,1252,Customer_38,Male,27,Delhi,3,Burger Town,Fast Food,3.7,Partner_37,Scooter,UPI,17-01-2025,13:40:00,30,2.7,1178,0,72,1250,Delivered,5,Cloudy,Yes
+41,1157,Customer_292,Male,57,Pune,4,Biryani House,Biryani,4.9,Partner_7,Bike,Net Banking,31-05-2025,14:38:00,28,4.7,1122,100,39,1061,Delivered,2,Sunny,Yes
+42,1150,Customer_17,Male,36,Mumbai,1,Spice Hub,North Indian,4.6,Partner_45,Scooter,UPI,02-06-2025,16:02:00,58,4.3,1036,100,64,1000,Delivered,5,Cloudy,Yes
+43,1073,Customer_37,Male,28,Hyderabad,1,Spice Hub,North Indian,4.7,Partner_39,Cycle,Wallet,08-02-2025,09:04:00,33,7.1,1315,20,61,1356,Delivered,3,Cloudy,No
+44,1021,Customer_222,Female,56,Bengaluru,5,Green Bowl,Healthy,3.9,Partner_6,Bike,Net Banking,21-01-2025,20:24:00,51,9.2,1305,100,48,1253,Delivered,3,Cloudy,Yes
+45,1300,Customer_224,Female,23,Mumbai,4,Biryani House,Biryani,4.2,Partner_27,Scooter,Debit Card,13-03-2025,06:11:00,57,2.5,1262,100,78,1240,Delivered,4,Cloudy,No
+46,1162,Customer_130,Female,25,Bengaluru,6,Tandoori Treat,Chinese,5,Partner_26,Cycle,UPI,27-04-2025,03:00:00,57,13.2,1020,150,22,892,Delivered,1,Sunny,No
+47,1137,Customer_282,Male,36,Pune,4,Biryani House,Biryani,4.2,Partner_45,Scooter,UPI,14-01-2025,06:56:00,16,14.6,1480,100,68,1448,Delivered,2,Cloudy,Yes
+48,1059,Customer_237,Male,59,Bengaluru,5,Green Bowl,Healthy,4.7,Partner_32,Cycle,Debit Card,24-01-2025,07:40:00,47,10.9,228,150,46,124,Delivered,4,Rainy,Yes
+49,1070,Customer_36,Female,44,Hyderabad,5,Green Bowl,Healthy,4,Partner_33,Scooter,UPI,03-06-2025,17:20:00,33,11.2,496,100,32,428,Delivered,5,Cloudy,No
+50,1279,Customer_194,Female,38,Mumbai,4,Biryani House,Biryani,4.8,Partner_45,Bike,Wallet,27-03-2025,18:50:00,39,4.3,1303,100,42,1245,Delivered,1,Rainy,No
+51,1258,Customer_170,Male,46,Chandigarh,4,Biryani House,Biryani,3.6,Partner_30,Bike,Net Banking,10-01-2025,04:18:00,24,6.7,990,20,51,1021,Delivered,2,Sunny,No
+52,1274,Customer_195,Female,58,Bengaluru,3,Burger Town,Fast Food,4.6,Partner_49,Scooter,Wallet,21-01-2025,11:12:00,17,9.6,1476,100,61,1437,Delivered,3,Sunny,Yes
+53,1154,Customer_15,Male,38,Hyderabad,1,Spice Hub,North Indian,4.7,Partner_19,Scooter,Debit Card,12-02-2025,23:41:00,42,3,1497,0,48,1545,Delivered,5,Cloudy,Yes
+54,1124,Customer_255,Male,32,Mumbai,2,Pizza Point,Italian,4.2,Partner_17,Scooter,Debit Card,08-04-2025,21:09:00,57,1.1,361,150,75,286,Delivered,3,Cloudy,Yes
+55,1129,Customer_234,Female,30,Delhi,4,Biryani House,Biryani,5,Partner_31,Bike,Credit Card,13-06-2025,14:28:00,39,9,907,150,39,796,Delivered,3,Sunny,No
+56,1147,Customer_118,Female,32,Bengaluru,1,Spice Hub,North Indian,4.5,Partner_40,Scooter,Net Banking,05-06-2025,16:57:00,57,10.5,1359,0,78,1437,Delivered,1,Cloudy,Yes
+57,1152,Customer_168,Female,29,Bengaluru,4,Biryani House,Biryani,3.8,Partner_35,Scooter,Wallet,03-02-2025,03:04:00,47,13.8,268,150,43,161,Delivered,3,Rainy,No
+58,1204,Customer_286,Female,23,Chandigarh,3,Burger Town,Fast Food,4.7,Partner_1,Scooter,Wallet,06-02-2025,07:42:00,22,7.4,435,100,24,359,Delivered,3,Cloudy,No
+59,1288,Customer_168,Male,59,Chandigarh,3,Burger Town,Fast Food,3.6,Partner_30,Cycle,Debit Card,07-01-2025,21:08:00,56,6.7,421,20,50,451,Delivered,1,Rainy,No
+60,1190,Customer_277,Female,55,Delhi,1,Spice Hub,North Indian,4.6,Partner_10,Scooter,Net Banking,10-04-2025,15:29:00,21,12.7,680,150,28,558,Delivered,3,Sunny,No
+61,1189,Customer_279,Female,21,Mumbai,4,Biryani House,Biryani,4.1,Partner_13,Bike,Cash,03-04-2025,03:23:00,20,10.3,1110,20,74,1164,Delivered,5,Sunny,Yes
+62,1107,Customer_111,Male,39,Bengaluru,2,Pizza Point,Italian,4.7,Partner_39,Bike,Debit Card,18-01-2025,18:55:00,24,14.8,457,150,33,340,Delivered,2,Sunny,Yes
+63,1090,Customer_136,Male,26,Mumbai,1,Spice Hub,North Indian,4.6,Partner_34,Bike,Net Banking,24-03-2025,00:32:00,19,7.7,933,20,57,970,Delivered,5,Cloudy,Yes
+64,1155,Customer_235,Male,21,Hyderabad,5,Green Bowl,Healthy,5,Partner_26,Scooter,Net Banking,18-06-2025,17:47:00,21,7.9,653,150,22,525,Delivered,1,Sunny,No
+65,1300,Customer_281,Female,42,Pune,2,Pizza Point,Italian,5,Partner_34,Scooter,Cash,09-06-2025,21:36:00,47,9.5,334,20,37,351,Delivered,1,Cloudy,Yes
+66,1213,Customer_49,Female,45,Hyderabad,4,Biryani House,Biryani,4,Partner_17,Scooter,Credit Card,27-04-2025,13:36:00,58,13.9,667,100,41,608,Delivered,1,Sunny,No
+67,1288,Customer_288,Female,60,Delhi,6,Tandoori Treat,Chinese,3.7,Partner_23,Cycle,Cash,16-01-2025,20:01:00,18,14.6,963,20,55,998,Delivered,3,Sunny,Yes
+68,1285,Customer_189,Male,35,Mumbai,6,Tandoori Treat,Chinese,4.4,Partner_28,Cycle,Wallet,28-01-2025,11:57:00,54,10.4,1187,20,74,1241,Delivered,5,Cloudy,No
+69,1004,Customer_93,Male,54,Delhi,2,Pizza Point,Italian,4.5,Partner_5,Bike,Net Banking,28-03-2025,11:58:00,55,14.6,759,50,78,787,Delivered,5,Sunny,No
+70,1291,Customer_44,Male,27,Hyderabad,4,Biryani House,Biryani,3.7,Partner_40,Bike,Net Banking,21-03-2025,11:04:00,20,4.8,898,20,43,921,Delivered,4,Cloudy,No
+71,1057,Customer_146,Female,51,Hyderabad,3,Burger Town,Fast Food,4.5,Partner_3,Bike,Cash,30-03-2025,14:40:00,53,1.8,641,150,27,518,Delivered,2,Sunny,No
+72,1067,Customer_195,Male,50,Bengaluru,3,Burger Town,Fast Food,4.3,Partner_43,Scooter,UPI,21-04-2025,05:59:00,40,13.1,445,0,51,496,Delivered,1,Rainy,Yes
+73,1149,Customer_59,Female,19,Bengaluru,5,Green Bowl,Healthy,4.9,Partner_11,Cycle,Cash,13-06-2025,14:15:00,59,13.9,1079,150,45,974,Delivered,1,Sunny,No
+74,1114,Customer_171,Male,22,Pune,4,Biryani House,Biryani,4.3,Partner_8,Cycle,Wallet,21-03-2025,11:35:00,27,13.7,1273,0,45,1318,Delivered,2,Sunny,Yes
+75,1039,Customer_91,Female,47,Mumbai,3,Burger Town,Fast Food,4.6,Partner_49,Cycle,Cash,09-02-2025,22:22:00,58,13.9,604,20,58,642,Delivered,5,Rainy,No
+76,1141,Customer_29,Female,50,Mumbai,4,Biryani House,Biryani,3.6,Partner_30,Scooter,UPI,11-06-2025,10:20:00,18,6.2,339,100,48,287,Delivered,1,Cloudy,No
+77,1097,Customer_165,Female,50,Hyderabad,5,Green Bowl,Healthy,3.7,Partner_4,Scooter,UPI,27-05-2025,22:14:00,36,14.8,1335,0,48,1383,Delivered,2,Sunny,Yes
+78,1187,Customer_191,Female,42,Chandigarh,4,Biryani House,Biryani,4.1,Partner_22,Cycle,Wallet,06-06-2025,05:25:00,18,12,1099,150,53,1002,Delivered,1,Rainy,Yes
+79,1077,Customer_171,Male,55,Pune,6,Tandoori Treat,Chinese,4.5,Partner_23,Scooter,Net Banking,18-06-2025,20:34:00,59,10.3,991,50,36,977,Delivered,1,Rainy,No
+80,1217,Customer_261,Female,19,Chandigarh,3,Burger Town,Fast Food,4,Partner_12,Bike,Debit Card,15-06-2025,22:53:00,46,3.7,461,150,25,336,Cancelled,2,Sunny,No
+81,1068,Customer_193,Male,28,Delhi,5,Green Bowl,Healthy,3.8,Partner_45,Cycle,Credit Card,19-06-2025,11:29:00,43,1.6,1305,150,22,1177,Delivered,2,Rainy,No
+82,1100,Customer_189,Female,47,Chandigarh,4,Biryani House,Biryani,4.7,Partner_50,Scooter,Wallet,21-03-2025,16:00:00,48,6.9,679,150,35,564,Delivered,2,Cloudy,Yes
+83,1064,Customer_146,Male,28,Bengaluru,1,Spice Hub,North Indian,3.9,Partner_33,Bike,Cash,27-01-2025,17:36:00,20,14.2,1184,50,55,1189,Delivered,4,Rainy,Yes
+84,1042,Customer_192,Male,19,Hyderabad,1,Spice Hub,North Indian,4,Partner_7,Cycle,Net Banking,02-03-2025,13:10:00,36,12.1,1011,150,43,904,Delivered,3,Rainy,Yes
+85,1132,Customer_111,Male,53,Chandigarh,4,Biryani House,Biryani,4.9,Partner_39,Cycle,Cash,21-01-2025,00:38:00,22,11.9,1118,150,20,988,Delivered,1,Sunny,Yes
+86,1275,Customer_9,Male,27,Hyderabad,6,Tandoori Treat,Chinese,3.9,Partner_1,Cycle,Debit Card,29-01-2025,17:03:00,30,9,1475,100,24,1399,Delivered,1,Cloudy,No
+87,1011,Customer_200,Female,20,Delhi,5,Green Bowl,Healthy,4.5,Partner_24,Scooter,Net Banking,10-05-2025,18:54:00,16,6,1314,150,70,1234,Delivered,2,Cloudy,Yes
+88,1174,Customer_90,Female,48,Pune,6,Tandoori Treat,Chinese,4.4,Partner_9,Bike,Net Banking,01-04-2025,18:38:00,44,1.5,880,20,22,882,Delivered,2,Sunny,No
+89,1098,Customer_147,Female,21,Bengaluru,5,Green Bowl,Healthy,4.8,Partner_22,Scooter,UPI,06-03-2025,01:14:00,38,7.1,1015,150,50,915,Delivered,4,Rainy,No
+90,1043,Customer_218,Male,45,Mumbai,4,Biryani House,Biryani,4.4,Partner_12,Cycle,Debit Card,13-05-2025,09:06:00,35,2.4,1218,50,79,1247,Delivered,3,Rainy,No
+91,1229,Customer_22,Female,57,Pune,6,Tandoori Treat,Chinese,5,Partner_18,Cycle,UPI,24-04-2025,11:59:00,19,10.4,1072,20,64,1116,Delivered,5,Cloudy,Yes
+92,1121,Customer_188,Female,42,Delhi,2,Pizza Point,Italian,4.9,Partner_3,Cycle,Credit Card,02-02-2025,02:17:00,58,7.3,1444,100,22,1366,Delivered,4,Sunny,Yes
+93,1059,Customer_14,Male,49,Pune,3,Burger Town,Fast Food,4.3,Partner_36,Bike,Debit Card,13-03-2025,08:31:00,31,10.9,1015,50,61,1026,Delivered,5,Rainy,No
+94,1045,Customer_164,Female,22,Mumbai,1,Spice Hub,North Indian,4.3,Partner_19,Scooter,Credit Card,14-02-2025,15:11:00,60,10.9,477,0,48,525,Delivered,2,Rainy,Yes
+95,1185,Customer_284,Female,47,Delhi,2,Pizza Point,Italian,4.7,Partner_36,Bike,Wallet,07-05-2025,00:53:00,20,1.9,484,20,70,534,Delivered,4,Cloudy,No
+96,1231,Customer_239,Female,26,Hyderabad,5,Green Bowl,Healthy,4.8,Partner_50,Cycle,Net Banking,14-06-2025,02:31:00,52,3.5,351,20,40,371,Cancelled,4,Cloudy,Yes
+97,1116,Customer_178,Female,23,Delhi,5,Green Bowl,Healthy,3.9,Partner_41,Cycle,Debit Card,11-02-2025,11:00:00,23,9.8,513,50,30,493,Delivered,1,Cloudy,Yes
+98,1173,Customer_289,Male,19,Pune,5,Green Bowl,Healthy,3.6,Partner_42,Cycle,Debit Card,09-06-2025,20:39:00,56,4,515,20,62,557,Delivered,5,Cloudy,Yes
+99,1126,Customer_208,Female,47,Hyderabad,6,Tandoori Treat,Chinese,3.6,Partner_4,Bike,Cash,19-03-2025,16:29:00,41,7.8,1317,50,61,1328,Delivered,5,Sunny,No
+100,1288,Customer_55,Female,33,Chandigarh,3,Burger Town,Fast Food,4.2,Partner_18,Scooter,Credit Card,05-04-2025,17:34:00,24,2.4,907,100,28,835,Delivered,4,Cloudy,No
+101,1082,Customer_256,Female,49,Mumbai,2,Pizza Point,Italian,4.8,Partner_32,Bike,UPI,22-03-2025,06:28:00,40,8.1,870,150,66,786,Cancelled,2,Cloudy,No
+102,1241,Customer_147,Male,24,Delhi,1,Spice Hub,North Indian,4.1,Partner_17,Cycle,Debit Card,17-06-2025,22:57:00,40,6.1,776,100,58,734,Delivered,5,Cloudy,Yes
+103,1282,Customer_144,Male,26,Bengaluru,5,Green Bowl,Healthy,5,Partner_26,Scooter,Debit Card,10-05-2025,15:22:00,50,14.1,791,0,44,835,Delivered,2,Cloudy,No
+104,1266,Customer_234,Male,56,Pune,1,Spice Hub,North Indian,4.8,Partner_9,Scooter,Wallet,27-03-2025,16:10:00,35,3.3,292,0,28,320,Cancelled,3,Cloudy,No
+105,1244,Customer_9,Female,39,Pune,5,Green Bowl,Healthy,4.5,Partner_27,Cycle,Debit Card,25-05-2025,10:13:00,59,9.8,1290,100,65,1255,Delivered,3,Cloudy,Yes
+106,1195,Customer_76,Male,20,Chandigarh,1,Spice Hub,North Indian,4.4,Partner_45,Bike,Credit Card,15-05-2025,21:28:00,16,7.2,1395,100,30,1325,Delivered,4,Cloudy,Yes
+107,1266,Customer_107,Female,60,Hyderabad,5,Green Bowl,Healthy,4.2,Partner_25,Scooter,Credit Card,16-01-2025,04:42:00,44,13.8,1452,100,75,1427,Delivered,3,Cloudy,No
+108,1116,Customer_153,Female,31,Pune,4,Biryani House,Biryani,4.5,Partner_32,Scooter,Cash,23-05-2025,10:11:00,37,8.8,593,20,37,610,Cancelled,3,Rainy,Yes
+109,1075,Customer_149,Male,36,Pune,6,Tandoori Treat,Chinese,4.9,Partner_6,Scooter,Cash,12-04-2025,11:46:00,56,4.6,1312,100,77,1289,Delivered,2,Cloudy,No
+110,1123,Customer_125,Male,60,Pune,6,Tandoori Treat,Chinese,4.9,Partner_15,Cycle,Credit Card,07-06-2025,20:01:00,18,2.4,756,20,26,762,Delivered,4,Sunny,Yes
+111,1103,Customer_148,Female,36,Delhi,5,Green Bowl,Healthy,4.5,Partner_50,Bike,Net Banking,02-05-2025,16:17:00,51,4.3,523,100,61,484,Delivered,1,Sunny,No
+112,1005,Customer_153,Male,39,Mumbai,1,Spice Hub,North Indian,3.9,Partner_42,Cycle,Wallet,16-03-2025,01:16:00,46,13.4,1013,100,31,944,Delivered,5,Rainy,No
+113,1132,Customer_96,Male,39,Mumbai,1,Spice Hub,North Indian,4.7,Partner_37,Cycle,Credit Card,28-04-2025,22:07:00,26,9.6,877,20,66,923,Delivered,4,Rainy,No
+114,1128,Customer_4,Female,42,Delhi,4,Biryani House,Biryani,3.9,Partner_49,Scooter,Debit Card,03-05-2025,11:02:00,34,9.2,395,20,28,403,Delivered,3,Cloudy,No
+115,1208,Customer_258,Female,25,Chandigarh,2,Pizza Point,Italian,4.5,Partner_19,Scooter,Wallet,20-03-2025,05:27:00,29,4.1,327,0,49,376,Delivered,2,Rainy,No
+116,1112,Customer_127,Male,51,Hyderabad,6,Tandoori Treat,Chinese,4.2,Partner_46,Scooter,UPI,18-05-2025,22:40:00,51,2.6,1324,100,68,1292,Delivered,5,Sunny,Yes
+117,1299,Customer_251,Male,50,Mumbai,3,Burger Town,Fast Food,4.2,Partner_4,Scooter,Credit Card,24-06-2025,07:00:00,47,6.8,1265,100,27,1192,Delivered,5,Rainy,No
+118,1297,Customer_38,Male,45,Chandigarh,1,Spice Hub,North Indian,4,Partner_5,Cycle,UPI,01-01-2025,07:26:00,19,14.8,1010,50,72,1032,Delivered,3,Rainy,Yes
+119,1194,Customer_193,Male,60,Mumbai,6,Tandoori Treat,Chinese,4.8,Partner_9,Cycle,Debit Card,08-04-2025,15:18:00,22,3.5,1060,50,77,1087,Delivered,5,Sunny,Yes
+120,1273,Customer_195,Male,33,Delhi,1,Spice Hub,North Indian,4.2,Partner_10,Scooter,Credit Card,20-05-2025,14:28:00,22,1.5,811,100,63,774,Delivered,5,Sunny,Yes
+121,1025,Customer_126,Male,43,Mumbai,1,Spice Hub,North Indian,4.2,Partner_35,Bike,UPI,25-04-2025,20:24:00,23,8.1,406,150,22,278,Delivered,5,Rainy,No
+122,1141,Customer_32,Male,58,Mumbai,3,Burger Town,Fast Food,4.5,Partner_36,Scooter,UPI,16-04-2025,10:15:00,37,14.2,493,150,34,377,Delivered,5,Rainy,No
+123,1124,Customer_116,Female,27,Hyderabad,2,Pizza Point,Italian,4.7,Partner_4,Cycle,Cash,18-05-2025,16:09:00,41,8.8,814,100,31,745,Delivered,2,Rainy,Yes
+124,1275,Customer_98,Male,35,Bengaluru,6,Tandoori Treat,Chinese,4.1,Partner_39,Cycle,UPI,05-04-2025,03:09:00,19,3.6,361,100,74,335,Delivered,5,Sunny,No
+125,1246,Customer_125,Male,43,Mumbai,3,Burger Town,Fast Food,4.9,Partner_36,Scooter,Debit Card,18-02-2025,04:00:00,39,7.5,820,0,33,853,Delivered,3,Rainy,No
+126,1105,Customer_190,Female,44,Pune,4,Biryani House,Biryani,3.6,Partner_15,Cycle,Credit Card,01-05-2025,10:55:00,16,4.7,1154,0,71,1225,Cancelled,5,Cloudy,No
+127,1126,Customer_256,Female,34,Bengaluru,2,Pizza Point,Italian,4.6,Partner_32,Cycle,Net Banking,08-04-2025,19:26:00,46,7.5,601,50,34,585,Delivered,3,Sunny,Yes
+128,1031,Customer_269,Male,22,Chandigarh,5,Green Bowl,Healthy,4.9,Partner_43,Bike,UPI,19-05-2025,21:54:00,41,2.9,1200,20,78,1258,Delivered,1,Cloudy,Yes
+129,1248,Customer_250,Male,18,Delhi,2,Pizza Point,Italian,4.3,Partner_27,Bike,UPI,16-01-2025,21:05:00,48,11.1,1235,100,43,1178,Delivered,3,Sunny,No
+130,1270,Customer_130,Female,35,Mumbai,1,Spice Hub,North Indian,4.7,Partner_6,Scooter,Cash,03-03-2025,06:33:00,44,8.9,397,150,29,276,Cancelled,2,Rainy,Yes
+131,1283,Customer_244,Male,58,Chandigarh,6,Tandoori Treat,Chinese,3.5,Partner_11,Bike,Cash,08-04-2025,12:52:00,42,10,264,0,45,309,Delivered,1,Cloudy,Yes
+132,1144,Customer_279,Male,29,Mumbai,2,Pizza Point,Italian,4.9,Partner_21,Bike,Credit Card,12-01-2025,02:32:00,52,3,1360,100,37,1297,Delivered,4,Sunny,No
+133,1277,Customer_170,Female,26,Mumbai,5,Green Bowl,Healthy,4.7,Partner_45,Cycle,UPI,10-04-2025,23:06:00,47,11.4,692,150,73,615,Delivered,1,Rainy,Yes
+134,1016,Customer_140,Female,49,Delhi,3,Burger Town,Fast Food,3.8,Partner_36,Scooter,Cash,12-04-2025,11:08:00,26,10.5,1439,150,58,1347,Delivered,1,Cloudy,No
+135,1079,Customer_200,Female,41,Mumbai,6,Tandoori Treat,Chinese,3.7,Partner_1,Scooter,Cash,09-02-2025,12:58:00,38,11.7,350,0,37,387,Delivered,1,Sunny,No
+136,1046,Customer_182,Male,56,Hyderabad,5,Green Bowl,Healthy,4.4,Partner_21,Scooter,UPI,27-01-2025,00:53:00,33,6.8,1336,150,46,1232,Delivered,5,Sunny,Yes
+137,1253,Customer_75,Male,28,Chandigarh,4,Biryani House,Biryani,4.2,Partner_27,Scooter,Cash,19-03-2025,09:09:00,19,6.1,547,20,37,564,Cancelled,4,Cloudy,Yes
+138,1195,Customer_169,Female,39,Hyderabad,1,Spice Hub,North Indian,4.1,Partner_42,Cycle,Credit Card,12-04-2025,11:20:00,34,5.5,477,50,20,447,Cancelled,2,Rainy,No
+139,1252,Customer_295,Male,38,Mumbai,4,Biryani House,Biryani,4.1,Partner_26,Scooter,UPI,27-06-2025,21:36:00,51,3.8,853,50,67,870,Cancelled,2,Cloudy,Yes
+140,1036,Customer_210,Female,26,Chandigarh,4,Biryani House,Biryani,4.5,Partner_16,Scooter,Net Banking,16-03-2025,23:38:00,24,11,629,100,71,600,Delivered,1,Rainy,No
+141,1279,Customer_19,Female,52,Pune,4,Biryani House,Biryani,4.4,Partner_6,Bike,Credit Card,27-06-2025,14:16:00,57,10.3,1294,150,79,1223,Delivered,5,Sunny,No
+142,1262,Customer_266,Male,46,Bengaluru,4,Biryani House,Biryani,4.1,Partner_30,Cycle,Wallet,08-03-2025,07:34:00,59,8,416,0,26,442,Delivered,1,Rainy,Yes
+143,1160,Customer_176,Female,31,Bengaluru,4,Biryani House,Biryani,4.3,Partner_23,Scooter,UPI,06-02-2025,11:53:00,43,11.1,375,0,73,448,Delivered,1,Rainy,Yes
+144,1085,Customer_125,Male,53,Chandigarh,1,Spice Hub,North Indian,3.7,Partner_36,Scooter,Cash,28-01-2025,23:06:00,29,12.2,246,50,61,257,Delivered,2,Cloudy,No
+145,1200,Customer_3,Male,31,Hyderabad,1,Spice Hub,North Indian,3.9,Partner_46,Bike,Wallet,01-06-2025,14:39:00,21,12.2,1457,20,48,1485,Delivered,3,Rainy,Yes
+146,1199,Customer_201,Male,40,Hyderabad,1,Spice Hub,North Indian,4,Partner_30,Cycle,Credit Card,13-06-2025,10:41:00,58,10.9,737,100,53,690,Delivered,5,Cloudy,Yes
+147,1094,Customer_192,Male,50,Chandigarh,2,Pizza Point,Italian,4.1,Partner_39,Bike,Wallet,20-03-2025,03:59:00,39,6.9,841,0,35,876,Delivered,5,Cloudy,Yes
+148,1231,Customer_28,Female,18,Pune,2,Pizza Point,Italian,4.2,Partner_13,Scooter,Wallet,17-02-2025,10:44:00,47,10.1,1202,50,28,1180,Delivered,4,Rainy,No
+149,1017,Customer_141,Male,52,Hyderabad,2,Pizza Point,Italian,3.9,Partner_50,Scooter,Wallet,26-02-2025,09:58:00,46,8.7,369,150,21,240,Delivered,1,Rainy,No
+150,1127,Customer_153,Male,46,Pune,1,Spice Hub,North Indian,3.9,Partner_6,Scooter,UPI,19-04-2025,03:29:00,30,3.9,1103,150,33,986,Delivered,3,Cloudy,No
+151,1292,Customer_180,Female,56,Mumbai,5,Green Bowl,Healthy,4.3,Partner_21,Cycle,Debit Card,22-02-2025,02:01:00,33,9,485,20,72,537,Cancelled,5,Cloudy,Yes
+152,1068,Customer_128,Male,38,Mumbai,4,Biryani House,Biryani,4.7,Partner_49,Cycle,Cash,17-06-2025,04:19:00,46,3,321,50,75,346,Delivered,4,Rainy,No
+153,1189,Customer_233,Female,38,Delhi,6,Tandoori Treat,Chinese,4.4,Partner_50,Cycle,UPI,13-03-2025,23:42:00,44,9.9,390,100,52,342,Delivered,1,Cloudy,No
+154,1173,Customer_281,Male,54,Mumbai,4,Biryani House,Biryani,4.8,Partner_22,Cycle,UPI,24-03-2025,09:40:00,17,2.4,633,100,37,570,Delivered,4,Sunny,Yes
+155,1068,Customer_155,Male,35,Mumbai,4,Biryani House,Biryani,3.6,Partner_24,Scooter,UPI,21-02-2025,23:30:00,38,10.3,1134,0,47,1181,Delivered,1,Rainy,No
+156,1001,Customer_110,Female,22,Chandigarh,6,Tandoori Treat,Chinese,3.7,Partner_15,Cycle,Net Banking,24-01-2025,03:14:00,43,1.1,679,100,61,640,Delivered,1,Rainy,Yes
+157,1161,Customer_189,Female,26,Hyderabad,1,Spice Hub,North Indian,4.1,Partner_49,Bike,Net Banking,27-01-2025,03:31:00,58,3,668,100,25,593,Delivered,1,Cloudy,Yes
+158,1227,Customer_112,Male,24,Hyderabad,3,Burger Town,Fast Food,3.7,Partner_8,Cycle,Net Banking,16-04-2025,21:01:00,39,5.9,636,20,78,694,Delivered,2,Sunny,No
+159,1146,Customer_14,Female,31,Chandigarh,1,Spice Hub,North Indian,4.3,Partner_33,Bike,Net Banking,03-06-2025,20:44:00,40,5.1,708,150,58,616,Delivered,2,Rainy,No
+160,1185,Customer_163,Male,42,Delhi,2,Pizza Point,Italian,4.8,Partner_37,Scooter,Debit Card,16-05-2025,00:24:00,49,10.6,1223,150,24,1097,Delivered,1,Sunny,Yes
+161,1260,Customer_147,Female,45,Delhi,3,Burger Town,Fast Food,4.6,Partner_6,Cycle,Wallet,16-01-2025,13:35:00,49,9.6,641,0,79,720,Delivered,3,Sunny,Yes
+162,1034,Customer_159,Female,33,Mumbai,5,Green Bowl,Healthy,3.6,Partner_6,Scooter,UPI,12-06-2025,22:10:00,44,9.6,869,100,57,826,Delivered,2,Sunny,Yes
+163,1265,Customer_133,Male,41,Chandigarh,2,Pizza Point,Italian,3.7,Partner_50,Scooter,Net Banking,30-03-2025,17:51:00,22,11.8,223,20,51,254,Delivered,4,Rainy,Yes
+164,1185,Customer_29,Female,54,Bengaluru,6,Tandoori Treat,Chinese,3.8,Partner_11,Scooter,UPI,27-04-2025,17:26:00,51,10.4,1380,0,51,1431,Delivered,5,Sunny,Yes
+165,1092,Customer_19,Female,32,Delhi,2,Pizza Point,Italian,4,Partner_27,Cycle,Debit Card,09-04-2025,05:07:00,32,12.6,294,100,43,237,Delivered,1,Cloudy,Yes
+166,1145,Customer_160,Female,23,Mumbai,2,Pizza Point,Italian,4.3,Partner_1,Scooter,Credit Card,18-01-2025,15:52:00,33,8.9,1256,0,45,1301,Delivered,5,Sunny,No
+167,1078,Customer_4,Female,19,Bengaluru,5,Green Bowl,Healthy,3.8,Partner_23,Cycle,Net Banking,20-05-2025,08:22:00,15,14.3,1210,20,66,1256,Delivered,4,Cloudy,No
+168,1073,Customer_144,Male,20,Delhi,2,Pizza Point,Italian,4.9,Partner_34,Scooter,Net Banking,06-05-2025,02:02:00,38,7.4,1285,20,46,1311,Delivered,5,Sunny,Yes
+169,1067,Customer_122,Female,34,Chandigarh,4,Biryani House,Biryani,4.8,Partner_26,Cycle,Net Banking,16-01-2025,14:50:00,35,5.5,353,150,56,259,Delivered,1,Sunny,Yes
+170,1161,Customer_209,Male,52,Pune,1,Spice Hub,North Indian,4,Partner_50,Bike,Cash,26-04-2025,15:54:00,34,7.5,518,0,30,548,Delivered,1,Sunny,No
+171,1047,Customer_128,Female,43,Chandigarh,6,Tandoori Treat,Chinese,4.3,Partner_44,Scooter,Debit Card,25-03-2025,05:03:00,26,1.4,1435,0,33,1468,Delivered,4,Cloudy,Yes
+172,1114,Customer_67,Male,43,Delhi,4,Biryani House,Biryani,4.1,Partner_41,Cycle,UPI,04-01-2025,02:06:00,52,9.2,408,20,27,415,Delivered,1,Sunny,Yes
+173,1022,Customer_237,Male,28,Mumbai,6,Tandoori Treat,Chinese,4.9,Partner_28,Cycle,Cash,26-03-2025,04:10:00,46,1.4,1108,20,25,1113,Delivered,2,Rainy,Yes
+174,1126,Customer_152,Female,44,Mumbai,3,Burger Town,Fast Food,4.8,Partner_31,Bike,UPI,08-02-2025,01:10:00,32,6.4,773,100,76,749,Delivered,5,Sunny,Yes
+175,1290,Customer_258,Female,42,Hyderabad,6,Tandoori Treat,Chinese,3.9,Partner_2,Scooter,Wallet,05-05-2025,11:44:00,29,1.4,935,100,54,889,Delivered,3,Sunny,No
+176,1124,Customer_137,Male,32,Pune,3,Burger Town,Fast Food,4.4,Partner_25,Scooter,Credit Card,26-01-2025,08:27:00,26,4.3,1396,20,30,1406,Delivered,3,Cloudy,Yes
+177,1097,Customer_253,Female,29,Chandigarh,6,Tandoori Treat,Chinese,4.2,Partner_6,Bike,Credit Card,06-02-2025,19:13:00,53,4.1,920,150,56,826,Delivered,1,Rainy,Yes
+178,1073,Customer_57,Female,22,Mumbai,3,Burger Town,Fast Food,4.1,Partner_43,Scooter,Wallet,06-01-2025,05:02:00,21,5.7,563,50,23,536,Delivered,2,Cloudy,No
+179,1183,Customer_115,Male,42,Chandigarh,4,Biryani House,Biryani,4,Partner_45,Scooter,Credit Card,24-05-2025,23:40:00,26,11.2,849,20,65,894,Cancelled,5,Rainy,Yes
+180,1054,Customer_255,Male,39,Mumbai,5,Green Bowl,Healthy,4.6,Partner_16,Scooter,Debit Card,13-06-2025,19:18:00,25,9.9,851,150,34,735,Cancelled,3,Rainy,Yes
+181,1001,Customer_25,Female,46,Bengaluru,2,Pizza Point,Italian,4.6,Partner_11,Scooter,Cash,07-03-2025,03:41:00,39,5.9,711,0,42,753,Delivered,4,Cloudy,Yes
+182,1134,Customer_54,Male,39,Mumbai,4,Biryani House,Biryani,3.8,Partner_25,Bike,Net Banking,06-01-2025,10:52:00,19,8.7,350,0,38,388,Delivered,1,Rainy,No
+183,1028,Customer_52,Female,31,Chandigarh,1,Spice Hub,North Indian,5,Partner_27,Cycle,Wallet,22-04-2025,05:21:00,49,4.7,1083,20,58,1121,Delivered,2,Sunny,Yes
+184,1002,Customer_219,Male,36,Hyderabad,5,Green Bowl,Healthy,4.7,Partner_41,Cycle,Cash,14-01-2025,12:18:00,27,2.4,1325,100,29,1254,Delivered,3,Sunny,No
+185,1047,Customer_279,Female,29,Delhi,3,Burger Town,Fast Food,4.1,Partner_25,Scooter,Credit Card,19-06-2025,09:02:00,43,1.6,1014,100,51,965,Delivered,3,Sunny,No
+186,1278,Customer_212,Male,53,Pune,1,Spice Hub,North Indian,3.6,Partner_25,Cycle,Cash,21-06-2025,11:44:00,49,10.6,509,0,25,534,Cancelled,5,Sunny,No
+187,1293,Customer_76,Male,46,Bengaluru,1,Spice Hub,North Indian,3.8,Partner_11,Bike,Credit Card,27-05-2025,17:38:00,23,1.6,1008,0,52,1060,Delivered,4,Sunny,Yes
+188,1204,Customer_283,Female,35,Pune,3,Burger Town,Fast Food,4.3,Partner_1,Cycle,Wallet,10-04-2025,18:59:00,52,8.3,854,0,25,879,Delivered,4,Sunny,Yes
+189,1052,Customer_147,Female,44,Pune,5,Green Bowl,Healthy,3.9,Partner_42,Scooter,Wallet,28-01-2025,19:12:00,53,7.6,1393,0,79,1472,Delivered,4,Sunny,No
+190,1191,Customer_11,Female,37,Delhi,4,Biryani House,Biryani,4,Partner_32,Cycle,Net Banking,02-05-2025,09:10:00,21,14.6,878,20,23,881,Delivered,3,Cloudy,No
+191,1227,Customer_109,Female,49,Bengaluru,3,Burger Town,Fast Food,4.6,Partner_24,Bike,Wallet,23-01-2025,06:24:00,25,1.9,1053,150,61,964,Delivered,4,Sunny,Yes
+192,1026,Customer_185,Male,35,Mumbai,2,Pizza Point,Italian,4.1,Partner_30,Cycle,Cash,09-01-2025,15:34:00,55,13.9,611,0,35,646,Delivered,2,Rainy,No
+193,1177,Customer_84,Female,23,Pune,4,Biryani House,Biryani,3.9,Partner_25,Bike,Credit Card,22-05-2025,11:56:00,51,11.9,563,100,57,520,Delivered,2,Cloudy,Yes
+194,1005,Customer_243,Male,59,Chandigarh,2,Pizza Point,Italian,3.8,Partner_1,Bike,Debit Card,06-01-2025,23:17:00,53,12.3,751,100,52,703,Delivered,3,Rainy,No
+195,1267,Customer_204,Male,18,Bengaluru,4,Biryani House,Biryani,4.3,Partner_43,Scooter,Wallet,19-03-2025,23:06:00,56,9.3,716,20,49,745,Delivered,1,Rainy,Yes
+196,1153,Customer_97,Male,51,Bengaluru,3,Burger Town,Fast Food,4.6,Partner_4,Cycle,Cash,17-06-2025,22:14:00,57,5.5,865,50,36,851,Delivered,1,Cloudy,No
+197,1293,Customer_98,Female,32,Bengaluru,3,Burger Town,Fast Food,4.5,Partner_41,Scooter,Net Banking,10-01-2025,19:54:00,37,8.1,1057,100,44,1001,Delivered,5,Sunny,No
+198,1172,Customer_46,Male,40,Delhi,4,Biryani House,Biryani,3.8,Partner_20,Scooter,Debit Card,24-05-2025,06:14:00,38,4.6,462,50,66,478,Delivered,1,Rainy,Yes
+199,1257,Customer_62,Female,51,Chandigarh,5,Green Bowl,Healthy,3.9,Partner_4,Bike,Credit Card,01-05-2025,06:38:00,27,5.8,1388,150,24,1262,Cancelled,4,Sunny,No
+200,1161,Customer_30,Male,46,Chandigarh,2,Pizza Point,Italian,3.9,Partner_49,Bike,Wallet,11-06-2025,06:02:00,25,7.9,365,100,41,306,Delivered,1,Sunny,No
+201,1020,Customer_274,Male,41,Chandigarh,4,Biryani House,Biryani,4.9,Partner_21,Cycle,Credit Card,09-04-2025,00:09:00,16,10.5,1026,100,50,976,Delivered,2,Sunny,No
+202,1086,Customer_34,Male,37,Bengaluru,2,Pizza Point,Italian,4.9,Partner_30,Cycle,Wallet,31-05-2025,10:26:00,53,8.3,410,100,52,362,Delivered,2,Rainy,No
+203,1068,Customer_109,Male,55,Bengaluru,2,Pizza Point,Italian,4.3,Partner_8,Scooter,Net Banking,28-02-2025,07:39:00,56,12.1,537,100,21,458,Delivered,3,Cloudy,Yes
+204,1214,Customer_228,Female,25,Pune,1,Spice Hub,North Indian,4.3,Partner_31,Cycle,Credit Card,26-06-2025,03:57:00,28,10.7,421,0,23,444,Delivered,3,Rainy,Yes
+205,1215,Customer_54,Male,36,Chandigarh,5,Green Bowl,Healthy,3.7,Partner_7,Scooter,Credit Card,29-06-2025,04:40:00,53,3.8,752,150,58,660,Delivered,5,Sunny,No
+206,1107,Customer_247,Female,33,Chandigarh,4,Biryani House,Biryani,3.5,Partner_43,Bike,UPI,21-05-2025,16:56:00,51,10.4,804,20,22,806,Delivered,1,Cloudy,Yes
+207,1152,Customer_136,Female,21,Chandigarh,6,Tandoori Treat,Chinese,3.6,Partner_12,Bike,Debit Card,01-03-2025,15:35:00,38,12.2,407,50,61,418,Delivered,1,Sunny,Yes
+208,1138,Customer_48,Female,39,Delhi,2,Pizza Point,Italian,3.8,Partner_26,Scooter,Cash,23-04-2025,21:13:00,32,12.7,549,50,42,541,Delivered,4,Rainy,Yes
+209,1248,Customer_292,Female,29,Delhi,2,Pizza Point,Italian,4.4,Partner_50,Scooter,Wallet,17-04-2025,20:09:00,16,13.1,320,20,26,326,Delivered,2,Rainy,No
+210,1161,Customer_7,Male,60,Delhi,4,Biryani House,Biryani,4.8,Partner_34,Cycle,Net Banking,08-03-2025,22:21:00,59,9.7,1102,0,24,1126,Delivered,2,Rainy,No
+211,1028,Customer_6,Male,50,Chandigarh,6,Tandoori Treat,Chinese,4.8,Partner_32,Bike,UPI,23-05-2025,20:55:00,46,5.5,988,20,73,1041,Delivered,3,Sunny,Yes
+212,1236,Customer_228,Female,23,Pune,6,Tandoori Treat,Chinese,4.8,Partner_29,Scooter,UPI,02-03-2025,02:41:00,46,11.4,975,100,72,947,Delivered,4,Rainy,Yes
+213,1156,Customer_261,Male,59,Pune,5,Green Bowl,Healthy,4.5,Partner_22,Scooter,UPI,04-06-2025,21:07:00,29,12.8,200,0,70,270,Delivered,5,Cloudy,No
+214,1114,Customer_2,Female,40,Chandigarh,6,Tandoori Treat,Chinese,4.7,Partner_19,Cycle,Wallet,25-01-2025,22:29:00,38,10.8,944,100,27,871,Delivered,2,Rainy,Yes
+215,1097,Customer_62,Female,31,Chandigarh,6,Tandoori Treat,Chinese,4.2,Partner_13,Cycle,Debit Card,06-06-2025,06:41:00,21,11.6,1038,0,36,1074,Delivered,5,Sunny,No
+216,1272,Customer_25,Female,55,Hyderabad,6,Tandoori Treat,Chinese,4.2,Partner_33,Bike,Net Banking,08-05-2025,00:08:00,52,3.4,1406,150,28,1284,Delivered,1,Rainy,No
+217,1141,Customer_204,Female,36,Pune,4,Biryani House,Biryani,4.2,Partner_9,Bike,Cash,27-06-2025,08:28:00,53,10.8,1057,150,78,985,Delivered,3,Cloudy,No
+218,1149,Customer_177,Male,59,Chandigarh,6,Tandoori Treat,Chinese,5,Partner_12,Cycle,Wallet,23-02-2025,21:18:00,59,9.9,1333,20,32,1345,Delivered,3,Cloudy,No
+219,1268,Customer_55,Male,42,Pune,5,Green Bowl,Healthy,3.7,Partner_43,Bike,Credit Card,19-04-2025,00:26:00,32,11.5,1054,150,38,942,Delivered,3,Cloudy,No
+220,1184,Customer_232,Male,57,Mumbai,1,Spice Hub,North Indian,4.8,Partner_48,Cycle,Credit Card,19-05-2025,01:06:00,56,8.9,804,20,68,852,Delivered,3,Cloudy,Yes
+221,1129,Customer_104,Female,32,Hyderabad,4,Biryani House,Biryani,4.9,Partner_46,Cycle,Net Banking,14-01-2025,00:26:00,38,11.6,1053,50,55,1058,Delivered,5,Sunny,Yes
+222,1062,Customer_194,Male,45,Bengaluru,4,Biryani House,Biryani,3.9,Partner_17,Bike,Credit Card,14-02-2025,17:32:00,52,12.8,563,0,31,594,Delivered,4,Cloudy,Yes
+223,1155,Customer_252,Female,22,Delhi,2,Pizza Point,Italian,4.7,Partner_21,Cycle,Credit Card,10-06-2025,21:00:00,26,8.3,860,150,23,733,Delivered,2,Rainy,No
+224,1185,Customer_151,Male,57,Delhi,3,Burger Town,Fast Food,4.3,Partner_36,Cycle,UPI,26-03-2025,11:18:00,22,10.4,653,20,62,695,Delivered,5,Cloudy,Yes
+225,1132,Customer_277,Female,19,Delhi,6,Tandoori Treat,Chinese,4.9,Partner_50,Scooter,Wallet,30-01-2025,13:10:00,47,7.2,857,100,78,835,Delivered,2,Rainy,Yes
+226,1108,Customer_110,Female,24,Delhi,2,Pizza Point,Italian,3.8,Partner_45,Cycle,Cash,10-06-2025,02:14:00,56,12.4,1301,150,20,1171,Delivered,2,Sunny,No
+227,1129,Customer_286,Male,54,Chandigarh,3,Burger Town,Fast Food,4.7,Partner_17,Scooter,Cash,14-01-2025,06:04:00,43,9.8,277,0,24,301,Delivered,1,Rainy,Yes
+228,1038,Customer_184,Male,36,Pune,1,Spice Hub,North Indian,4.7,Partner_20,Cycle,UPI,30-05-2025,01:33:00,33,11.7,1466,0,68,1534,Delivered,4,Cloudy,Yes
+229,1152,Customer_74,Female,59,Hyderabad,2,Pizza Point,Italian,4.1,Partner_1,Cycle,Wallet,11-04-2025,18:37:00,24,2.7,1292,20,28,1300,Delivered,5,Rainy,Yes
+230,1073,Customer_83,Male,32,Bengaluru,2,Pizza Point,Italian,4.4,Partner_17,Bike,UPI,15-06-2025,17:29:00,26,10.4,904,20,46,930,Delivered,1,Cloudy,No
+231,1051,Customer_102,Female,39,Chandigarh,5,Green Bowl,Healthy,4,Partner_43,Cycle,Credit Card,18-01-2025,08:33:00,21,5,349,50,62,361,Delivered,2,Rainy,No
+232,1290,Customer_291,Female,38,Hyderabad,3,Burger Town,Fast Food,4.9,Partner_11,Bike,Debit Card,30-05-2025,05:12:00,30,12,1462,50,64,1476,Delivered,4,Rainy,No
+233,1157,Customer_250,Male,29,Mumbai,6,Tandoori Treat,Chinese,4.5,Partner_6,Scooter,Credit Card,25-04-2025,12:14:00,49,3.8,879,100,49,828,Delivered,1,Cloudy,Yes
+234,1208,Customer_109,Male,53,Delhi,5,Green Bowl,Healthy,3.9,Partner_35,Scooter,Net Banking,29-05-2025,19:45:00,24,6.1,1493,0,72,1565,Delivered,5,Cloudy,No
+235,1258,Customer_6,Male,57,Mumbai,4,Biryani House,Biryani,4.5,Partner_49,Cycle,Credit Card,12-04-2025,12:25:00,43,3.2,1226,150,25,1101,Delivered,5,Cloudy,Yes
+236,1119,Customer_33,Female,41,Chandigarh,6,Tandoori Treat,Chinese,3.9,Partner_43,Bike,Wallet,26-02-2025,16:38:00,38,6.4,1190,50,22,1162,Delivered,1,Sunny,No
+237,1279,Customer_292,Male,42,Delhi,6,Tandoori Treat,Chinese,4.5,Partner_24,Cycle,Net Banking,09-03-2025,19:45:00,19,8.2,1267,50,73,1290,Delivered,2,Cloudy,No
+238,1257,Customer_72,Female,28,Bengaluru,3,Burger Town,Fast Food,3.8,Partner_33,Cycle,Debit Card,04-06-2025,00:13:00,28,3.1,1197,100,76,1173,Delivered,5,Cloudy,Yes
+239,1246,Customer_246,Male,55,Chandigarh,2,Pizza Point,Italian,3.7,Partner_27,Bike,Credit Card,30-01-2025,16:26:00,17,2.8,1049,50,66,1065,Delivered,2,Cloudy,Yes
+240,1208,Customer_289,Male,60,Pune,2,Pizza Point,Italian,4.7,Partner_6,Bike,Cash,16-02-2025,17:38:00,53,14.9,314,20,36,330,Delivered,2,Sunny,No
+241,1136,Customer_86,Female,47,Pune,2,Pizza Point,Italian,4.4,Partner_5,Bike,Cash,18-06-2025,17:26:00,39,2.9,1393,20,59,1432,Delivered,5,Cloudy,No
+242,1020,Customer_273,Male,23,Mumbai,5,Green Bowl,Healthy,4.2,Partner_9,Cycle,Wallet,07-06-2025,20:28:00,15,13.6,397,20,50,427,Delivered,4,Cloudy,No
+243,1180,Customer_295,Male,45,Bengaluru,1,Spice Hub,North Indian,3.7,Partner_31,Bike,UPI,04-05-2025,13:00:00,33,9.4,1285,100,34,1219,Delivered,3,Sunny,Yes
+244,1004,Customer_193,Male,38,Chandigarh,6,Tandoori Treat,Chinese,4.1,Partner_7,Bike,Cash,31-01-2025,17:44:00,56,9.2,214,150,53,117,Delivered,5,Rainy,No
+245,1248,Customer_92,Female,53,Pune,3,Burger Town,Fast Food,4.3,Partner_17,Scooter,Wallet,22-05-2025,19:01:00,37,11.8,1013,20,46,1039,Delivered,2,Cloudy,Yes
+246,1206,Customer_174,Male,28,Chandigarh,2,Pizza Point,Italian,4.1,Partner_41,Bike,UPI,24-02-2025,17:21:00,24,7.6,1114,20,26,1120,Delivered,1,Sunny,No
+247,1267,Customer_147,Male,29,Mumbai,3,Burger Town,Fast Food,4.5,Partner_29,Bike,Credit Card,09-04-2025,13:40:00,57,14,363,150,22,235,Delivered,2,Sunny,Yes
+248,1081,Customer_45,Female,43,Pune,2,Pizza Point,Italian,4,Partner_26,Scooter,Wallet,17-06-2025,00:00:00,27,8.2,273,50,35,258,Delivered,1,Sunny,No
+249,1100,Customer_233,Female,54,Chandigarh,5,Green Bowl,Healthy,3.5,Partner_12,Scooter,Wallet,12-03-2025,07:43:00,21,8.8,1393,50,42,1385,Delivered,3,Sunny,No
+250,1125,Customer_174,Female,47,Pune,5,Green Bowl,Healthy,4.8,Partner_2,Scooter,UPI,25-05-2025,16:30:00,31,1.9,712,100,44,656,Delivered,2,Cloudy,Yes
+251,1135,Customer_128,Female,23,Bengaluru,4,Biryani House,Biryani,4.1,Partner_48,Scooter,UPI,03-01-2025,23:55:00,50,14,923,150,54,827,Delivered,3,Sunny,No
+252,1124,Customer_136,Male,32,Mumbai,6,Tandoori Treat,Chinese,3.8,Partner_16,Cycle,Debit Card,21-02-2025,08:00:00,24,11.9,589,100,67,556,Delivered,1,Cloudy,No
+253,1162,Customer_253,Female,49,Pune,1,Spice Hub,North Indian,3.8,Partner_49,Cycle,Debit Card,04-05-2025,12:40:00,40,4.1,1308,0,74,1382,Delivered,1,Cloudy,No
+254,1090,Customer_235,Male,51,Hyderabad,5,Green Bowl,Healthy,4.2,Partner_45,Bike,UPI,11-04-2025,23:25:00,58,4,266,150,42,158,Delivered,3,Rainy,No
+255,1176,Customer_188,Male,49,Mumbai,5,Green Bowl,Healthy,4.1,Partner_27,Cycle,Debit Card,01-05-2025,20:55:00,38,13,738,20,37,755,Delivered,2,Cloudy,Yes
+256,1285,Customer_222,Female,30,Pune,6,Tandoori Treat,Chinese,3.7,Partner_48,Bike,Cash,11-03-2025,08:02:00,15,3.5,668,0,66,734,Delivered,5,Cloudy,No
+257,1204,Customer_51,Male,21,Hyderabad,3,Burger Town,Fast Food,3.8,Partner_17,Scooter,Net Banking,26-05-2025,01:37:00,21,7.3,713,150,74,637,Delivered,3,Rainy,No
+258,1102,Customer_296,Male,36,Bengaluru,1,Spice Hub,North Indian,4,Partner_44,Cycle,Cash,23-06-2025,20:40:00,43,13.5,1043,0,42,1085,Delivered,3,Rainy,Yes
+259,1208,Customer_37,Male,28,Mumbai,6,Tandoori Treat,Chinese,4,Partner_21,Scooter,Net Banking,06-06-2025,19:30:00,33,10.9,890,100,60,850,Delivered,4,Rainy,No
+260,1095,Customer_12,Male,33,Bengaluru,6,Tandoori Treat,Chinese,4.5,Partner_48,Cycle,Net Banking,16-04-2025,05:42:00,20,3.9,1402,150,48,1300,Delivered,1,Sunny,No
+261,1135,Customer_80,Male,59,Pune,1,Spice Hub,North Indian,4.9,Partner_25,Scooter,Credit Card,22-01-2025,03:32:00,30,11.3,253,100,53,206,Delivered,2,Sunny,Yes
+262,1277,Customer_140,Female,26,Delhi,1,Spice Hub,North Indian,5,Partner_45,Cycle,Credit Card,02-05-2025,15:56:00,52,9.4,930,50,75,955,Delivered,5,Rainy,No
+263,1158,Customer_188,Female,34,Bengaluru,4,Biryani House,Biryani,3.7,Partner_1,Bike,Wallet,23-01-2025,15:04:00,23,5.8,1305,20,71,1356,Delivered,1,Cloudy,No
+264,1119,Customer_4,Female,30,Hyderabad,3,Burger Town,Fast Food,4.1,Partner_36,Scooter,Cash,16-03-2025,20:22:00,30,3.3,218,100,71,189,Delivered,4,Rainy,Yes
+265,1140,Customer_146,Female,44,Bengaluru,1,Spice Hub,North Indian,3.8,Partner_5,Bike,Credit Card,06-06-2025,23:41:00,33,2.5,1064,20,53,1097,Delivered,4,Rainy,No
+266,1096,Customer_53,Female,35,Mumbai,3,Burger Town,Fast Food,3.7,Partner_29,Cycle,UPI,17-05-2025,00:45:00,29,2.3,239,20,23,242,Delivered,2,Rainy,No
+267,1042,Customer_75,Male,35,Bengaluru,4,Biryani House,Biryani,4.7,Partner_5,Cycle,Cash,09-01-2025,11:16:00,26,3.7,960,100,64,924,Delivered,4,Sunny,Yes
+268,1236,Customer_49,Male,48,Chandigarh,2,Pizza Point,Italian,4.1,Partner_20,Scooter,Credit Card,09-01-2025,06:47:00,55,11.2,988,100,35,923,Delivered,5,Cloudy,Yes
+269,1112,Customer_58,Male,58,Bengaluru,4,Biryani House,Biryani,4.2,Partner_1,Bike,Debit Card,14-01-2025,22:45:00,52,2.7,811,20,43,834,Delivered,1,Sunny,No
+270,1081,Customer_256,Male,57,Chandigarh,5,Green Bowl,Healthy,4,Partner_49,Cycle,UPI,23-01-2025,08:29:00,18,6,517,50,69,536,Delivered,5,Sunny,Yes
+271,1225,Customer_99,Male,42,Hyderabad,2,Pizza Point,Italian,4,Partner_9,Scooter,UPI,15-06-2025,11:51:00,46,10.9,848,150,70,768,Delivered,5,Cloudy,No
+272,1141,Customer_284,Male,22,Mumbai,5,Green Bowl,Healthy,4.3,Partner_29,Scooter,Debit Card,24-03-2025,15:59:00,49,6.1,582,150,42,474,Delivered,5,Rainy,Yes
+273,1276,Customer_199,Male,51,Delhi,5,Green Bowl,Healthy,4.5,Partner_50,Cycle,Credit Card,24-03-2025,02:09:00,54,5,945,150,35,830,Delivered,3,Sunny,Yes
+274,1017,Customer_104,Male,49,Pune,6,Tandoori Treat,Chinese,3.8,Partner_3,Cycle,Net Banking,03-02-2025,06:05:00,39,10.2,336,0,73,409,Delivered,5,Rainy,Yes
+275,1252,Customer_41,Female,58,Bengaluru,2,Pizza Point,Italian,3.6,Partner_36,Cycle,Cash,23-02-2025,22:22:00,38,12.1,1440,0,20,1460,Delivered,5,Rainy,Yes
+276,1050,Customer_52,Male,52,Chandigarh,1,Spice Hub,North Indian,4.1,Partner_13,Cycle,Net Banking,25-02-2025,17:43:00,30,9,822,0,80,902,Cancelled,5,Cloudy,No
+277,1219,Customer_54,Male,29,Chandigarh,1,Spice Hub,North Indian,4.3,Partner_33,Scooter,Net Banking,28-04-2025,23:58:00,25,8.5,1380,50,63,1393,Delivered,3,Rainy,No
+278,1124,Customer_289,Male,42,Bengaluru,4,Biryani House,Biryani,4.6,Partner_48,Scooter,Debit Card,24-03-2025,20:46:00,43,7.3,1496,100,72,1468,Delivered,1,Rainy,Yes
+279,1162,Customer_12,Female,53,Pune,2,Pizza Point,Italian,4.3,Partner_37,Cycle,Credit Card,26-02-2025,07:19:00,21,1.5,818,0,39,857,Delivered,2,Rainy,No
+280,1293,Customer_205,Male,22,Pune,2,Pizza Point,Italian,4.6,Partner_31,Bike,Cash,18-03-2025,03:08:00,59,10.8,677,50,71,698,Delivered,1,Cloudy,No
+281,1179,Customer_223,Female,25,Delhi,6,Tandoori Treat,Chinese,4.8,Partner_15,Cycle,Net Banking,15-01-2025,11:24:00,53,14,1380,100,25,1305,Delivered,4,Sunny,No
+282,1258,Customer_114,Male,21,Pune,1,Spice Hub,North Indian,4.5,Partner_26,Scooter,Wallet,08-02-2025,11:09:00,51,8.1,853,150,56,759,Delivered,3,Rainy,Yes
+283,1205,Customer_135,Male,43,Mumbai,3,Burger Town,Fast Food,4.3,Partner_50,Cycle,Credit Card,13-01-2025,18:42:00,23,7.7,369,100,56,325,Delivered,4,Cloudy,Yes
+284,1221,Customer_166,Male,25,Pune,5,Green Bowl,Healthy,4.5,Partner_28,Scooter,Debit Card,19-01-2025,09:05:00,27,5.5,1273,20,35,1288,Delivered,1,Rainy,Yes
+285,1120,Customer_103,Female,27,Bengaluru,5,Green Bowl,Healthy,4.6,Partner_6,Bike,Net Banking,23-04-2025,01:31:00,18,4.4,1105,150,29,984,Delivered,2,Rainy,Yes
+286,1170,Customer_108,Male,31,Bengaluru,6,Tandoori Treat,Chinese,4.3,Partner_49,Scooter,Wallet,01-05-2025,00:46:00,45,9.7,427,50,48,425,Cancelled,1,Rainy,Yes
+287,1139,Customer_28,Female,59,Bengaluru,2,Pizza Point,Italian,4.9,Partner_5,Scooter,Net Banking,28-06-2025,21:05:00,32,10.3,323,50,32,305,Delivered,3,Sunny,Yes
+288,1162,Customer_249,Male,29,Bengaluru,6,Tandoori Treat,Chinese,3.8,Partner_30,Cycle,Net Banking,11-05-2025,03:23:00,16,1.6,991,20,44,1015,Cancelled,3,Rainy,No
+289,1182,Customer_155,Male,50,Hyderabad,6,Tandoori Treat,Chinese,3.9,Partner_4,Cycle,Debit Card,25-06-2025,12:00:00,39,13.5,521,0,42,563,Delivered,1,Cloudy,No
+290,1196,Customer_267,Male,44,Mumbai,2,Pizza Point,Italian,3.9,Partner_10,Scooter,Debit Card,05-02-2025,02:59:00,53,5.6,899,100,62,861,Delivered,2,Cloudy,Yes
+291,1070,Customer_221,Male,59,Pune,5,Green Bowl,Healthy,4.9,Partner_11,Scooter,UPI,26-06-2025,17:52:00,50,8.5,614,20,39,633,Delivered,2,Rainy,Yes
+292,1141,Customer_78,Male,24,Chandigarh,1,Spice Hub,North Indian,3.7,Partner_2,Cycle,Wallet,19-03-2025,15:07:00,32,9.5,852,100,46,798,Delivered,5,Sunny,Yes
+293,1258,Customer_241,Female,29,Chandigarh,1,Spice Hub,North Indian,4.8,Partner_32,Scooter,Credit Card,03-05-2025,04:34:00,25,3.7,935,0,64,999,Delivered,1,Rainy,No
+294,1251,Customer_167,Female,33,Mumbai,6,Tandoori Treat,Chinese,4.1,Partner_50,Bike,Wallet,15-02-2025,14:59:00,39,11.1,615,20,24,619,Delivered,5,Cloudy,Yes
+295,1266,Customer_276,Female,20,Pune,1,Spice Hub,North Indian,4.3,Partner_34,Cycle,UPI,11-01-2025,08:23:00,27,5.1,1124,100,72,1096,Delivered,3,Rainy,No
+296,1265,Customer_73,Female,59,Mumbai,4,Biryani House,Biryani,4.2,Partner_47,Cycle,UPI,14-01-2025,23:33:00,26,11.9,802,150,78,730,Cancelled,5,Sunny,No
+297,1104,Customer_233,Male,34,Hyderabad,3,Burger Town,Fast Food,4,Partner_42,Cycle,Credit Card,27-04-2025,20:08:00,60,11.3,1123,0,31,1154,Delivered,4,Cloudy,No
+298,1282,Customer_195,Male,28,Delhi,5,Green Bowl,Healthy,4.9,Partner_37,Cycle,Credit Card,10-02-2025,12:55:00,25,13.2,986,150,59,895,Delivered,1,Rainy,No
+299,1068,Customer_104,Male,57,Bengaluru,6,Tandoori Treat,Chinese,4.6,Partner_1,Scooter,Cash,16-02-2025,04:00:00,46,8.6,1113,50,60,1123,Delivered,4,Sunny,Yes
+300,1004,Customer_126,Female,57,Pune,6,Tandoori Treat,Chinese,4.4,Partner_14,Bike,Credit Card,24-04-2025,02:42:00,24,1.8,1174,100,46,1120,Delivered,2,Sunny,No
+301,1146,Customer_294,Male,47,Bengaluru,1,Spice Hub,North Indian,4.6,Partner_24,Bike,UPI,15-02-2025,05:30:00,34,5.5,300,0,46,346,Delivered,1,Rainy,Yes
+302,1270,Customer_212,Male,31,Bengaluru,4,Biryani House,Biryani,4.4,Partner_7,Cycle,Net Banking,12-03-2025,11:14:00,55,8.4,475,0,64,539,Delivered,5,Cloudy,No
+303,1182,Customer_67,Female,51,Hyderabad,5,Green Bowl,Healthy,4.6,Partner_32,Scooter,Credit Card,28-05-2025,21:16:00,54,4.3,848,50,53,851,Delivered,2,Sunny,Yes
+304,1213,Customer_212,Male,39,Delhi,4,Biryani House,Biryani,4,Partner_41,Bike,UPI,23-02-2025,21:00:00,55,3.8,1480,0,67,1547,Delivered,1,Rainy,No
+305,1175,Customer_203,Male,29,Pune,5,Green Bowl,Healthy,3.8,Partner_22,Cycle,Cash,25-06-2025,11:22:00,45,12.2,863,0,27,890,Delivered,4,Sunny,No
+306,1154,Customer_290,Female,53,Pune,3,Burger Town,Fast Food,4.3,Partner_14,Cycle,Net Banking,15-01-2025,17:47:00,36,12.2,1147,100,79,1126,Delivered,3,Sunny,Yes
+307,1293,Customer_200,Male,56,Bengaluru,1,Spice Hub,North Indian,3.7,Partner_49,Scooter,Net Banking,17-05-2025,05:39:00,35,10.9,894,100,60,854,Delivered,1,Rainy,Yes
+308,1058,Customer_192,Male,30,Bengaluru,4,Biryani House,Biryani,4.9,Partner_29,Cycle,UPI,19-03-2025,05:58:00,45,13.7,819,20,53,852,Delivered,3,Rainy,No
+309,1019,Customer_236,Female,51,Bengaluru,2,Pizza Point,Italian,3.7,Partner_20,Bike,Net Banking,03-02-2025,07:00:00,53,13.2,401,150,63,314,Delivered,1,Sunny,No
+310,1147,Customer_142,Female,46,Delhi,5,Green Bowl,Healthy,4.5,Partner_18,Bike,Credit Card,21-02-2025,06:34:00,32,2.6,839,20,40,859,Cancelled,5,Cloudy,Yes
+311,1146,Customer_294,Male,28,Mumbai,5,Green Bowl,Healthy,3.6,Partner_40,Scooter,Wallet,11-03-2025,04:49:00,43,1.7,917,150,40,807,Delivered,1,Sunny,No
+312,1229,Customer_183,Female,39,Delhi,1,Spice Hub,North Indian,4.7,Partner_46,Cycle,Wallet,30-06-2025,20:20:00,20,14.6,1073,100,31,1004,Delivered,4,Cloudy,Yes
+313,1239,Customer_241,Male,32,Delhi,6,Tandoori Treat,Chinese,3.7,Partner_40,Scooter,Debit Card,21-03-2025,23:21:00,40,3.6,1159,0,49,1208,Delivered,3,Rainy,No
+314,1237,Customer_88,Female,40,Hyderabad,1,Spice Hub,North Indian,4.4,Partner_9,Cycle,UPI,31-03-2025,16:20:00,40,12.4,333,100,27,260,Delivered,3,Cloudy,Yes
+315,1125,Customer_281,Male,48,Bengaluru,5,Green Bowl,Healthy,4.1,Partner_22,Bike,Net Banking,16-04-2025,08:08:00,52,7,1144,100,57,1101,Cancelled,5,Rainy,Yes
+316,1238,Customer_167,Male,46,Mumbai,6,Tandoori Treat,Chinese,3.8,Partner_26,Bike,Wallet,05-05-2025,03:54:00,21,10.6,359,150,73,282,Delivered,4,Rainy,No
+317,1001,Customer_76,Male,46,Chandigarh,6,Tandoori Treat,Chinese,4.3,Partner_25,Cycle,Wallet,05-02-2025,19:49:00,43,3.7,325,0,33,358,Delivered,3,Rainy,No
+318,1262,Customer_207,Male,36,Hyderabad,6,Tandoori Treat,Chinese,3.6,Partner_36,Bike,UPI,03-01-2025,20:52:00,60,8.8,905,0,57,962,Cancelled,1,Rainy,Yes
+319,1208,Customer_196,Female,52,Mumbai,4,Biryani House,Biryani,3.8,Partner_12,Scooter,Credit Card,23-03-2025,13:03:00,27,8.8,1408,100,60,1368,Delivered,3,Rainy,Yes
+320,1009,Customer_74,Female,60,Bengaluru,6,Tandoori Treat,Chinese,4.2,Partner_9,Bike,Credit Card,19-01-2025,22:07:00,56,12.3,457,20,20,457,Delivered,5,Rainy,Yes
+321,1182,Customer_116,Male,45,Hyderabad,5,Green Bowl,Healthy,4.4,Partner_37,Scooter,Net Banking,26-04-2025,13:07:00,30,11,1068,150,72,990,Delivered,5,Cloudy,No
+322,1298,Customer_247,Male,27,Delhi,1,Spice Hub,North Indian,4.6,Partner_34,Scooter,Cash,05-04-2025,03:51:00,48,2.1,1363,100,65,1328,Delivered,1,Sunny,No
+323,1028,Customer_176,Male,48,Chandigarh,6,Tandoori Treat,Chinese,4.2,Partner_31,Cycle,Net Banking,29-05-2025,10:39:00,36,6.9,359,150,71,280,Cancelled,3,Rainy,Yes
+324,1032,Customer_243,Male,54,Delhi,6,Tandoori Treat,Chinese,3.6,Partner_19,Cycle,Wallet,25-05-2025,08:53:00,16,5,1423,50,66,1439,Delivered,5,Sunny,No
+325,1058,Customer_90,Male,60,Bengaluru,2,Pizza Point,Italian,4.2,Partner_12,Scooter,Net Banking,07-03-2025,00:29:00,30,7.8,1461,50,37,1448,Delivered,1,Rainy,Yes
+326,1122,Customer_226,Male,31,Mumbai,5,Green Bowl,Healthy,4.4,Partner_23,Bike,Net Banking,16-04-2025,13:04:00,31,11.6,515,100,68,483,Delivered,2,Rainy,No
+327,1200,Customer_243,Female,27,Hyderabad,3,Burger Town,Fast Food,4.3,Partner_28,Bike,Debit Card,08-04-2025,23:19:00,43,6.3,1175,150,34,1059,Delivered,5,Cloudy,Yes
+328,1172,Customer_139,Female,24,Delhi,5,Green Bowl,Healthy,3.9,Partner_38,Scooter,Cash,16-06-2025,09:18:00,58,11.5,924,100,59,883,Delivered,5,Sunny,No
+329,1005,Customer_35,Male,44,Chandigarh,6,Tandoori Treat,Chinese,3.6,Partner_7,Cycle,Cash,03-01-2025,22:57:00,37,4.1,568,50,55,573,Delivered,2,Sunny,Yes
+330,1063,Customer_62,Male,56,Pune,1,Spice Hub,North Indian,3.7,Partner_43,Cycle,Wallet,25-02-2025,20:27:00,26,13.5,316,150,62,228,Delivered,3,Rainy,No
+331,1166,Customer_132,Male,22,Chandigarh,1,Spice Hub,North Indian,3.9,Partner_4,Scooter,Cash,20-04-2025,23:37:00,36,14.9,1128,50,69,1147,Delivered,3,Sunny,No
+332,1252,Customer_56,Male,52,Delhi,4,Biryani House,Biryani,4.7,Partner_14,Cycle,Net Banking,15-02-2025,22:01:00,21,13.8,610,150,45,505,Delivered,1,Sunny,Yes
+333,1001,Customer_20,Female,35,Delhi,5,Green Bowl,Healthy,3.7,Partner_22,Scooter,Wallet,08-05-2025,05:04:00,15,8.2,713,100,21,634,Cancelled,4,Rainy,No
+334,1247,Customer_63,Female,39,Hyderabad,6,Tandoori Treat,Chinese,4.5,Partner_26,Bike,Net Banking,01-01-2025,13:07:00,56,2.3,343,150,34,227,Delivered,3,Sunny,No
+335,1098,Customer_154,Female,24,Bengaluru,6,Tandoori Treat,Chinese,4.4,Partner_23,Scooter,UPI,11-01-2025,13:06:00,55,7.1,615,20,55,650,Delivered,1,Sunny,Yes
+336,1158,Customer_256,Female,19,Chandigarh,5,Green Bowl,Healthy,3.6,Partner_4,Scooter,Net Banking,17-01-2025,18:27:00,17,6.7,688,100,44,632,Delivered,5,Rainy,Yes
+337,1010,Customer_242,Male,33,Chandigarh,5,Green Bowl,Healthy,4.6,Partner_9,Bike,Credit Card,06-02-2025,16:41:00,55,1.7,677,0,22,699,Delivered,1,Rainy,Yes
+338,1113,Customer_33,Male,45,Pune,1,Spice Hub,North Indian,4,Partner_48,Cycle,Cash,02-06-2025,21:00:00,35,2.7,417,0,51,468,Delivered,5,Sunny,No
+339,1141,Customer_73,Female,28,Mumbai,1,Spice Hub,North Indian,4.5,Partner_36,Bike,Cash,17-01-2025,04:07:00,30,14,1414,20,41,1435,Delivered,1,Cloudy,No
+340,1046,Customer_146,Female,48,Mumbai,1,Spice Hub,North Indian,4.5,Partner_14,Bike,Net Banking,02-01-2025,06:07:00,32,8.3,1197,0,20,1217,Delivered,2,Cloudy,Yes
+341,1155,Customer_179,Female,18,Pune,2,Pizza Point,Italian,4.3,Partner_13,Bike,Wallet,23-01-2025,21:24:00,21,9.7,1223,150,80,1153,Delivered,5,Cloudy,Yes
+342,1077,Customer_243,Female,29,Hyderabad,6,Tandoori Treat,Chinese,3.7,Partner_3,Bike,Net Banking,19-02-2025,03:50:00,38,5,626,50,23,599,Delivered,3,Cloudy,No
+343,1249,Customer_264,Male,22,Delhi,1,Spice Hub,North Indian,4.8,Partner_47,Scooter,Wallet,10-02-2025,00:59:00,52,5.6,307,150,31,188,Delivered,3,Sunny,Yes
+344,1193,Customer_113,Male,48,Bengaluru,2,Pizza Point,Italian,4.4,Partner_4,Scooter,Credit Card,16-04-2025,06:49:00,28,14,400,20,67,447,Delivered,4,Rainy,Yes
+345,1066,Customer_17,Male,35,Hyderabad,6,Tandoori Treat,Chinese,3.7,Partner_30,Scooter,Cash,21-02-2025,11:27:00,25,11.6,597,50,37,584,Delivered,3,Cloudy,Yes
+346,1211,Customer_268,Female,31,Chandigarh,5,Green Bowl,Healthy,4.4,Partner_30,Scooter,UPI,28-02-2025,02:57:00,42,11.3,548,150,55,453,Delivered,3,Rainy,Yes
+347,1241,Customer_259,Male,45,Pune,2,Pizza Point,Italian,4.3,Partner_31,Cycle,UPI,12-01-2025,01:22:00,43,7.9,1374,0,46,1420,Delivered,1,Cloudy,No
+348,1009,Customer_246,Female,28,Mumbai,2,Pizza Point,Italian,4.6,Partner_37,Cycle,Wallet,15-06-2025,03:05:00,16,14.7,934,50,35,919,Delivered,2,Cloudy,No
+349,1037,Customer_198,Female,51,Mumbai,3,Burger Town,Fast Food,3.5,Partner_28,Scooter,Net Banking,12-06-2025,00:02:00,54,8.6,1483,100,65,1448,Delivered,1,Cloudy,No
+350,1197,Customer_188,Female,57,Chandigarh,1,Spice Hub,North Indian,3.6,Partner_24,Bike,Net Banking,14-01-2025,03:47:00,50,10.9,1254,50,76,1280,Delivered,2,Sunny,No
+351,1108,Customer_116,Female,40,Mumbai,5,Green Bowl,Healthy,4.8,Partner_33,Cycle,Cash,29-05-2025,23:59:00,32,1.8,432,100,67,399,Delivered,4,Rainy,Yes
+352,1189,Customer_34,Male,47,Hyderabad,6,Tandoori Treat,Chinese,3.6,Partner_26,Bike,Debit Card,16-03-2025,15:25:00,19,2.5,1289,150,77,1216,Delivered,2,Rainy,Yes
+353,1278,Customer_68,Female,40,Mumbai,5,Green Bowl,Healthy,4.1,Partner_48,Cycle,UPI,17-04-2025,23:17:00,33,3.6,1484,0,38,1522,Delivered,2,Cloudy,No
+354,1272,Customer_281,Female,47,Hyderabad,5,Green Bowl,Healthy,4,Partner_9,Scooter,Credit Card,01-06-2025,22:43:00,31,4.2,902,50,51,903,Delivered,3,Sunny,Yes
+355,1147,Customer_94,Male,60,Bengaluru,3,Burger Town,Fast Food,4.7,Partner_11,Bike,UPI,11-02-2025,18:16:00,17,14.9,1133,20,59,1172,Delivered,4,Rainy,No
+356,1076,Customer_191,Female,52,Mumbai,2,Pizza Point,Italian,5,Partner_35,Scooter,UPI,23-03-2025,11:44:00,16,6.7,1351,0,62,1413,Delivered,2,Rainy,No
+357,1243,Customer_149,Male,54,Mumbai,1,Spice Hub,North Indian,4.6,Partner_29,Scooter,Net Banking,15-06-2025,10:05:00,22,11.2,1318,150,41,1209,Delivered,2,Cloudy,Yes
+358,1183,Customer_48,Female,21,Bengaluru,1,Spice Hub,North Indian,4.4,Partner_13,Cycle,Wallet,26-02-2025,15:13:00,29,11.9,1022,150,73,945,Delivered,2,Sunny,Yes
+359,1163,Customer_262,Male,60,Pune,4,Biryani House,Biryani,4,Partner_10,Cycle,Cash,19-02-2025,16:44:00,38,6.4,378,150,45,273,Delivered,3,Rainy,No
+360,1227,Customer_148,Male,45,Hyderabad,5,Green Bowl,Healthy,4.6,Partner_27,Bike,Wallet,24-04-2025,14:11:00,53,2.2,379,20,66,425,Delivered,4,Cloudy,No
+361,1140,Customer_213,Male,53,Delhi,5,Green Bowl,Healthy,4.2,Partner_37,Bike,Credit Card,15-04-2025,21:48:00,26,12.7,969,0,20,989,Delivered,4,Sunny,No
+362,1014,Customer_2,Male,34,Pune,3,Burger Town,Fast Food,4,Partner_41,Cycle,Cash,29-04-2025,07:39:00,22,10.2,1211,150,67,1128,Delivered,4,Sunny,No
+363,1035,Customer_186,Female,54,Chandigarh,6,Tandoori Treat,Chinese,4.2,Partner_17,Cycle,Net Banking,12-03-2025,16:49:00,45,14.6,701,0,27,728,Delivered,3,Cloudy,Yes
+364,1070,Customer_183,Male,21,Bengaluru,2,Pizza Point,Italian,3.9,Partner_27,Cycle,Debit Card,23-03-2025,15:44:00,18,5.1,1391,0,29,1420,Delivered,1,Cloudy,Yes
+365,1166,Customer_162,Female,35,Chandigarh,2,Pizza Point,Italian,4.5,Partner_45,Scooter,UPI,12-02-2025,18:33:00,49,9.1,393,150,68,311,Delivered,1,Sunny,No
+366,1112,Customer_80,Male,30,Bengaluru,4,Biryani House,Biryani,4.7,Partner_36,Cycle,Net Banking,11-02-2025,03:29:00,48,12.8,1043,50,78,1071,Delivered,1,Rainy,No
+367,1186,Customer_72,Female,56,Delhi,1,Spice Hub,North Indian,4.3,Partner_22,Bike,Net Banking,31-03-2025,10:38:00,34,1.4,468,0,50,518,Delivered,2,Sunny,Yes
+368,1218,Customer_58,Male,19,Chandigarh,2,Pizza Point,Italian,4.7,Partner_49,Scooter,UPI,03-02-2025,02:40:00,27,2.5,829,20,33,842,Delivered,5,Cloudy,Yes
+369,1006,Customer_50,Male,56,Hyderabad,1,Spice Hub,North Indian,3.8,Partner_13,Bike,Net Banking,19-03-2025,22:47:00,37,1.4,718,0,24,742,Delivered,3,Cloudy,No
+370,1035,Customer_51,Male,51,Bengaluru,2,Pizza Point,Italian,3.8,Partner_13,Scooter,Credit Card,10-05-2025,19:27:00,49,1.1,1225,150,35,1110,Delivered,2,Cloudy,No
+371,1093,Customer_182,Female,45,Bengaluru,6,Tandoori Treat,Chinese,3.8,Partner_15,Scooter,UPI,22-06-2025,03:39:00,35,2.7,1407,20,48,1435,Delivered,2,Rainy,No
+372,1060,Customer_198,Female,47,Chandigarh,3,Burger Town,Fast Food,4.4,Partner_20,Cycle,Cash,25-03-2025,16:51:00,29,8.8,1341,0,25,1366,Delivered,4,Sunny,Yes
+373,1054,Customer_203,Female,51,Hyderabad,6,Tandoori Treat,Chinese,4.5,Partner_6,Bike,Credit Card,22-06-2025,16:46:00,40,6.6,952,20,20,952,Delivered,1,Cloudy,Yes
+374,1063,Customer_120,Female,49,Delhi,3,Burger Town,Fast Food,3.9,Partner_46,Cycle,Wallet,02-06-2025,13:47:00,32,11.6,607,50,32,589,Delivered,4,Rainy,No
+375,1233,Customer_56,Male,34,Chandigarh,5,Green Bowl,Healthy,4.2,Partner_15,Cycle,Credit Card,13-03-2025,05:01:00,16,2.4,1028,100,52,980,Delivered,1,Rainy,Yes
+376,1050,Customer_40,Female,47,Mumbai,4,Biryani House,Biryani,3.8,Partner_43,Scooter,Cash,19-03-2025,21:13:00,47,4.7,1438,50,29,1417,Delivered,5,Cloudy,Yes
+377,1227,Customer_236,Male,20,Delhi,4,Biryani House,Biryani,3.8,Partner_43,Scooter,Net Banking,22-03-2025,12:50:00,25,7.9,443,100,48,391,Delivered,4,Rainy,Yes
+378,1241,Customer_244,Male,50,Pune,6,Tandoori Treat,Chinese,3.6,Partner_17,Scooter,Wallet,19-05-2025,19:31:00,39,9.6,1204,150,63,1117,Delivered,3,Rainy,Yes
+379,1299,Customer_14,Female,42,Delhi,5,Green Bowl,Healthy,3.6,Partner_23,Scooter,Cash,04-04-2025,11:54:00,37,1.8,292,20,73,345,Delivered,2,Cloudy,No
+380,1011,Customer_276,Female,20,Pune,1,Spice Hub,North Indian,4.2,Partner_28,Cycle,Wallet,28-03-2025,05:47:00,41,4.7,334,50,27,311,Delivered,5,Sunny,No
+381,1052,Customer_106,Female,49,Hyderabad,5,Green Bowl,Healthy,4.3,Partner_49,Cycle,Debit Card,26-01-2025,16:40:00,25,9.6,999,50,56,1005,Delivered,4,Sunny,No
+382,1153,Customer_294,Female,32,Chandigarh,1,Spice Hub,North Indian,4.4,Partner_6,Cycle,Wallet,09-03-2025,01:37:00,21,9.3,1297,20,38,1315,Delivered,5,Cloudy,No
+383,1154,Customer_222,Female,30,Hyderabad,2,Pizza Point,Italian,4.1,Partner_17,Cycle,Wallet,19-03-2025,17:13:00,44,10.4,911,0,61,972,Delivered,1,Cloudy,Yes
+384,1223,Customer_290,Male,51,Pune,4,Biryani House,Biryani,3.8,Partner_30,Bike,Credit Card,13-06-2025,18:11:00,24,11.5,636,100,37,573,Delivered,4,Rainy,No
+385,1083,Customer_132,Male,43,Delhi,6,Tandoori Treat,Chinese,3.9,Partner_10,Bike,UPI,15-03-2025,22:03:00,30,12.2,616,100,37,553,Delivered,4,Cloudy,No
+386,1015,Customer_133,Female,60,Hyderabad,6,Tandoori Treat,Chinese,4.3,Partner_42,Bike,Net Banking,11-03-2025,04:39:00,46,12,275,20,30,285,Delivered,1,Rainy,No
+387,1058,Customer_293,Male,51,Delhi,4,Biryani House,Biryani,4.5,Partner_38,Cycle,Debit Card,05-02-2025,08:03:00,46,13.4,944,0,45,989,Delivered,1,Rainy,No
+388,1074,Customer_55,Male,31,Pune,6,Tandoori Treat,Chinese,5,Partner_29,Scooter,Debit Card,19-04-2025,07:26:00,52,1.8,998,20,79,1057,Delivered,1,Rainy,No
+389,1244,Customer_189,Female,19,Hyderabad,6,Tandoori Treat,Chinese,4.5,Partner_39,Bike,Net Banking,07-02-2025,12:23:00,57,12.2,704,50,76,730,Delivered,2,Rainy,No
+390,1199,Customer_5,Female,34,Bengaluru,6,Tandoori Treat,Chinese,4,Partner_49,Bike,Debit Card,02-03-2025,15:06:00,28,13,943,0,54,997,Delivered,4,Cloudy,No
+391,1242,Customer_212,Female,45,Chandigarh,4,Biryani House,Biryani,4.8,Partner_7,Bike,Net Banking,21-01-2025,16:46:00,31,8.1,269,50,75,294,Delivered,5,Cloudy,No
+392,1228,Customer_70,Male,43,Hyderabad,6,Tandoori Treat,Chinese,3.8,Partner_20,Scooter,Wallet,14-06-2025,06:16:00,20,2.6,256,0,61,317,Delivered,2,Cloudy,No
+393,1168,Customer_145,Male,23,Bengaluru,4,Biryani House,Biryani,4.1,Partner_12,Scooter,Cash,14-02-2025,23:27:00,51,4.1,1179,20,36,1195,Cancelled,5,Cloudy,Yes
+394,1206,Customer_220,Female,27,Delhi,4,Biryani House,Biryani,3.6,Partner_24,Bike,Wallet,13-02-2025,01:41:00,22,1.2,606,50,64,620,Delivered,4,Cloudy,No
+395,1254,Customer_196,Male,45,Delhi,2,Pizza Point,Italian,4.8,Partner_39,Bike,Debit Card,10-03-2025,09:49:00,58,3.7,616,20,80,676,Delivered,2,Sunny,No
+396,1299,Customer_235,Male,18,Bengaluru,2,Pizza Point,Italian,4.2,Partner_21,Cycle,Cash,05-03-2025,12:37:00,58,4,1465,100,78,1443,Delivered,4,Cloudy,No
+397,1242,Customer_182,Male,18,Delhi,1,Spice Hub,North Indian,3.9,Partner_40,Scooter,Debit Card,27-03-2025,08:00:00,40,10.4,1340,0,23,1363,Delivered,5,Sunny,Yes
+398,1068,Customer_46,Female,51,Bengaluru,2,Pizza Point,Italian,4.1,Partner_17,Bike,Debit Card,28-03-2025,15:58:00,17,14.7,1231,100,79,1210,Delivered,3,Cloudy,No
+399,1161,Customer_224,Male,38,Hyderabad,3,Burger Town,Fast Food,4.6,Partner_32,Bike,Wallet,09-03-2025,17:38:00,57,9.9,739,150,73,662,Delivered,2,Sunny,Yes
+400,1224,Customer_60,Female,20,Mumbai,2,Pizza Point,Italian,4.2,Partner_46,Cycle,Cash,11-02-2025,15:56:00,44,7.9,273,100,36,209,Delivered,2,Sunny,No
+401,1140,Customer_289,Male,55,Delhi,2,Pizza Point,Italian,5,Partner_1,Cycle,Wallet,13-02-2025,17:21:00,26,6.8,781,20,73,834,Delivered,4,Cloudy,Yes
+402,1055,Customer_166,Male,19,Bengaluru,1,Spice Hub,North Indian,3.6,Partner_46,Cycle,Cash,06-04-2025,20:09:00,44,9.8,782,0,45,827,Delivered,1,Rainy,Yes
+403,1109,Customer_25,Female,38,Chandigarh,5,Green Bowl,Healthy,4.7,Partner_48,Bike,Wallet,26-05-2025,04:24:00,53,6.3,1127,50,80,1157,Delivered,2,Sunny,No
+404,1079,Customer_62,Female,49,Delhi,1,Spice Hub,North Indian,4.7,Partner_48,Scooter,Net Banking,14-04-2025,09:43:00,53,2.8,626,20,44,650,Delivered,3,Cloudy,Yes
+405,1217,Customer_47,Female,41,Hyderabad,4,Biryani House,Biryani,4.4,Partner_28,Cycle,Cash,25-05-2025,20:29:00,20,1.6,994,100,37,931,Delivered,4,Cloudy,Yes
+406,1269,Customer_43,Female,47,Chandigarh,6,Tandoori Treat,Chinese,4.2,Partner_31,Scooter,Credit Card,11-06-2025,22:05:00,23,10.6,517,100,53,470,Delivered,2,Cloudy,No
+407,1056,Customer_262,Female,44,Bengaluru,5,Green Bowl,Healthy,3.6,Partner_43,Cycle,Wallet,12-01-2025,17:31:00,31,6,297,150,24,171,Delivered,5,Sunny,Yes
+408,1024,Customer_43,Female,37,Chandigarh,6,Tandoori Treat,Chinese,4,Partner_47,Scooter,Net Banking,16-02-2025,13:24:00,43,9.7,1147,20,70,1197,Delivered,2,Sunny,Yes
+409,1223,Customer_274,Male,18,Delhi,6,Tandoori Treat,Chinese,4.1,Partner_1,Bike,Net Banking,22-06-2025,03:37:00,45,7.4,1437,50,75,1462,Delivered,5,Cloudy,No
+410,1203,Customer_155,Male,26,Bengaluru,5,Green Bowl,Healthy,3.7,Partner_13,Bike,UPI,22-06-2025,23:33:00,59,14.6,1463,50,64,1477,Delivered,2,Rainy,Yes
+411,1238,Customer_76,Female,45,Chandigarh,2,Pizza Point,Italian,3.5,Partner_11,Bike,Net Banking,23-01-2025,10:16:00,59,7.2,1092,150,32,974,Delivered,1,Rainy,Yes
+412,1053,Customer_222,Female,49,Mumbai,3,Burger Town,Fast Food,4.6,Partner_39,Cycle,Wallet,27-03-2025,00:16:00,33,1.5,1366,100,23,1289,Delivered,5,Cloudy,No
+413,1162,Customer_284,Male,35,Mumbai,6,Tandoori Treat,Chinese,4.8,Partner_27,Scooter,UPI,19-04-2025,19:40:00,46,9.7,324,150,21,195,Delivered,4,Cloudy,No
+414,1119,Customer_260,Male,55,Delhi,2,Pizza Point,Italian,4.9,Partner_22,Cycle,Net Banking,30-03-2025,14:57:00,57,7.6,789,20,50,819,Delivered,4,Rainy,No
+415,1248,Customer_67,Male,30,Hyderabad,2,Pizza Point,Italian,3.7,Partner_32,Bike,Cash,26-06-2025,02:56:00,46,5.3,1473,20,38,1491,Delivered,1,Sunny,No
+416,1033,Customer_173,Female,25,Bengaluru,3,Burger Town,Fast Food,4.4,Partner_8,Cycle,Credit Card,09-05-2025,01:05:00,46,4.6,524,20,72,576,Delivered,3,Sunny,No
+417,1225,Customer_235,Male,24,Mumbai,6,Tandoori Treat,Chinese,4.7,Partner_40,Bike,Wallet,27-01-2025,01:43:00,17,8.1,1255,150,62,1167,Delivered,1,Sunny,No
+418,1051,Customer_79,Female,39,Mumbai,6,Tandoori Treat,Chinese,4.7,Partner_8,Bike,Cash,10-05-2025,17:00:00,41,11.8,798,100,68,766,Delivered,4,Rainy,No
+419,1126,Customer_78,Female,32,Pune,2,Pizza Point,Italian,3.7,Partner_28,Scooter,Cash,17-04-2025,12:18:00,44,14.3,374,50,43,367,Delivered,3,Sunny,No
+420,1206,Customer_85,Female,21,Mumbai,1,Spice Hub,North Indian,4.1,Partner_3,Cycle,Net Banking,28-03-2025,10:44:00,24,13.6,1259,0,25,1284,Delivered,5,Rainy,No
+421,1005,Customer_144,Male,43,Hyderabad,6,Tandoori Treat,Chinese,4.2,Partner_14,Cycle,Wallet,22-03-2025,11:44:00,54,10.1,1333,50,66,1349,Delivered,4,Sunny,No
+422,1277,Customer_146,Male,23,Delhi,1,Spice Hub,North Indian,4.3,Partner_20,Cycle,Debit Card,02-02-2025,17:45:00,55,3.2,1300,50,44,1294,Delivered,5,Cloudy,No
+423,1133,Customer_260,Female,25,Mumbai,3,Burger Town,Fast Food,3.6,Partner_42,Bike,Cash,16-01-2025,12:43:00,34,9,1065,150,27,942,Delivered,3,Sunny,Yes
+424,1267,Customer_127,Male,38,Bengaluru,3,Burger Town,Fast Food,4.3,Partner_13,Scooter,Cash,05-02-2025,12:53:00,21,3.1,782,150,63,695,Delivered,4,Sunny,Yes
+425,1190,Customer_270,Female,55,Delhi,4,Biryani House,Biryani,4.3,Partner_50,Scooter,Debit Card,25-04-2025,02:39:00,52,8,466,100,33,399,Delivered,4,Cloudy,No
+426,1235,Customer_67,Male,31,Chandigarh,4,Biryani House,Biryani,4.2,Partner_3,Cycle,Credit Card,02-02-2025,16:32:00,50,6.2,533,20,52,565,Cancelled,5,Rainy,Yes
+427,1061,Customer_191,Female,41,Delhi,3,Burger Town,Fast Food,4,Partner_32,Bike,Credit Card,14-05-2025,05:13:00,24,12,1370,50,22,1342,Delivered,3,Rainy,Yes
+428,1035,Customer_23,Female,48,Mumbai,6,Tandoori Treat,Chinese,4.4,Partner_37,Scooter,Debit Card,21-05-2025,11:54:00,39,7.7,1201,0,27,1228,Delivered,5,Sunny,Yes
+429,1167,Customer_46,Female,42,Pune,6,Tandoori Treat,Chinese,3.8,Partner_26,Scooter,Wallet,25-04-2025,05:05:00,17,14.4,1143,100,62,1105,Delivered,3,Cloudy,Yes
+430,1064,Customer_287,Male,30,Mumbai,6,Tandoori Treat,Chinese,4.9,Partner_35,Cycle,UPI,21-03-2025,19:09:00,51,8.3,250,150,60,160,Delivered,5,Sunny,Yes
+431,1297,Customer_228,Male,52,Chandigarh,5,Green Bowl,Healthy,4.4,Partner_26,Cycle,UPI,22-02-2025,08:22:00,46,13.1,568,0,37,605,Delivered,4,Sunny,No
+432,1051,Customer_278,Male,36,Delhi,5,Green Bowl,Healthy,3.7,Partner_17,Bike,Credit Card,24-01-2025,03:54:00,34,14.3,849,100,36,785,Delivered,1,Cloudy,No
+433,1073,Customer_212,Female,34,Mumbai,1,Spice Hub,North Indian,4.1,Partner_8,Bike,Credit Card,26-01-2025,10:55:00,30,11.5,319,50,44,313,Delivered,4,Cloudy,No
+434,1034,Customer_248,Male,44,Delhi,3,Burger Town,Fast Food,4.5,Partner_2,Scooter,Wallet,22-05-2025,13:53:00,52,10.5,324,50,49,323,Delivered,5,Cloudy,Yes
+435,1105,Customer_73,Female,52,Bengaluru,5,Green Bowl,Healthy,5,Partner_16,Cycle,Cash,12-06-2025,17:04:00,50,7.3,1033,100,25,958,Delivered,4,Cloudy,No
+436,1129,Customer_195,Female,58,Chandigarh,2,Pizza Point,Italian,3.8,Partner_33,Scooter,UPI,04-05-2025,09:19:00,25,11.3,201,0,79,280,Delivered,3,Sunny,No
+437,1259,Customer_163,Female,58,Chandigarh,1,Spice Hub,North Indian,3.9,Partner_49,Cycle,Cash,21-04-2025,07:11:00,32,4.4,486,150,37,373,Cancelled,3,Sunny,No
+438,1244,Customer_3,Male,29,Pune,3,Burger Town,Fast Food,4.1,Partner_45,Cycle,Cash,01-01-2025,20:46:00,40,8.5,232,20,61,273,Delivered,1,Cloudy,Yes
+439,1184,Customer_199,Male,18,Chandigarh,4,Biryani House,Biryani,3.7,Partner_24,Bike,Cash,07-04-2025,20:31:00,15,4.1,452,50,72,474,Delivered,3,Cloudy,No
+440,1253,Customer_186,Male,35,Mumbai,1,Spice Hub,North Indian,4.2,Partner_46,Cycle,Wallet,26-02-2025,07:59:00,28,1.1,1456,50,71,1477,Cancelled,4,Sunny,No
+441,1290,Customer_290,Male,22,Pune,5,Green Bowl,Healthy,4.4,Partner_48,Bike,Credit Card,19-02-2025,22:31:00,31,14.1,1211,20,55,1246,Delivered,5,Cloudy,No
+442,1287,Customer_233,Male,45,Mumbai,6,Tandoori Treat,Chinese,4.5,Partner_42,Bike,Debit Card,06-03-2025,23:14:00,42,12.8,247,150,59,156,Delivered,1,Cloudy,No
+443,1143,Customer_216,Female,38,Hyderabad,3,Burger Town,Fast Food,3.5,Partner_13,Scooter,UPI,27-02-2025,01:36:00,51,12.3,1259,0,76,1335,Cancelled,2,Cloudy,No
+444,1050,Customer_15,Female,45,Delhi,2,Pizza Point,Italian,4.7,Partner_38,Cycle,Debit Card,21-03-2025,02:08:00,31,4.5,603,20,41,624,Delivered,3,Sunny,No
+445,1229,Customer_297,Male,23,Pune,2,Pizza Point,Italian,5,Partner_3,Scooter,Debit Card,23-04-2025,03:15:00,59,1.9,349,150,59,258,Delivered,4,Sunny,No
+446,1287,Customer_27,Female,42,Pune,6,Tandoori Treat,Chinese,4.1,Partner_40,Scooter,Credit Card,23-06-2025,01:54:00,53,12,1084,0,26,1110,Delivered,4,Rainy,No
+447,1014,Customer_233,Female,55,Hyderabad,5,Green Bowl,Healthy,3.8,Partner_7,Bike,Wallet,16-06-2025,23:03:00,60,1.9,1468,0,41,1509,Delivered,2,Cloudy,Yes
+448,1228,Customer_96,Male,26,Chandigarh,5,Green Bowl,Healthy,4.7,Partner_4,Bike,Debit Card,04-05-2025,21:11:00,52,7.1,724,50,46,720,Cancelled,3,Rainy,Yes
+449,1005,Customer_266,Male,21,Mumbai,4,Biryani House,Biryani,3.9,Partner_36,Bike,Cash,16-03-2025,12:35:00,37,3.7,832,150,41,723,Delivered,2,Sunny,No
+450,1297,Customer_290,Female,57,Mumbai,6,Tandoori Treat,Chinese,3.9,Partner_22,Bike,UPI,27-06-2025,11:18:00,44,13.3,1174,100,58,1132,Delivered,4,Sunny,Yes
+451,1247,Customer_170,Female,31,Chandigarh,2,Pizza Point,Italian,4.1,Partner_1,Scooter,UPI,24-02-2025,08:09:00,19,6,671,100,59,630,Delivered,2,Rainy,No
+452,1102,Customer_146,Male,32,Mumbai,6,Tandoori Treat,Chinese,4.8,Partner_47,Bike,Debit Card,08-01-2025,06:47:00,50,4.4,1399,50,22,1371,Delivered,2,Rainy,Yes
+453,1108,Customer_157,Female,33,Delhi,6,Tandoori Treat,Chinese,4.1,Partner_24,Cycle,Credit Card,29-01-2025,11:33:00,48,14.7,481,100,61,442,Cancelled,4,Cloudy,Yes
+454,1192,Customer_163,Female,58,Delhi,2,Pizza Point,Italian,3.9,Partner_3,Cycle,Wallet,17-05-2025,12:54:00,27,13,467,20,32,479,Delivered,2,Rainy,Yes
+455,1251,Customer_108,Male,48,Delhi,6,Tandoori Treat,Chinese,4.7,Partner_40,Bike,Credit Card,11-05-2025,19:56:00,47,6.4,773,20,74,827,Delivered,5,Rainy,No
+456,1248,Customer_254,Female,35,Pune,4,Biryani House,Biryani,4.4,Partner_41,Cycle,Net Banking,06-04-2025,17:56:00,17,3.9,566,50,65,581,Delivered,4,Sunny,No
+457,1131,Customer_282,Male,26,Mumbai,3,Burger Town,Fast Food,4.6,Partner_19,Scooter,Wallet,10-02-2025,12:46:00,37,4.2,1070,100,56,1026,Delivered,5,Cloudy,No
+458,1163,Customer_140,Female,19,Hyderabad,4,Biryani House,Biryani,3.8,Partner_15,Scooter,Net Banking,05-04-2025,16:58:00,19,6,1157,100,46,1103,Delivered,5,Cloudy,Yes
+459,1280,Customer_103,Female,30,Bengaluru,2,Pizza Point,Italian,4.5,Partner_17,Scooter,Net Banking,03-04-2025,01:18:00,58,12.8,401,0,24,425,Delivered,5,Sunny,No
+460,1297,Customer_7,Female,59,Delhi,3,Burger Town,Fast Food,4.3,Partner_49,Bike,Cash,14-04-2025,13:50:00,29,4.2,777,50,70,797,Delivered,4,Sunny,No
+461,1214,Customer_108,Female,46,Chandigarh,4,Biryani House,Biryani,4.8,Partner_2,Scooter,Credit Card,18-02-2025,14:38:00,51,13.2,897,0,40,937,Delivered,1,Rainy,No
+462,1276,Customer_154,Female,55,Bengaluru,2,Pizza Point,Italian,3.5,Partner_3,Bike,Credit Card,14-04-2025,23:34:00,36,9,1058,100,63,1021,Delivered,5,Cloudy,No
+463,1244,Customer_56,Female,54,Hyderabad,2,Pizza Point,Italian,4.9,Partner_41,Scooter,UPI,09-04-2025,06:25:00,25,2.5,1000,0,54,1054,Delivered,1,Cloudy,No
+464,1106,Customer_120,Female,60,Delhi,2,Pizza Point,Italian,4.3,Partner_30,Bike,Debit Card,09-04-2025,09:41:00,48,1.2,607,0,78,685,Delivered,4,Rainy,Yes
+465,1106,Customer_67,Male,37,Delhi,2,Pizza Point,Italian,4.1,Partner_46,Cycle,Cash,18-01-2025,13:16:00,25,9.5,1298,100,50,1248,Cancelled,5,Sunny,No
+466,1127,Customer_270,Female,54,Bengaluru,2,Pizza Point,Italian,4.8,Partner_30,Scooter,Wallet,17-01-2025,13:37:00,17,11.3,215,20,48,243,Delivered,4,Rainy,No
+467,1222,Customer_235,Female,60,Hyderabad,5,Green Bowl,Healthy,3.8,Partner_37,Bike,Cash,15-02-2025,21:05:00,59,14.2,558,100,35,493,Delivered,2,Rainy,No
+468,1189,Customer_40,Male,50,Chandigarh,1,Spice Hub,North Indian,4.6,Partner_21,Scooter,Cash,22-05-2025,04:08:00,25,4.5,644,100,46,590,Delivered,4,Sunny,Yes
+469,1204,Customer_20,Male,34,Chandigarh,6,Tandoori Treat,Chinese,3.7,Partner_9,Scooter,Net Banking,13-04-2025,06:38:00,44,7.8,1145,100,41,1086,Delivered,5,Cloudy,Yes
+470,1088,Customer_10,Male,29,Chandigarh,4,Biryani House,Biryani,3.9,Partner_35,Cycle,Cash,13-03-2025,05:30:00,25,2.1,487,100,72,459,Delivered,3,Sunny,No
+471,1111,Customer_227,Male,58,Bengaluru,2,Pizza Point,Italian,4.7,Partner_42,Cycle,Net Banking,22-06-2025,18:10:00,57,13.6,643,0,77,720,Delivered,3,Rainy,Yes
+472,1192,Customer_123,Male,23,Pune,1,Spice Hub,North Indian,3.5,Partner_2,Bike,Debit Card,21-02-2025,08:31:00,27,10.5,299,100,69,268,Delivered,1,Cloudy,Yes
+473,1166,Customer_288,Male,57,Chandigarh,2,Pizza Point,Italian,3.8,Partner_35,Scooter,Cash,28-01-2025,11:09:00,22,4.3,290,100,52,242,Delivered,3,Sunny,Yes
+474,1113,Customer_34,Female,59,Hyderabad,6,Tandoori Treat,Chinese,4.4,Partner_3,Bike,Credit Card,24-02-2025,15:39:00,41,5.2,847,0,44,891,Delivered,1,Cloudy,Yes
+475,1069,Customer_171,Male,58,Bengaluru,1,Spice Hub,North Indian,4.6,Partner_45,Scooter,Net Banking,28-06-2025,13:15:00,45,1.9,1428,50,60,1438,Delivered,5,Rainy,No
+476,1120,Customer_11,Male,37,Pune,6,Tandoori Treat,Chinese,3.9,Partner_28,Bike,Wallet,30-06-2025,00:27:00,20,1.8,676,150,57,583,Delivered,3,Sunny,Yes
+477,1169,Customer_69,Female,38,Hyderabad,2,Pizza Point,Italian,4.5,Partner_49,Bike,Wallet,03-06-2025,15:08:00,41,10.1,277,20,79,336,Delivered,1,Sunny,No
+478,1114,Customer_196,Female,29,Bengaluru,2,Pizza Point,Italian,4.2,Partner_1,Bike,Cash,20-06-2025,08:28:00,19,14.4,621,150,23,494,Delivered,2,Sunny,Yes
+479,1260,Customer_41,Female,47,Delhi,2,Pizza Point,Italian,4,Partner_47,Bike,Credit Card,22-02-2025,08:03:00,42,3.5,1413,150,73,1336,Delivered,3,Cloudy,No
+480,1194,Customer_86,Female,46,Chandigarh,2,Pizza Point,Italian,4.1,Partner_40,Cycle,Cash,03-04-2025,13:35:00,24,12.5,756,100,25,681,Delivered,1,Rainy,No
+481,1132,Customer_195,Female,37,Delhi,3,Burger Town,Fast Food,4.2,Partner_25,Cycle,Wallet,22-05-2025,05:59:00,45,2,1418,150,29,1297,Delivered,4,Sunny,Yes
+482,1208,Customer_213,Female,41,Mumbai,1,Spice Hub,North Indian,4.1,Partner_20,Cycle,Wallet,06-04-2025,16:46:00,19,6.7,226,150,66,142,Delivered,1,Rainy,Yes
+483,1189,Customer_30,Female,45,Mumbai,4,Biryani House,Biryani,4.6,Partner_16,Scooter,UPI,06-05-2025,21:40:00,38,9.8,722,50,52,724,Delivered,2,Rainy,No
+484,1083,Customer_7,Male,23,Chandigarh,2,Pizza Point,Italian,4.5,Partner_25,Scooter,Net Banking,29-05-2025,22:37:00,52,14.6,720,20,58,758,Delivered,2,Rainy,Yes
+485,1158,Customer_211,Male,24,Hyderabad,3,Burger Town,Fast Food,4.5,Partner_50,Scooter,Credit Card,18-06-2025,13:03:00,32,11.5,818,150,54,722,Cancelled,4,Cloudy,No
+486,1214,Customer_269,Female,59,Delhi,2,Pizza Point,Italian,3.9,Partner_28,Bike,Credit Card,18-01-2025,23:46:00,38,3.6,1207,0,26,1233,Delivered,4,Sunny,Yes
+487,1099,Customer_133,Female,46,Hyderabad,5,Green Bowl,Healthy,4.4,Partner_40,Bike,Net Banking,16-01-2025,06:14:00,25,2.1,635,20,32,647,Delivered,1,Rainy,Yes
+488,1052,Customer_5,Male,35,Bengaluru,1,Spice Hub,North Indian,4.6,Partner_1,Cycle,Wallet,05-05-2025,22:57:00,17,2.4,1399,20,50,1429,Delivered,1,Rainy,No
+489,1176,Customer_162,Male,41,Hyderabad,4,Biryani House,Biryani,4.5,Partner_25,Cycle,UPI,28-03-2025,12:39:00,37,13.2,890,150,47,787,Delivered,1,Rainy,No
+490,1128,Customer_189,Female,57,Chandigarh,2,Pizza Point,Italian,4.5,Partner_31,Cycle,Cash,16-05-2025,09:32:00,57,3.6,252,150,27,129,Cancelled,3,Sunny,No
+491,1205,Customer_42,Female,45,Delhi,6,Tandoori Treat,Chinese,4.9,Partner_31,Cycle,Net Banking,05-06-2025,16:32:00,21,11.3,866,100,34,800,Delivered,2,Cloudy,Yes
+492,1155,Customer_281,Female,28,Pune,5,Green Bowl,Healthy,4.8,Partner_8,Scooter,Net Banking,08-05-2025,02:58:00,49,4.4,1233,0,28,1261,Delivered,1,Sunny,No
+493,1113,Customer_132,Female,60,Chandigarh,1,Spice Hub,North Indian,3.7,Partner_9,Cycle,Net Banking,09-04-2025,09:34:00,46,2.3,528,50,77,555,Delivered,2,Cloudy,Yes
+494,1224,Customer_120,Male,34,Chandigarh,3,Burger Town,Fast Food,3.7,Partner_6,Bike,UPI,14-06-2025,19:10:00,36,11.4,972,100,61,933,Cancelled,1,Cloudy,No
+495,1032,Customer_275,Male,42,Mumbai,3,Burger Town,Fast Food,5,Partner_21,Scooter,Net Banking,01-01-2025,10:36:00,23,8.3,978,150,67,895,Delivered,2,Sunny,No
+496,1256,Customer_234,Male,56,Delhi,5,Green Bowl,Healthy,3.9,Partner_48,Cycle,Net Banking,17-03-2025,07:28:00,17,9.4,1143,50,29,1122,Delivered,1,Rainy,No
+497,1171,Customer_79,Male,32,Chandigarh,2,Pizza Point,Italian,4.6,Partner_4,Bike,Cash,07-04-2025,02:00:00,40,5.2,1213,50,65,1228,Delivered,2,Sunny,No
+498,1037,Customer_271,Female,36,Bengaluru,4,Biryani House,Biryani,4.5,Partner_13,Cycle,Wallet,11-04-2025,13:20:00,40,2.4,1169,50,68,1187,Delivered,5,Sunny,No
+499,1248,Customer_150,Male,31,Hyderabad,6,Tandoori Treat,Chinese,3.8,Partner_48,Bike,Net Banking,24-04-2025,23:45:00,56,1.1,535,150,28,413,Delivered,5,Sunny,Yes
+500,1092,Customer_27,Male,50,Hyderabad,4,Biryani House,Biryani,4.5,Partner_38,Scooter,Credit Card,02-04-2025,16:10:00,55,11.1,544,0,26,570,Delivered,1,Sunny,No
+501,1046,Customer_238,Female,35,Hyderabad,3,Burger Town,Fast Food,4.4,Partner_29,Scooter,UPI,07-04-2025,23:36:00,22,2.6,1420,20,61,1461,Delivered,5,Sunny,Yes
+502,1093,Customer_197,Female,59,Pune,5,Green Bowl,Healthy,4.6,Partner_20,Cycle,Credit Card,27-06-2025,03:13:00,21,5.6,1372,100,37,1309,Delivered,5,Sunny,No
+503,1251,Customer_33,Male,31,Chandigarh,1,Spice Hub,North Indian,4.9,Partner_8,Bike,Wallet,18-05-2025,18:05:00,59,3.5,1006,150,72,928,Delivered,3,Sunny,Yes
+504,1018,Customer_44,Male,50,Mumbai,5,Green Bowl,Healthy,3.9,Partner_35,Bike,Cash,24-05-2025,08:45:00,57,1,622,20,25,627,Delivered,5,Rainy,No
+505,1276,Customer_262,Male,24,Mumbai,5,Green Bowl,Healthy,4.5,Partner_3,Bike,UPI,01-04-2025,20:41:00,27,3,1204,50,53,1207,Delivered,2,Sunny,Yes
+506,1039,Customer_282,Female,34,Pune,3,Burger Town,Fast Food,4.1,Partner_11,Scooter,Cash,09-06-2025,14:24:00,20,14.2,768,20,66,814,Delivered,2,Cloudy,Yes
+507,1262,Customer_84,Female,27,Delhi,6,Tandoori Treat,Chinese,4,Partner_28,Scooter,UPI,06-04-2025,19:14:00,53,4.5,751,20,65,796,Delivered,5,Sunny,No
+508,1075,Customer_116,Female,18,Delhi,3,Burger Town,Fast Food,3.6,Partner_15,Scooter,UPI,27-03-2025,09:19:00,22,3.5,382,50,78,410,Delivered,3,Cloudy,No
+509,1139,Customer_51,Male,28,Delhi,5,Green Bowl,Healthy,4,Partner_49,Scooter,Credit Card,14-03-2025,18:49:00,37,12.3,914,150,75,839,Delivered,5,Cloudy,No
+510,1080,Customer_65,Male,42,Hyderabad,5,Green Bowl,Healthy,4.4,Partner_18,Bike,Net Banking,25-06-2025,17:31:00,55,14.6,461,50,20,431,Delivered,2,Cloudy,No
+511,1147,Customer_142,Female,51,Chandigarh,4,Biryani House,Biryani,4.9,Partner_15,Scooter,Net Banking,30-04-2025,17:08:00,20,14.3,574,100,42,516,Delivered,3,Sunny,Yes
+512,1044,Customer_147,Female,18,Delhi,6,Tandoori Treat,Chinese,4.9,Partner_28,Cycle,Wallet,28-05-2025,01:57:00,23,7.7,691,0,30,721,Delivered,5,Cloudy,Yes
+513,1274,Customer_177,Male,60,Hyderabad,1,Spice Hub,North Indian,4.9,Partner_34,Cycle,Wallet,02-01-2025,14:30:00,17,9.5,1462,20,78,1520,Cancelled,5,Sunny,Yes
+514,1254,Customer_195,Male,41,Delhi,3,Burger Town,Fast Food,5,Partner_22,Cycle,Credit Card,14-01-2025,14:25:00,49,12.9,473,150,42,365,Delivered,3,Rainy,No
+515,1202,Customer_112,Female,59,Bengaluru,3,Burger Town,Fast Food,4.3,Partner_3,Scooter,Wallet,11-06-2025,19:24:00,46,1.8,636,0,67,703,Delivered,4,Rainy,No
+516,1182,Customer_5,Male,45,Bengaluru,1,Spice Hub,North Indian,4.2,Partner_6,Cycle,Wallet,17-02-2025,13:43:00,24,6.8,210,50,76,236,Delivered,1,Sunny,No
+517,1094,Customer_275,Female,24,Mumbai,4,Biryani House,Biryani,5,Partner_43,Scooter,Credit Card,04-04-2025,14:37:00,23,6,1009,50,39,998,Delivered,3,Cloudy,Yes
+518,1170,Customer_17,Male,60,Delhi,2,Pizza Point,Italian,3.8,Partner_31,Cycle,Debit Card,12-04-2025,14:22:00,22,6.9,783,0,28,811,Delivered,2,Rainy,No
+519,1065,Customer_80,Female,50,Pune,6,Tandoori Treat,Chinese,3.5,Partner_44,Bike,UPI,28-01-2025,00:43:00,58,12.6,996,20,27,1003,Delivered,5,Cloudy,Yes
+520,1127,Customer_79,Male,33,Hyderabad,4,Biryani House,Biryani,3.9,Partner_8,Scooter,Net Banking,22-01-2025,14:38:00,30,10.3,792,50,51,793,Delivered,4,Cloudy,Yes
+521,1077,Customer_118,Male,26,Chandigarh,6,Tandoori Treat,Chinese,4.1,Partner_18,Bike,Credit Card,18-02-2025,20:10:00,42,1.2,1228,150,31,1109,Delivered,1,Rainy,No
+522,1246,Customer_32,Female,59,Pune,3,Burger Town,Fast Food,3.6,Partner_8,Scooter,Debit Card,28-03-2025,14:32:00,32,14.2,1497,20,34,1511,Delivered,2,Rainy,Yes
+523,1147,Customer_242,Female,56,Mumbai,1,Spice Hub,North Indian,3.7,Partner_12,Scooter,Cash,24-03-2025,07:14:00,38,5.7,201,0,62,263,Delivered,1,Cloudy,Yes
+524,1122,Customer_142,Male,55,Bengaluru,3,Burger Town,Fast Food,4.1,Partner_7,Bike,Net Banking,04-06-2025,12:41:00,53,2.7,940,150,53,843,Delivered,2,Sunny,No
+525,1104,Customer_274,Male,20,Delhi,1,Spice Hub,North Indian,3.7,Partner_27,Cycle,Net Banking,19-03-2025,16:11:00,31,13.5,1319,150,41,1210,Delivered,5,Rainy,No
+526,1269,Customer_258,Male,28,Hyderabad,6,Tandoori Treat,Chinese,4.4,Partner_45,Bike,Debit Card,04-05-2025,14:18:00,17,14.4,440,100,24,364,Delivered,2,Cloudy,No
+527,1261,Customer_197,Female,43,Hyderabad,6,Tandoori Treat,Chinese,4.4,Partner_14,Bike,UPI,12-02-2025,14:56:00,25,9,1290,150,24,1164,Delivered,1,Cloudy,No
+528,1138,Customer_283,Male,28,Pune,6,Tandoori Treat,Chinese,3.8,Partner_35,Bike,Debit Card,26-02-2025,10:06:00,17,10,1275,50,39,1264,Cancelled,3,Sunny,No
+529,1178,Customer_189,Female,23,Delhi,6,Tandoori Treat,Chinese,4.9,Partner_36,Scooter,Net Banking,30-01-2025,00:02:00,23,6.7,709,20,54,743,Delivered,3,Sunny,Yes
+530,1299,Customer_55,Female,59,Bengaluru,2,Pizza Point,Italian,3.9,Partner_41,Cycle,Wallet,05-01-2025,18:20:00,50,3.9,772,20,36,788,Delivered,3,Rainy,Yes
+531,1189,Customer_76,Female,23,Pune,6,Tandoori Treat,Chinese,4.2,Partner_30,Bike,Credit Card,01-03-2025,14:48:00,27,9,1009,20,48,1037,Cancelled,2,Cloudy,No
+532,1097,Customer_36,Male,22,Delhi,3,Burger Town,Fast Food,4.1,Partner_30,Cycle,Cash,11-04-2025,23:27:00,21,11.1,533,20,72,585,Delivered,1,Cloudy,Yes
+533,1023,Customer_68,Male,23,Hyderabad,4,Biryani House,Biryani,3.9,Partner_41,Cycle,UPI,04-01-2025,21:59:00,15,14.4,242,0,72,314,Delivered,3,Cloudy,Yes
+534,1158,Customer_170,Female,27,Mumbai,2,Pizza Point,Italian,3.9,Partner_35,Cycle,Debit Card,24-04-2025,05:34:00,55,8.6,1183,150,77,1110,Delivered,1,Sunny,No
+535,1117,Customer_219,Female,27,Delhi,5,Green Bowl,Healthy,4,Partner_19,Bike,Net Banking,27-02-2025,00:49:00,39,10.6,1050,20,20,1050,Delivered,1,Rainy,Yes
+536,1171,Customer_61,Female,23,Delhi,2,Pizza Point,Italian,4.8,Partner_39,Bike,Credit Card,20-01-2025,21:00:00,42,8.4,408,50,42,400,Delivered,4,Sunny,No
+537,1189,Customer_136,Male,18,Pune,3,Burger Town,Fast Food,4.8,Partner_10,Cycle,Credit Card,08-05-2025,22:35:00,35,3.1,913,0,37,950,Delivered,4,Sunny,Yes
+538,1094,Customer_198,Female,38,Pune,4,Biryani House,Biryani,4.2,Partner_31,Cycle,Cash,24-03-2025,04:21:00,53,12.1,770,20,25,775,Delivered,2,Rainy,No
+539,1118,Customer_197,Male,55,Pune,4,Biryani House,Biryani,4.6,Partner_34,Cycle,Net Banking,17-05-2025,18:18:00,29,10.8,1303,150,51,1204,Delivered,1,Sunny,Yes
+540,1179,Customer_185,Male,36,Bengaluru,5,Green Bowl,Healthy,4.2,Partner_36,Scooter,Credit Card,29-01-2025,02:02:00,28,12.6,1170,20,78,1228,Delivered,2,Sunny,Yes
+541,1055,Customer_298,Male,48,Hyderabad,6,Tandoori Treat,Chinese,4.8,Partner_11,Bike,Credit Card,14-01-2025,23:56:00,38,3,253,100,43,196,Delivered,1,Cloudy,No
+542,1154,Customer_241,Female,39,Mumbai,2,Pizza Point,Italian,4.2,Partner_42,Cycle,UPI,16-05-2025,23:50:00,33,2.6,1162,20,67,1209,Delivered,1,Cloudy,Yes
+543,1233,Customer_284,Female,54,Pune,2,Pizza Point,Italian,4.3,Partner_46,Bike,Cash,19-04-2025,23:12:00,25,4.8,222,100,73,195,Delivered,4,Sunny,Yes
+544,1040,Customer_240,Female,38,Hyderabad,5,Green Bowl,Healthy,4.5,Partner_26,Scooter,Credit Card,17-02-2025,19:05:00,18,12.2,314,20,45,339,Delivered,2,Rainy,Yes
+545,1123,Customer_145,Male,52,Delhi,1,Spice Hub,North Indian,3.7,Partner_14,Cycle,UPI,27-03-2025,00:57:00,34,3.6,942,150,69,861,Delivered,1,Sunny,No
+546,1025,Customer_162,Male,37,Delhi,5,Green Bowl,Healthy,3.5,Partner_23,Scooter,Cash,04-05-2025,01:33:00,47,3.7,1356,0,56,1412,Delivered,3,Sunny,Yes
+547,1196,Customer_245,Male,36,Bengaluru,4,Biryani House,Biryani,3.7,Partner_44,Scooter,UPI,08-02-2025,00:48:00,55,2.3,1231,0,52,1283,Delivered,2,Cloudy,Yes
+548,1268,Customer_175,Female,26,Chandigarh,2,Pizza Point,Italian,4,Partner_24,Cycle,Cash,05-06-2025,22:14:00,17,13.5,1227,150,66,1143,Delivered,4,Sunny,Yes
+549,1050,Customer_8,Male,37,Pune,5,Green Bowl,Healthy,4.3,Partner_6,Scooter,UPI,10-06-2025,16:58:00,44,5.4,353,20,56,389,Cancelled,2,Sunny,No
+550,1133,Customer_243,Female,46,Pune,3,Burger Town,Fast Food,4.5,Partner_9,Bike,Wallet,15-02-2025,15:43:00,46,1.6,923,0,24,947,Delivered,4,Rainy,Yes
+551,1043,Customer_212,Female,34,Hyderabad,3,Burger Town,Fast Food,4.8,Partner_44,Bike,Wallet,22-03-2025,12:45:00,56,1.8,1249,150,80,1179,Delivered,5,Sunny,Yes
+552,1115,Customer_199,Female,60,Delhi,3,Burger Town,Fast Food,3.6,Partner_30,Scooter,Net Banking,13-04-2025,02:29:00,49,13.6,969,20,56,1005,Delivered,1,Sunny,Yes
+553,1176,Customer_249,Male,48,Hyderabad,4,Biryani House,Biryani,3.7,Partner_30,Bike,Wallet,17-01-2025,10:49:00,24,14.3,608,100,41,549,Delivered,2,Rainy,Yes
+554,1110,Customer_28,Male,19,Pune,4,Biryani House,Biryani,4.9,Partner_44,Scooter,Debit Card,21-04-2025,16:09:00,31,9.9,327,50,70,347,Delivered,1,Rainy,No
+555,1133,Customer_95,Male,23,Delhi,3,Burger Town,Fast Food,4.8,Partner_28,Scooter,Debit Card,24-02-2025,22:51:00,25,3.8,1124,100,53,1077,Cancelled,4,Rainy,Yes
+556,1102,Customer_40,Male,38,Chandigarh,4,Biryani House,Biryani,4.5,Partner_47,Cycle,Net Banking,03-01-2025,19:08:00,35,1.2,926,150,44,820,Delivered,2,Rainy,No
+557,1065,Customer_231,Male,20,Delhi,6,Tandoori Treat,Chinese,3.8,Partner_13,Scooter,Net Banking,01-01-2025,15:22:00,49,11.8,1032,50,53,1035,Delivered,2,Rainy,Yes
+558,1155,Customer_158,Male,49,Mumbai,6,Tandoori Treat,Chinese,4.5,Partner_30,Scooter,Cash,04-04-2025,00:33:00,37,5.9,1381,0,43,1424,Delivered,5,Rainy,Yes
+559,1084,Customer_278,Female,42,Mumbai,4,Biryani House,Biryani,3.9,Partner_43,Cycle,Net Banking,22-05-2025,20:18:00,42,9.9,1077,50,31,1058,Delivered,1,Sunny,Yes
+560,1255,Customer_279,Male,58,Delhi,6,Tandoori Treat,Chinese,4.2,Partner_38,Bike,Net Banking,16-04-2025,03:32:00,33,12.9,233,150,79,162,Delivered,4,Cloudy,No
+561,1203,Customer_4,Female,32,Delhi,2,Pizza Point,Italian,4.3,Partner_18,Cycle,Debit Card,29-04-2025,14:05:00,34,12.7,1161,0,42,1203,Delivered,4,Cloudy,Yes
+562,1266,Customer_163,Female,28,Delhi,4,Biryani House,Biryani,4.9,Partner_28,Bike,Wallet,09-02-2025,12:46:00,40,3.7,266,0,21,287,Delivered,1,Cloudy,No
+563,1082,Customer_224,Male,24,Mumbai,6,Tandoori Treat,Chinese,4.6,Partner_9,Cycle,UPI,23-03-2025,17:39:00,55,9.1,999,20,45,1024,Delivered,3,Cloudy,Yes
+564,1079,Customer_15,Male,54,Bengaluru,2,Pizza Point,Italian,4.1,Partner_48,Cycle,Credit Card,22-04-2025,00:23:00,44,9.9,390,0,21,411,Delivered,2,Sunny,Yes
+565,1027,Customer_141,Male,27,Bengaluru,2,Pizza Point,Italian,4.4,Partner_41,Cycle,UPI,07-04-2025,08:53:00,22,7.4,1296,20,66,1342,Delivered,1,Sunny,No
+566,1201,Customer_52,Female,19,Bengaluru,2,Pizza Point,Italian,4.1,Partner_32,Cycle,UPI,03-04-2025,07:05:00,28,10.6,390,0,51,441,Delivered,3,Cloudy,No
+567,1291,Customer_17,Male,39,Mumbai,2,Pizza Point,Italian,5,Partner_31,Cycle,Wallet,15-02-2025,22:30:00,49,1.1,811,0,77,888,Delivered,3,Sunny,Yes
+568,1111,Customer_187,Male,31,Pune,1,Spice Hub,North Indian,3.5,Partner_9,Bike,UPI,12-05-2025,05:12:00,59,14.2,1297,0,53,1350,Delivered,4,Sunny,Yes
+569,1263,Customer_205,Male,34,Bengaluru,6,Tandoori Treat,Chinese,3.8,Partner_44,Cycle,Debit Card,07-05-2025,14:53:00,40,2.4,1329,50,49,1328,Delivered,5,Rainy,Yes
+570,1140,Customer_164,Male,56,Mumbai,6,Tandoori Treat,Chinese,4.1,Partner_13,Cycle,Debit Card,25-04-2025,14:27:00,38,13.6,1199,100,76,1175,Delivered,4,Sunny,Yes
+571,1272,Customer_181,Female,19,Pune,3,Burger Town,Fast Food,3.7,Partner_21,Scooter,Credit Card,04-06-2025,22:01:00,37,4.4,1401,100,38,1339,Delivered,3,Rainy,Yes
+572,1110,Customer_239,Female,32,Bengaluru,1,Spice Hub,North Indian,4.3,Partner_25,Scooter,Wallet,03-01-2025,11:13:00,28,8.4,219,50,64,233,Delivered,3,Cloudy,Yes
+573,1101,Customer_26,Female,49,Pune,6,Tandoori Treat,Chinese,3.6,Partner_18,Scooter,UPI,23-03-2025,06:45:00,22,7.3,1063,100,40,1003,Delivered,5,Rainy,Yes
+574,1237,Customer_146,Male,43,Pune,1,Spice Hub,North Indian,3.6,Partner_35,Cycle,UPI,28-05-2025,00:09:00,36,10,783,0,61,844,Delivered,1,Rainy,No
+575,1253,Customer_25,Female,37,Bengaluru,3,Burger Town,Fast Food,4.5,Partner_30,Scooter,Net Banking,23-05-2025,10:41:00,22,12.8,908,100,25,833,Cancelled,1,Sunny,Yes
+576,1116,Customer_88,Male,30,Delhi,1,Spice Hub,North Indian,4.6,Partner_24,Cycle,UPI,26-06-2025,14:52:00,59,13.2,484,0,40,524,Delivered,1,Sunny,Yes
+577,1139,Customer_88,Male,55,Bengaluru,1,Spice Hub,North Indian,4.2,Partner_9,Scooter,Credit Card,06-06-2025,12:57:00,52,13.4,740,50,64,754,Cancelled,4,Cloudy,No
+578,1251,Customer_144,Female,48,Chandigarh,1,Spice Hub,North Indian,3.8,Partner_17,Scooter,Net Banking,28-05-2025,16:18:00,20,5.9,1268,150,35,1153,Delivered,2,Cloudy,Yes
+579,1111,Customer_240,Female,30,Chandigarh,1,Spice Hub,North Indian,4.2,Partner_22,Bike,Wallet,24-02-2025,00:26:00,48,8.2,353,100,23,276,Delivered,3,Cloudy,No
+580,1187,Customer_198,Female,57,Chandigarh,2,Pizza Point,Italian,4.3,Partner_50,Scooter,Credit Card,03-02-2025,07:28:00,19,4.9,1233,0,78,1311,Delivered,3,Cloudy,Yes
+581,1096,Customer_137,Male,48,Mumbai,4,Biryani House,Biryani,4.5,Partner_29,Scooter,Debit Card,05-01-2025,15:43:00,22,14,419,0,35,454,Delivered,4,Sunny,Yes
+582,1140,Customer_190,Male,21,Hyderabad,5,Green Bowl,Healthy,4.5,Partner_47,Scooter,Credit Card,14-01-2025,15:03:00,33,3.7,1082,150,41,973,Delivered,3,Cloudy,No
+583,1113,Customer_59,Male,20,Pune,4,Biryani House,Biryani,4.4,Partner_16,Bike,Wallet,05-03-2025,03:47:00,21,4.9,423,0,61,484,Delivered,4,Rainy,No
+584,1178,Customer_148,Female,18,Delhi,2,Pizza Point,Italian,3.6,Partner_33,Cycle,Wallet,13-02-2025,06:56:00,45,11.3,749,100,33,682,Delivered,2,Sunny,No
+585,1007,Customer_243,Female,39,Chandigarh,1,Spice Hub,North Indian,3.5,Partner_17,Bike,Credit Card,27-04-2025,04:50:00,58,11.6,541,20,41,562,Delivered,3,Rainy,Yes
+586,1149,Customer_117,Male,27,Hyderabad,2,Pizza Point,Italian,4.7,Partner_7,Scooter,Net Banking,05-01-2025,19:21:00,36,7.3,1167,0,22,1189,Delivered,5,Rainy,No
+587,1171,Customer_266,Female,25,Bengaluru,3,Burger Town,Fast Food,3.9,Partner_34,Cycle,Net Banking,01-04-2025,10:16:00,16,3.1,1139,0,72,1211,Delivered,2,Cloudy,Yes
+588,1185,Customer_106,Male,30,Bengaluru,4,Biryani House,Biryani,4.9,Partner_25,Cycle,UPI,28-06-2025,14:42:00,32,13.3,263,20,56,299,Delivered,4,Cloudy,Yes
+589,1142,Customer_159,Male,20,Bengaluru,6,Tandoori Treat,Chinese,4.4,Partner_45,Scooter,Wallet,31-05-2025,14:14:00,22,7.1,914,50,45,909,Delivered,3,Rainy,Yes
+590,1149,Customer_286,Male,37,Delhi,4,Biryani House,Biryani,4.2,Partner_5,Scooter,UPI,08-02-2025,17:51:00,44,1.6,501,100,63,464,Delivered,5,Sunny,Yes
+591,1026,Customer_129,Male,40,Hyderabad,3,Burger Town,Fast Food,4.8,Partner_33,Cycle,Wallet,19-06-2025,00:01:00,24,14.4,210,100,42,152,Delivered,2,Cloudy,Yes
+592,1182,Customer_128,Female,45,Hyderabad,5,Green Bowl,Healthy,4.1,Partner_7,Scooter,Debit Card,09-01-2025,16:09:00,53,5.4,365,50,34,349,Delivered,3,Cloudy,Yes
+593,1155,Customer_157,Male,37,Chandigarh,2,Pizza Point,Italian,4.3,Partner_41,Scooter,Wallet,22-05-2025,06:48:00,26,6.3,712,20,46,738,Delivered,4,Sunny,Yes
+594,1240,Customer_182,Female,47,Pune,4,Biryani House,Biryani,4.1,Partner_27,Scooter,UPI,25-06-2025,12:12:00,50,1.4,841,150,79,770,Delivered,1,Sunny,No
+595,1290,Customer_151,Male,43,Mumbai,5,Green Bowl,Healthy,3.7,Partner_43,Bike,Cash,08-06-2025,18:32:00,48,7.4,1248,50,28,1226,Delivered,1,Rainy,Yes
+596,1170,Customer_32,Male,55,Bengaluru,5,Green Bowl,Healthy,4.5,Partner_48,Cycle,UPI,04-05-2025,23:34:00,59,3.9,399,50,56,405,Delivered,4,Sunny,Yes
+597,1249,Customer_103,Male,22,Chandigarh,6,Tandoori Treat,Chinese,3.5,Partner_39,Bike,Wallet,21-03-2025,00:13:00,21,4.5,516,50,60,526,Delivered,1,Cloudy,No
+598,1121,Customer_280,Female,57,Hyderabad,1,Spice Hub,North Indian,4.5,Partner_43,Cycle,UPI,04-05-2025,06:16:00,42,3,449,50,45,444,Delivered,2,Cloudy,Yes
+599,1149,Customer_52,Female,41,Mumbai,5,Green Bowl,Healthy,4.5,Partner_26,Scooter,Net Banking,03-05-2025,09:53:00,21,7.5,1319,20,50,1349,Delivered,2,Sunny,No
+600,1018,Customer_228,Male,40,Hyderabad,1,Spice Hub,North Indian,4.9,Partner_30,Cycle,Cash,29-05-2025,10:20:00,32,1.1,1355,100,20,1275,Delivered,5,Cloudy,Yes
+601,1078,Customer_181,Female,47,Bengaluru,6,Tandoori Treat,Chinese,4.6,Partner_9,Scooter,Net Banking,17-01-2025,05:57:00,34,13.9,1275,100,52,1227,Delivered,4,Rainy,No
+602,1270,Customer_133,Male,38,Pune,6,Tandoori Treat,Chinese,4.4,Partner_38,Scooter,Wallet,10-05-2025,22:29:00,54,12.6,569,150,65,484,Delivered,1,Cloudy,Yes
+603,1166,Customer_119,Male,24,Mumbai,1,Spice Hub,North Indian,4.8,Partner_12,Cycle,Cash,23-06-2025,16:15:00,41,13.9,417,100,79,396,Delivered,3,Sunny,Yes
+604,1090,Customer_165,Male,46,Chandigarh,1,Spice Hub,North Indian,4.1,Partner_41,Cycle,Wallet,11-06-2025,01:00:00,27,3.7,1104,50,58,1112,Delivered,3,Sunny,Yes
+605,1299,Customer_13,Male,31,Chandigarh,2,Pizza Point,Italian,3.5,Partner_9,Bike,Debit Card,19-02-2025,02:56:00,41,9,1088,150,71,1009,Delivered,3,Sunny,No
+606,1287,Customer_71,Male,46,Mumbai,2,Pizza Point,Italian,4.1,Partner_25,Bike,Wallet,01-04-2025,12:10:00,20,2.8,1368,100,52,1320,Delivered,1,Sunny,No
+607,1149,Customer_129,Female,40,Mumbai,1,Spice Hub,North Indian,3.6,Partner_11,Scooter,UPI,06-01-2025,07:38:00,49,9.1,1431,150,41,1322,Delivered,5,Cloudy,No
+608,1242,Customer_135,Male,20,Hyderabad,5,Green Bowl,Healthy,4,Partner_17,Bike,Debit Card,29-01-2025,19:53:00,18,3,316,150,64,230,Delivered,3,Cloudy,Yes
+609,1019,Customer_178,Male,44,Mumbai,4,Biryani House,Biryani,4.4,Partner_40,Bike,Wallet,06-06-2025,23:59:00,45,14.3,349,150,77,276,Delivered,1,Sunny,Yes
+610,1117,Customer_11,Male,19,Hyderabad,5,Green Bowl,Healthy,4.7,Partner_13,Cycle,Wallet,03-05-2025,10:21:00,39,10.5,661,50,47,658,Delivered,5,Rainy,Yes
+611,1071,Customer_60,Female,25,Hyderabad,4,Biryani House,Biryani,4.8,Partner_24,Scooter,Credit Card,20-04-2025,18:45:00,36,7.1,456,100,64,420,Delivered,2,Sunny,Yes
+612,1030,Customer_40,Male,26,Mumbai,4,Biryani House,Biryani,4.2,Partner_19,Bike,Debit Card,04-01-2025,08:31:00,37,9.4,1298,150,22,1170,Delivered,3,Sunny,No
+613,1106,Customer_254,Female,32,Hyderabad,6,Tandoori Treat,Chinese,4.2,Partner_20,Scooter,Wallet,06-03-2025,18:33:00,33,13.2,450,0,24,474,Delivered,3,Rainy,Yes
+614,1105,Customer_71,Male,37,Delhi,3,Burger Town,Fast Food,4.6,Partner_14,Bike,Debit Card,13-03-2025,02:40:00,24,1.5,1041,150,51,942,Delivered,4,Cloudy,No
+615,1197,Customer_154,Male,21,Delhi,1,Spice Hub,North Indian,3.9,Partner_40,Scooter,Cash,13-03-2025,20:04:00,16,13.1,1221,0,37,1258,Delivered,1,Sunny,Yes
+616,1017,Customer_278,Female,19,Hyderabad,2,Pizza Point,Italian,4.9,Partner_49,Scooter,Debit Card,19-06-2025,10:24:00,52,4,1082,150,23,955,Delivered,5,Rainy,No
+617,1148,Customer_274,Female,45,Chandigarh,6,Tandoori Treat,Chinese,4.4,Partner_37,Cycle,Debit Card,10-04-2025,23:08:00,25,14.4,316,0,55,371,Delivered,2,Sunny,Yes
+618,1173,Customer_293,Female,20,Bengaluru,6,Tandoori Treat,Chinese,4.4,Partner_24,Scooter,Net Banking,19-05-2025,10:05:00,31,12,761,0,35,796,Delivered,5,Sunny,Yes
+619,1237,Customer_9,Female,18,Bengaluru,5,Green Bowl,Healthy,4.2,Partner_23,Scooter,Net Banking,15-02-2025,15:08:00,50,4,857,50,74,881,Delivered,1,Rainy,No
+620,1254,Customer_66,Male,58,Delhi,4,Biryani House,Biryani,3.8,Partner_40,Cycle,UPI,12-03-2025,08:51:00,29,2.6,568,50,69,587,Delivered,5,Rainy,No
+621,1009,Customer_181,Male,56,Delhi,5,Green Bowl,Healthy,3.9,Partner_7,Bike,Wallet,08-03-2025,08:47:00,43,2.6,666,0,80,746,Delivered,2,Rainy,No
+622,1013,Customer_168,Female,39,Chandigarh,4,Biryani House,Biryani,5,Partner_42,Scooter,Cash,14-03-2025,04:53:00,33,9.7,346,100,76,322,Delivered,1,Rainy,Yes
+623,1261,Customer_298,Female,31,Pune,1,Spice Hub,North Indian,4.1,Partner_38,Bike,Net Banking,22-03-2025,17:26:00,24,6.3,417,150,33,300,Cancelled,1,Sunny,Yes
+624,1063,Customer_271,Male,56,Pune,5,Green Bowl,Healthy,4.2,Partner_34,Cycle,Cash,18-04-2025,18:23:00,35,4.8,1376,150,66,1292,Delivered,3,Sunny,No
+625,1124,Customer_228,Female,41,Mumbai,3,Burger Town,Fast Food,3.6,Partner_36,Cycle,UPI,30-01-2025,23:39:00,38,10.1,672,100,40,612,Delivered,4,Rainy,Yes
+626,1300,Customer_71,Female,36,Pune,2,Pizza Point,Italian,4,Partner_8,Bike,Cash,15-04-2025,23:00:00,41,8.1,1301,20,69,1350,Delivered,4,Cloudy,Yes
+627,1284,Customer_241,Male,26,Mumbai,4,Biryani House,Biryani,4.8,Partner_28,Bike,Net Banking,18-04-2025,08:59:00,25,14.9,231,20,27,238,Delivered,5,Rainy,No
+628,1173,Customer_173,Male,20,Bengaluru,2,Pizza Point,Italian,3.6,Partner_23,Scooter,Cash,17-03-2025,04:03:00,55,7.3,1023,150,35,908,Delivered,3,Rainy,Yes
+629,1190,Customer_233,Female,38,Chandigarh,2,Pizza Point,Italian,4.2,Partner_33,Cycle,Wallet,08-02-2025,00:15:00,32,14.2,1407,150,25,1282,Delivered,3,Rainy,No
+630,1147,Customer_166,Female,38,Delhi,5,Green Bowl,Healthy,4.6,Partner_10,Bike,Net Banking,11-05-2025,14:33:00,28,7,1260,150,57,1167,Delivered,5,Rainy,Yes
+631,1225,Customer_115,Male,36,Bengaluru,3,Burger Town,Fast Food,4.9,Partner_17,Cycle,UPI,12-03-2025,16:36:00,29,10.3,539,0,38,577,Delivered,2,Cloudy,Yes
+632,1251,Customer_14,Female,31,Delhi,5,Green Bowl,Healthy,3.9,Partner_37,Scooter,Net Banking,19-02-2025,00:13:00,43,8.3,281,150,54,185,Delivered,3,Sunny,Yes
+633,1060,Customer_182,Male,32,Hyderabad,4,Biryani House,Biryani,4.6,Partner_21,Bike,Wallet,05-02-2025,09:30:00,36,4.9,1210,50,25,1185,Delivered,5,Cloudy,Yes
+634,1163,Customer_98,Male,58,Chandigarh,6,Tandoori Treat,Chinese,4.4,Partner_16,Bike,Wallet,26-01-2025,17:47:00,39,13.2,844,0,47,891,Delivered,2,Rainy,No
+635,1046,Customer_265,Male,18,Mumbai,4,Biryani House,Biryani,4.2,Partner_32,Cycle,Wallet,03-02-2025,06:46:00,28,10.9,583,100,38,521,Delivered,3,Cloudy,No
+636,1093,Customer_154,Male,36,Chandigarh,5,Green Bowl,Healthy,4.5,Partner_32,Cycle,Cash,16-05-2025,22:25:00,53,6,680,50,50,680,Delivered,1,Sunny,Yes
+637,1060,Customer_91,Female,38,Bengaluru,4,Biryani House,Biryani,4.5,Partner_23,Cycle,Cash,19-06-2025,14:30:00,60,2.8,1115,50,35,1100,Delivered,4,Cloudy,No
+638,1210,Customer_32,Female,34,Chandigarh,2,Pizza Point,Italian,4.5,Partner_27,Scooter,Cash,10-05-2025,07:20:00,42,6.6,259,50,37,246,Delivered,3,Rainy,Yes
+639,1294,Customer_86,Male,58,Bengaluru,6,Tandoori Treat,Chinese,3.7,Partner_40,Cycle,Debit Card,15-04-2025,07:33:00,23,9.5,293,50,48,291,Delivered,1,Rainy,Yes
+640,1266,Customer_108,Female,52,Chandigarh,3,Burger Town,Fast Food,3.8,Partner_11,Cycle,Cash,17-06-2025,01:40:00,60,4.2,922,150,24,796,Delivered,3,Rainy,No
+641,1053,Customer_257,Female,49,Mumbai,5,Green Bowl,Healthy,3.6,Partner_19,Scooter,UPI,06-01-2025,17:58:00,29,9.8,709,0,22,731,Delivered,1,Rainy,Yes
+642,1040,Customer_38,Female,19,Hyderabad,6,Tandoori Treat,Chinese,3.5,Partner_35,Cycle,Credit Card,11-03-2025,02:53:00,21,11.3,1020,20,72,1072,Delivered,2,Cloudy,No
+643,1104,Customer_52,Female,59,Bengaluru,4,Biryani House,Biryani,4.4,Partner_25,Scooter,Cash,12-03-2025,15:39:00,20,4.1,1249,0,39,1288,Delivered,3,Rainy,No
+644,1202,Customer_191,Male,46,Chandigarh,5,Green Bowl,Healthy,3.8,Partner_2,Scooter,Credit Card,05-01-2025,16:57:00,43,6.2,1237,20,44,1261,Delivered,3,Rainy,Yes
+645,1128,Customer_43,Male,43,Chandigarh,1,Spice Hub,North Indian,4.4,Partner_31,Cycle,Net Banking,23-02-2025,16:43:00,51,11.6,395,150,30,275,Delivered,4,Rainy,No
+646,1290,Customer_209,Male,35,Bengaluru,6,Tandoori Treat,Chinese,4.5,Partner_49,Cycle,Cash,24-03-2025,23:31:00,49,8,891,20,22,893,Cancelled,2,Rainy,No
+647,1218,Customer_40,Female,26,Chandigarh,4,Biryani House,Biryani,4.6,Partner_11,Cycle,Net Banking,21-01-2025,03:35:00,22,3.3,1253,150,74,1177,Delivered,1,Sunny,No
+648,1215,Customer_205,Male,36,Hyderabad,2,Pizza Point,Italian,3.7,Partner_19,Cycle,Net Banking,05-02-2025,18:40:00,32,8.3,1482,150,51,1383,Delivered,3,Cloudy,Yes
+649,1266,Customer_129,Female,47,Mumbai,3,Burger Town,Fast Food,3.8,Partner_22,Cycle,Net Banking,07-06-2025,12:40:00,23,3.3,1271,20,71,1322,Delivered,4,Sunny,No
+650,1097,Customer_103,Male,52,Hyderabad,2,Pizza Point,Italian,4.2,Partner_7,Bike,Wallet,02-01-2025,10:38:00,44,9.3,507,100,24,431,Delivered,5,Sunny,No
+651,1157,Customer_189,Female,34,Chandigarh,1,Spice Hub,North Indian,4.3,Partner_42,Cycle,Credit Card,20-04-2025,19:56:00,19,9.3,594,50,38,582,Delivered,2,Rainy,Yes
+652,1197,Customer_170,Female,57,Bengaluru,5,Green Bowl,Healthy,4.5,Partner_31,Bike,Credit Card,14-05-2025,20:02:00,15,12,409,20,71,460,Cancelled,1,Cloudy,Yes
+653,1071,Customer_262,Female,45,Mumbai,2,Pizza Point,Italian,4.5,Partner_21,Scooter,Wallet,20-01-2025,01:46:00,22,4.4,1173,0,40,1213,Delivered,4,Cloudy,No
+654,1110,Customer_86,Female,27,Bengaluru,3,Burger Town,Fast Food,4.8,Partner_36,Scooter,Cash,21-01-2025,20:39:00,59,12,1269,50,53,1272,Delivered,5,Rainy,No
+655,1218,Customer_110,Male,42,Mumbai,1,Spice Hub,North Indian,4.1,Partner_48,Bike,Credit Card,21-06-2025,11:48:00,43,6.1,948,100,69,917,Delivered,5,Rainy,No
+656,1140,Customer_18,Female,59,Delhi,3,Burger Town,Fast Food,4.2,Partner_3,Cycle,Net Banking,04-01-2025,20:42:00,31,4.8,719,150,78,647,Delivered,5,Sunny,No
+657,1280,Customer_54,Male,41,Pune,6,Tandoori Treat,Chinese,3.5,Partner_46,Bike,Net Banking,02-05-2025,22:06:00,26,13.2,1130,100,31,1061,Delivered,4,Sunny,Yes
+658,1100,Customer_9,Female,38,Hyderabad,6,Tandoori Treat,Chinese,4.8,Partner_11,Cycle,Net Banking,20-05-2025,09:28:00,38,8.2,327,50,26,303,Cancelled,4,Rainy,Yes
+659,1089,Customer_228,Male,35,Delhi,2,Pizza Point,Italian,4.4,Partner_45,Cycle,Cash,10-03-2025,02:51:00,26,9.9,1227,20,66,1273,Delivered,1,Rainy,No
+660,1045,Customer_290,Female,23,Pune,3,Burger Town,Fast Food,3.7,Partner_6,Bike,Net Banking,26-05-2025,23:46:00,20,3.6,441,50,49,440,Delivered,1,Sunny,Yes
+661,1098,Customer_68,Female,21,Mumbai,6,Tandoori Treat,Chinese,4.1,Partner_19,Bike,Debit Card,05-03-2025,10:30:00,23,8.9,967,100,25,892,Delivered,2,Rainy,Yes
+662,1182,Customer_297,Female,40,Mumbai,3,Burger Town,Fast Food,4.7,Partner_34,Scooter,Net Banking,24-01-2025,16:43:00,58,12.6,731,100,36,667,Delivered,5,Rainy,Yes
+663,1148,Customer_107,Female,50,Pune,5,Green Bowl,Healthy,4.3,Partner_48,Scooter,UPI,15-06-2025,23:16:00,47,11.8,631,100,42,573,Delivered,4,Rainy,Yes
+664,1166,Customer_191,Female,60,Delhi,5,Green Bowl,Healthy,4.4,Partner_3,Scooter,Net Banking,05-02-2025,15:56:00,21,9.8,1492,20,50,1522,Delivered,1,Sunny,No
+665,1084,Customer_240,Male,19,Hyderabad,3,Burger Town,Fast Food,4.2,Partner_40,Scooter,Wallet,02-04-2025,10:27:00,51,10.7,889,0,31,920,Delivered,4,Sunny,No
+666,1154,Customer_21,Male,50,Chandigarh,3,Burger Town,Fast Food,3.7,Partner_28,Scooter,Wallet,23-06-2025,13:41:00,40,9.3,1430,50,50,1430,Delivered,2,Rainy,Yes
+667,1159,Customer_73,Female,47,Pune,2,Pizza Point,Italian,4.1,Partner_30,Bike,Net Banking,14-01-2025,03:05:00,24,3.8,466,50,70,486,Delivered,3,Sunny,Yes
+668,1285,Customer_192,Male,48,Mumbai,2,Pizza Point,Italian,3.7,Partner_7,Scooter,Wallet,04-03-2025,05:15:00,58,6.5,1094,0,66,1160,Delivered,4,Cloudy,No
+669,1069,Customer_205,Female,36,Hyderabad,6,Tandoori Treat,Chinese,4.7,Partner_47,Scooter,Wallet,02-02-2025,10:51:00,40,8.5,697,0,44,741,Delivered,5,Sunny,Yes
+670,1001,Customer_204,Male,59,Pune,2,Pizza Point,Italian,3.8,Partner_32,Bike,UPI,29-03-2025,17:06:00,28,5.2,681,50,43,674,Delivered,4,Cloudy,Yes
+671,1018,Customer_134,Female,29,Hyderabad,2,Pizza Point,Italian,3.7,Partner_44,Cycle,UPI,22-06-2025,16:24:00,44,12.3,783,50,44,777,Delivered,1,Cloudy,No
+672,1233,Customer_6,Female,59,Delhi,2,Pizza Point,Italian,4.9,Partner_26,Scooter,UPI,10-05-2025,13:06:00,34,6.9,853,20,56,889,Delivered,1,Cloudy,No
+673,1058,Customer_92,Female,52,Pune,3,Burger Town,Fast Food,4.6,Partner_44,Bike,Credit Card,17-05-2025,12:27:00,15,5.7,1169,50,74,1193,Cancelled,5,Rainy,Yes
+674,1021,Customer_63,Female,47,Pune,5,Green Bowl,Healthy,4.1,Partner_39,Cycle,Debit Card,29-04-2025,09:36:00,31,7,1131,100,23,1054,Delivered,1,Cloudy,No
+675,1153,Customer_19,Male,40,Mumbai,3,Burger Town,Fast Food,4.6,Partner_35,Cycle,Cash,25-04-2025,11:04:00,30,3.5,930,100,21,851,Delivered,2,Cloudy,Yes
+676,1125,Customer_269,Female,20,Chandigarh,4,Biryani House,Biryani,3.6,Partner_24,Bike,Credit Card,28-04-2025,23:31:00,53,14.7,1082,50,42,1074,Delivered,1,Rainy,Yes
+677,1132,Customer_41,Female,25,Bengaluru,6,Tandoori Treat,Chinese,4.7,Partner_37,Scooter,Debit Card,06-01-2025,06:16:00,54,8.2,818,100,45,763,Delivered,2,Cloudy,Yes
+678,1096,Customer_142,Male,56,Bengaluru,5,Green Bowl,Healthy,4.1,Partner_12,Cycle,Debit Card,22-04-2025,09:22:00,32,1.1,1168,20,68,1216,Delivered,4,Cloudy,Yes
+679,1050,Customer_114,Male,19,Bengaluru,3,Burger Town,Fast Food,4.6,Partner_15,Bike,Wallet,12-06-2025,10:51:00,33,11.2,1147,150,70,1067,Delivered,4,Cloudy,No
+680,1007,Customer_176,Female,38,Chandigarh,5,Green Bowl,Healthy,4,Partner_29,Bike,Cash,02-05-2025,19:02:00,46,3.9,873,150,44,767,Delivered,4,Rainy,No
+681,1177,Customer_43,Male,51,Delhi,6,Tandoori Treat,Chinese,4.1,Partner_19,Scooter,Cash,05-05-2025,19:09:00,58,7.5,1370,0,60,1430,Delivered,5,Sunny,No
+682,1252,Customer_121,Female,52,Pune,4,Biryani House,Biryani,3.7,Partner_39,Bike,UPI,14-03-2025,18:59:00,40,4.1,1050,0,68,1118,Cancelled,5,Rainy,Yes
+683,1215,Customer_143,Female,41,Mumbai,6,Tandoori Treat,Chinese,4.4,Partner_43,Cycle,Net Banking,01-04-2025,07:25:00,55,5.4,1021,150,46,917,Delivered,4,Sunny,No
+684,1148,Customer_2,Female,47,Hyderabad,4,Biryani House,Biryani,4.5,Partner_44,Bike,Cash,15-02-2025,13:39:00,52,10.1,786,100,30,716,Cancelled,4,Sunny,Yes
+685,1293,Customer_210,Male,38,Pune,2,Pizza Point,Italian,4.4,Partner_11,Cycle,Net Banking,09-05-2025,02:44:00,45,10.6,483,150,59,392,Cancelled,1,Cloudy,No
+686,1090,Customer_242,Male,38,Pune,5,Green Bowl,Healthy,3.7,Partner_5,Bike,Credit Card,05-04-2025,08:10:00,51,7.5,595,20,49,624,Delivered,5,Rainy,Yes
+687,1082,Customer_126,Female,22,Mumbai,4,Biryani House,Biryani,3.5,Partner_3,Cycle,Net Banking,04-06-2025,11:18:00,41,13.1,1224,0,71,1295,Cancelled,4,Sunny,No
+688,1274,Customer_13,Female,48,Bengaluru,6,Tandoori Treat,Chinese,4.7,Partner_4,Scooter,Cash,05-06-2025,22:05:00,17,6.1,1300,0,65,1365,Delivered,5,Cloudy,No
+689,1058,Customer_87,Female,44,Hyderabad,1,Spice Hub,North Indian,4.5,Partner_10,Bike,Cash,09-03-2025,19:47:00,28,4.7,412,20,74,466,Delivered,1,Rainy,No
+690,1231,Customer_133,Female,56,Mumbai,3,Burger Town,Fast Food,3.6,Partner_9,Bike,Wallet,24-04-2025,11:17:00,33,1.4,901,50,64,915,Delivered,5,Rainy,No
+691,1226,Customer_151,Male,26,Bengaluru,6,Tandoori Treat,Chinese,3.7,Partner_19,Scooter,Debit Card,20-03-2025,16:13:00,55,4.2,524,150,60,434,Delivered,5,Rainy,Yes
+692,1208,Customer_245,Male,40,Pune,1,Spice Hub,North Indian,4.5,Partner_38,Cycle,Debit Card,11-05-2025,17:38:00,48,6.2,731,50,66,747,Delivered,4,Cloudy,Yes
+693,1034,Customer_176,Male,37,Pune,4,Biryani House,Biryani,3.8,Partner_10,Scooter,Wallet,08-04-2025,00:29:00,22,10.1,559,100,77,536,Delivered,4,Cloudy,Yes
+694,1205,Customer_51,Female,50,Chandigarh,5,Green Bowl,Healthy,3.6,Partner_36,Cycle,Net Banking,20-06-2025,01:07:00,49,13.2,667,20,43,690,Cancelled,1,Rainy,Yes
+695,1091,Customer_21,Female,53,Mumbai,3,Burger Town,Fast Food,3.9,Partner_48,Bike,Net Banking,26-06-2025,15:34:00,19,13.7,574,20,34,588,Delivered,3,Sunny,Yes
+696,1275,Customer_27,Female,58,Mumbai,2,Pizza Point,Italian,3.6,Partner_31,Bike,Cash,29-04-2025,03:21:00,20,7.7,1399,150,50,1299,Delivered,5,Sunny,No
+697,1100,Customer_234,Male,34,Bengaluru,5,Green Bowl,Healthy,4.6,Partner_39,Scooter,Cash,29-01-2025,15:06:00,55,3.5,219,150,47,116,Delivered,5,Rainy,No
+698,1258,Customer_159,Female,25,Bengaluru,5,Green Bowl,Healthy,5,Partner_12,Scooter,UPI,23-06-2025,19:09:00,35,13.5,709,50,37,696,Delivered,4,Sunny,Yes
+699,1276,Customer_94,Male,24,Delhi,4,Biryani House,Biryani,4.6,Partner_14,Scooter,Wallet,24-04-2025,11:41:00,34,5.5,823,0,79,902,Delivered,1,Cloudy,No
+700,1203,Customer_88,Male,57,Pune,2,Pizza Point,Italian,4.5,Partner_21,Cycle,Cash,10-02-2025,06:33:00,56,9.3,1369,20,40,1389,Delivered,3,Sunny,No
+701,1162,Customer_231,Female,45,Hyderabad,3,Burger Town,Fast Food,4.3,Partner_49,Scooter,UPI,27-03-2025,12:04:00,40,1.8,959,20,39,978,Delivered,2,Rainy,No
+702,1192,Customer_13,Female,45,Delhi,6,Tandoori Treat,Chinese,4.7,Partner_21,Cycle,Wallet,07-03-2025,10:03:00,27,12.2,614,20,62,656,Delivered,4,Rainy,Yes
+703,1241,Customer_24,Female,49,Delhi,2,Pizza Point,Italian,3.9,Partner_39,Cycle,Cash,03-05-2025,20:14:00,18,2.4,528,50,66,544,Delivered,3,Cloudy,No
+704,1212,Customer_78,Male,55,Hyderabad,3,Burger Town,Fast Food,3.9,Partner_13,Cycle,UPI,19-01-2025,11:04:00,43,4.4,427,100,28,355,Delivered,3,Cloudy,No
+705,1185,Customer_229,Male,29,Chandigarh,1,Spice Hub,North Indian,4,Partner_15,Scooter,Debit Card,29-06-2025,10:42:00,36,3.8,487,0,75,562,Cancelled,3,Rainy,Yes
+706,1271,Customer_31,Female,19,Mumbai,1,Spice Hub,North Indian,4.3,Partner_3,Cycle,Debit Card,05-05-2025,01:38:00,49,7.9,1041,100,45,986,Delivered,1,Cloudy,Yes
+707,1045,Customer_294,Female,57,Pune,1,Spice Hub,North Indian,4.5,Partner_13,Bike,Net Banking,10-02-2025,17:31:00,42,12.4,1343,0,54,1397,Delivered,2,Cloudy,No
+708,1222,Customer_11,Female,54,Delhi,2,Pizza Point,Italian,3.9,Partner_40,Scooter,UPI,16-05-2025,23:38:00,15,4.2,1378,50,49,1377,Delivered,3,Sunny,No
+709,1079,Customer_97,Male,31,Pune,4,Biryani House,Biryani,4,Partner_7,Bike,Wallet,01-04-2025,19:41:00,53,14.2,610,150,79,539,Delivered,2,Cloudy,No
+710,1156,Customer_84,Female,35,Delhi,3,Burger Town,Fast Food,3.8,Partner_14,Scooter,UPI,23-02-2025,06:53:00,23,13.3,845,20,62,887,Cancelled,1,Rainy,Yes
+711,1205,Customer_102,Male,42,Hyderabad,6,Tandoori Treat,Chinese,4.4,Partner_8,Bike,Credit Card,25-04-2025,14:58:00,47,13.8,627,100,23,550,Delivered,1,Sunny,Yes
+712,1098,Customer_108,Male,50,Delhi,4,Biryani House,Biryani,4,Partner_17,Cycle,UPI,23-03-2025,14:10:00,44,1.2,1438,50,67,1455,Delivered,4,Rainy,Yes
+713,1118,Customer_44,Female,48,Bengaluru,3,Burger Town,Fast Food,3.5,Partner_18,Cycle,Net Banking,16-06-2025,10:15:00,35,1.6,834,0,47,881,Delivered,2,Cloudy,Yes
+714,1032,Customer_108,Female,41,Mumbai,5,Green Bowl,Healthy,4.4,Partner_11,Scooter,Credit Card,01-05-2025,01:19:00,26,14.1,518,20,64,562,Cancelled,2,Rainy,Yes
+715,1192,Customer_136,Female,19,Mumbai,1,Spice Hub,North Indian,4.7,Partner_22,Bike,Cash,14-04-2025,21:20:00,17,11.3,1218,20,39,1237,Delivered,4,Sunny,No
+716,1179,Customer_115,Male,44,Pune,6,Tandoori Treat,Chinese,5,Partner_8,Scooter,Cash,26-01-2025,00:30:00,41,13,1275,20,30,1285,Delivered,2,Cloudy,Yes
+717,1277,Customer_188,Male,48,Bengaluru,4,Biryani House,Biryani,4.2,Partner_37,Bike,Credit Card,24-03-2025,22:24:00,29,8.2,1161,50,28,1139,Delivered,2,Sunny,Yes
+718,1128,Customer_116,Female,29,Chandigarh,1,Spice Hub,North Indian,4.6,Partner_20,Scooter,Net Banking,07-06-2025,03:35:00,44,10.4,1027,50,76,1053,Delivered,5,Rainy,Yes
+719,1025,Customer_102,Male,18,Bengaluru,4,Biryani House,Biryani,3.7,Partner_3,Bike,Credit Card,09-01-2025,13:08:00,40,5.5,967,20,57,1004,Delivered,4,Rainy,Yes
+720,1135,Customer_280,Female,25,Chandigarh,5,Green Bowl,Healthy,4.6,Partner_42,Cycle,Debit Card,27-04-2025,21:12:00,36,15,1030,100,33,963,Delivered,3,Rainy,No
+721,1219,Customer_14,Male,24,Chandigarh,1,Spice Hub,North Indian,3.8,Partner_30,Bike,UPI,17-01-2025,12:28:00,50,11,901,150,36,787,Delivered,3,Rainy,No
+722,1100,Customer_73,Male,19,Hyderabad,5,Green Bowl,Healthy,3.8,Partner_48,Scooter,Wallet,12-04-2025,17:26:00,53,11.9,369,150,31,250,Delivered,5,Cloudy,Yes
+723,1192,Customer_82,Male,28,Pune,3,Burger Town,Fast Food,4.5,Partner_40,Bike,Net Banking,16-05-2025,05:41:00,24,8.6,1304,20,64,1348,Cancelled,4,Sunny,No
+724,1244,Customer_240,Female,26,Delhi,4,Biryani House,Biryani,4.6,Partner_20,Bike,UPI,14-05-2025,14:22:00,31,10.9,807,100,77,784,Delivered,2,Cloudy,Yes
+725,1201,Customer_82,Female,43,Delhi,4,Biryani House,Biryani,4.4,Partner_16,Scooter,UPI,11-02-2025,08:16:00,29,14.5,487,20,50,517,Delivered,4,Sunny,Yes
+726,1061,Customer_267,Female,51,Mumbai,4,Biryani House,Biryani,3.7,Partner_41,Cycle,Cash,25-03-2025,00:22:00,29,10.2,491,50,68,509,Delivered,1,Cloudy,No
+727,1131,Customer_58,Female,45,Mumbai,1,Spice Hub,North Indian,4.4,Partner_46,Cycle,Cash,11-01-2025,13:01:00,33,4.1,899,50,80,929,Delivered,5,Cloudy,No
+728,1054,Customer_144,Female,34,Mumbai,6,Tandoori Treat,Chinese,4.5,Partner_22,Scooter,Net Banking,15-01-2025,21:46:00,31,14.8,1212,100,46,1158,Delivered,1,Cloudy,No
+729,1137,Customer_54,Female,53,Mumbai,5,Green Bowl,Healthy,4.4,Partner_37,Scooter,Wallet,22-04-2025,22:43:00,48,13.2,1213,20,57,1250,Delivered,1,Cloudy,Yes
+730,1185,Customer_298,Female,43,Pune,6,Tandoori Treat,Chinese,4.6,Partner_3,Scooter,Net Banking,31-01-2025,08:08:00,43,12.9,401,150,26,277,Delivered,5,Sunny,No
+731,1013,Customer_169,Male,36,Chandigarh,6,Tandoori Treat,Chinese,4.9,Partner_2,Cycle,Cash,26-05-2025,06:10:00,31,6,1084,0,33,1117,Delivered,3,Sunny,No
+732,1083,Customer_108,Female,43,Hyderabad,1,Spice Hub,North Indian,4.6,Partner_50,Bike,Cash,12-06-2025,08:58:00,20,5.7,864,100,64,828,Delivered,2,Rainy,No
+733,1096,Customer_196,Male,34,Delhi,6,Tandoori Treat,Chinese,4.8,Partner_32,Scooter,Debit Card,09-06-2025,16:58:00,43,13.5,385,100,40,325,Delivered,2,Rainy,Yes
+734,1287,Customer_152,Male,43,Delhi,2,Pizza Point,Italian,4.4,Partner_5,Bike,UPI,10-05-2025,23:54:00,20,11,1391,50,78,1419,Delivered,4,Rainy,Yes
+735,1054,Customer_151,Male,38,Chandigarh,3,Burger Town,Fast Food,5,Partner_29,Bike,Credit Card,04-02-2025,13:08:00,50,3.2,1291,50,45,1286,Cancelled,1,Rainy,Yes
+736,1075,Customer_7,Female,33,Chandigarh,2,Pizza Point,Italian,4.9,Partner_40,Scooter,Cash,15-06-2025,07:22:00,41,8.8,702,20,48,730,Cancelled,2,Rainy,Yes
+737,1187,Customer_135,Female,41,Pune,5,Green Bowl,Healthy,4,Partner_16,Scooter,Wallet,10-04-2025,08:55:00,37,2.1,1018,150,76,944,Delivered,3,Cloudy,Yes
+738,1275,Customer_161,Male,56,Pune,5,Green Bowl,Healthy,3.8,Partner_23,Cycle,Net Banking,10-05-2025,16:14:00,56,14.7,463,0,78,541,Delivered,2,Rainy,No
+739,1224,Customer_34,Male,19,Pune,1,Spice Hub,North Indian,4.3,Partner_36,Cycle,UPI,08-05-2025,20:10:00,37,7.7,1142,150,48,1040,Delivered,1,Cloudy,No
+740,1252,Customer_221,Male,43,Delhi,6,Tandoori Treat,Chinese,3.8,Partner_29,Scooter,Wallet,08-01-2025,20:24:00,59,10.4,765,150,36,651,Delivered,5,Cloudy,No
+741,1028,Customer_184,Male,22,Mumbai,5,Green Bowl,Healthy,4.4,Partner_34,Scooter,Net Banking,02-01-2025,20:48:00,25,11.3,1401,50,75,1426,Delivered,5,Sunny,Yes
+742,1207,Customer_294,Female,44,Delhi,6,Tandoori Treat,Chinese,4.1,Partner_31,Bike,Debit Card,23-01-2025,03:12:00,26,2.3,1213,0,41,1254,Delivered,4,Rainy,No
+743,1042,Customer_174,Female,24,Delhi,2,Pizza Point,Italian,4.3,Partner_2,Cycle,UPI,28-02-2025,11:59:00,50,1.8,733,100,32,665,Delivered,2,Sunny,Yes
+744,1192,Customer_36,Male,30,Delhi,3,Burger Town,Fast Food,4.5,Partner_32,Bike,Wallet,26-05-2025,19:13:00,28,14.7,987,50,21,958,Delivered,2,Cloudy,No
+745,1016,Customer_20,Male,37,Pune,2,Pizza Point,Italian,4.9,Partner_7,Scooter,Net Banking,08-02-2025,15:11:00,26,9.3,1102,20,52,1134,Delivered,1,Rainy,Yes
+746,1281,Customer_200,Female,25,Pune,2,Pizza Point,Italian,4.5,Partner_5,Scooter,Credit Card,27-04-2025,22:28:00,38,3,1455,50,80,1485,Cancelled,4,Sunny,No
+747,1051,Customer_267,Male,60,Delhi,3,Burger Town,Fast Food,4.5,Partner_34,Cycle,Wallet,18-06-2025,20:10:00,59,8.4,320,100,71,291,Delivered,5,Cloudy,Yes
+748,1219,Customer_207,Female,42,Bengaluru,3,Burger Town,Fast Food,3.6,Partner_2,Scooter,UPI,20-02-2025,09:59:00,35,8.9,477,100,68,445,Delivered,3,Rainy,No
+749,1046,Customer_158,Male,59,Chandigarh,6,Tandoori Treat,Chinese,4,Partner_4,Cycle,UPI,11-01-2025,06:25:00,18,14.5,312,150,73,235,Delivered,3,Cloudy,Yes
+750,1190,Customer_23,Male,24,Chandigarh,4,Biryani House,Biryani,4.2,Partner_12,Bike,Net Banking,15-02-2025,17:21:00,35,2,1241,150,74,1165,Delivered,2,Cloudy,Yes
+751,1124,Customer_170,Male,42,Delhi,4,Biryani House,Biryani,4.7,Partner_24,Scooter,UPI,16-03-2025,00:09:00,24,3,621,0,79,700,Delivered,3,Rainy,No
+752,1212,Customer_194,Female,30,Mumbai,6,Tandoori Treat,Chinese,4.7,Partner_32,Scooter,Wallet,03-01-2025,14:11:00,15,9.8,758,100,64,722,Delivered,4,Sunny,Yes
+753,1094,Customer_275,Female,28,Delhi,6,Tandoori Treat,Chinese,4.9,Partner_17,Cycle,Net Banking,06-05-2025,02:16:00,59,6.6,434,0,30,464,Delivered,3,Cloudy,No
+754,1255,Customer_103,Male,51,Delhi,1,Spice Hub,North Indian,5,Partner_31,Scooter,UPI,23-01-2025,18:56:00,22,4.2,1008,20,80,1068,Delivered,2,Sunny,Yes
+755,1022,Customer_258,Male,31,Mumbai,4,Biryani House,Biryani,4.6,Partner_3,Cycle,UPI,06-02-2025,15:05:00,24,5.8,1460,50,48,1458,Cancelled,2,Rainy,No
+756,1259,Customer_33,Male,29,Mumbai,6,Tandoori Treat,Chinese,4.4,Partner_22,Cycle,Net Banking,09-02-2025,09:57:00,43,1.4,315,100,44,259,Delivered,2,Cloudy,No
+757,1034,Customer_210,Male,57,Pune,2,Pizza Point,Italian,4.6,Partner_47,Scooter,Debit Card,15-01-2025,03:48:00,17,3,493,150,40,383,Delivered,2,Sunny,No
+758,1115,Customer_19,Male,19,Delhi,5,Green Bowl,Healthy,4.5,Partner_31,Cycle,Net Banking,26-05-2025,04:05:00,39,5,319,100,69,288,Delivered,4,Cloudy,Yes
+759,1246,Customer_79,Female,52,Chandigarh,4,Biryani House,Biryani,4.8,Partner_15,Bike,Debit Card,12-06-2025,15:31:00,55,11.2,1454,50,42,1446,Cancelled,4,Rainy,Yes
+760,1022,Customer_236,Female,52,Bengaluru,6,Tandoori Treat,Chinese,4.8,Partner_26,Bike,Net Banking,18-03-2025,04:54:00,37,3.9,242,100,71,213,Delivered,4,Rainy,No
+761,1205,Customer_69,Male,33,Hyderabad,4,Biryani House,Biryani,3.8,Partner_13,Cycle,Credit Card,25-03-2025,22:42:00,57,12,1149,50,41,1140,Delivered,4,Cloudy,No
+762,1056,Customer_278,Female,37,Bengaluru,6,Tandoori Treat,Chinese,4.9,Partner_50,Cycle,Cash,06-02-2025,16:03:00,18,3.8,828,20,45,853,Delivered,2,Cloudy,No
+763,1198,Customer_291,Male,35,Pune,4,Biryani House,Biryani,5,Partner_44,Cycle,Credit Card,27-06-2025,07:02:00,56,6.6,569,100,21,490,Delivered,2,Sunny,No
+764,1272,Customer_19,Male,22,Bengaluru,4,Biryani House,Biryani,3.6,Partner_1,Bike,Debit Card,05-05-2025,10:47:00,20,5.4,703,20,68,751,Delivered,2,Cloudy,Yes
+765,1229,Customer_244,Female,29,Mumbai,3,Burger Town,Fast Food,3.9,Partner_7,Cycle,Credit Card,22-03-2025,19:54:00,24,3.3,335,50,59,344,Delivered,5,Rainy,Yes
+766,1128,Customer_59,Male,46,Pune,5,Green Bowl,Healthy,3.6,Partner_3,Bike,Cash,13-03-2025,23:33:00,45,6.3,1487,100,64,1451,Delivered,1,Cloudy,No
+767,1291,Customer_177,Female,23,Hyderabad,5,Green Bowl,Healthy,4.8,Partner_5,Bike,Credit Card,06-01-2025,16:47:00,54,5.2,1371,20,48,1399,Delivered,2,Sunny,Yes
+768,1009,Customer_214,Male,41,Chandigarh,3,Burger Town,Fast Food,4.8,Partner_13,Cycle,Debit Card,04-06-2025,16:53:00,48,13.7,798,0,42,840,Delivered,3,Sunny,Yes
+769,1021,Customer_140,Female,60,Chandigarh,2,Pizza Point,Italian,3.6,Partner_36,Bike,Credit Card,21-04-2025,11:31:00,54,1.1,827,50,48,825,Delivered,3,Rainy,Yes
+770,1193,Customer_172,Female,50,Hyderabad,4,Biryani House,Biryani,4.8,Partner_28,Scooter,Net Banking,22-06-2025,09:13:00,36,2.9,995,0,64,1059,Delivered,3,Cloudy,Yes
+771,1044,Customer_164,Male,19,Hyderabad,3,Burger Town,Fast Food,4.7,Partner_49,Bike,Credit Card,26-04-2025,22:55:00,19,3.5,746,0,78,824,Delivered,5,Sunny,Yes
+772,1080,Customer_299,Female,58,Delhi,1,Spice Hub,North Indian,4.8,Partner_43,Bike,Wallet,08-06-2025,02:24:00,22,1.8,227,50,75,252,Delivered,1,Sunny,Yes
+773,1108,Customer_26,Male,42,Chandigarh,1,Spice Hub,North Indian,4,Partner_34,Bike,Cash,25-06-2025,07:57:00,27,10.9,207,100,70,177,Delivered,2,Rainy,No
+774,1004,Customer_41,Male,30,Chandigarh,6,Tandoori Treat,Chinese,3.9,Partner_35,Cycle,Credit Card,17-02-2025,17:19:00,59,2.7,1412,0,48,1460,Delivered,2,Sunny,No
+775,1260,Customer_147,Male,45,Mumbai,2,Pizza Point,Italian,3.9,Partner_23,Cycle,Credit Card,03-06-2025,14:04:00,48,1.1,1008,150,38,896,Delivered,3,Rainy,Yes
+776,1221,Customer_41,Female,18,Delhi,1,Spice Hub,North Indian,5,Partner_44,Bike,Debit Card,16-01-2025,21:09:00,52,11.8,328,100,42,270,Delivered,5,Cloudy,Yes
+777,1256,Customer_154,Female,38,Pune,3,Burger Town,Fast Food,4.3,Partner_48,Bike,Credit Card,03-05-2025,12:38:00,52,3.4,853,100,42,795,Delivered,4,Rainy,No
+778,1198,Customer_215,Male,26,Bengaluru,4,Biryani House,Biryani,4.7,Partner_25,Cycle,Credit Card,09-02-2025,04:50:00,40,6.1,1149,100,48,1097,Delivered,2,Sunny,Yes
+779,1173,Customer_102,Male,49,Mumbai,1,Spice Hub,North Indian,4.1,Partner_20,Cycle,Debit Card,08-02-2025,09:14:00,29,3.7,233,100,50,183,Delivered,4,Rainy,No
+780,1245,Customer_149,Male,33,Mumbai,4,Biryani House,Biryani,4.3,Partner_32,Bike,Cash,18-01-2025,11:02:00,46,1.2,322,50,26,298,Delivered,2,Rainy,No
+781,1272,Customer_145,Female,41,Chandigarh,5,Green Bowl,Healthy,4.7,Partner_9,Scooter,Wallet,03-06-2025,04:25:00,45,1.9,1078,150,27,955,Delivered,4,Sunny,Yes
+782,1285,Customer_175,Female,30,Bengaluru,6,Tandoori Treat,Chinese,4.9,Partner_21,Cycle,Wallet,02-05-2025,09:34:00,29,10.9,678,50,60,688,Delivered,2,Rainy,No
+783,1165,Customer_42,Female,47,Delhi,3,Burger Town,Fast Food,4.4,Partner_47,Scooter,UPI,07-02-2025,21:17:00,43,6.5,1246,0,44,1290,Delivered,3,Cloudy,Yes
+784,1168,Customer_183,Female,53,Bengaluru,1,Spice Hub,North Indian,3.7,Partner_18,Scooter,Cash,12-06-2025,00:06:00,35,9.5,1170,20,34,1184,Delivered,2,Cloudy,Yes
+785,1128,Customer_193,Female,18,Bengaluru,6,Tandoori Treat,Chinese,3.9,Partner_14,Bike,Debit Card,10-05-2025,09:38:00,16,1.4,324,20,53,357,Delivered,4,Sunny,No
+786,1228,Customer_161,Male,35,Hyderabad,2,Pizza Point,Italian,4.2,Partner_13,Cycle,Wallet,10-02-2025,20:16:00,44,5,1114,100,55,1069,Delivered,3,Sunny,Yes
+787,1193,Customer_282,Male,58,Delhi,3,Burger Town,Fast Food,4.2,Partner_21,Scooter,Credit Card,06-02-2025,10:45:00,35,9.6,1331,100,43,1274,Delivered,3,Rainy,Yes
+788,1078,Customer_53,Male,33,Pune,1,Spice Hub,North Indian,3.6,Partner_24,Scooter,Debit Card,18-01-2025,04:46:00,20,6.8,470,100,24,394,Delivered,4,Rainy,Yes
+789,1230,Customer_82,Male,34,Pune,4,Biryani House,Biryani,3.8,Partner_4,Cycle,Net Banking,23-01-2025,07:04:00,50,1.3,1010,20,55,1045,Delivered,2,Rainy,Yes
+790,1164,Customer_166,Female,58,Delhi,2,Pizza Point,Italian,4.5,Partner_2,Cycle,Debit Card,05-02-2025,17:05:00,46,1.3,676,20,75,731,Delivered,4,Cloudy,Yes
+791,1252,Customer_4,Female,23,Delhi,2,Pizza Point,Italian,4.4,Partner_24,Cycle,Credit Card,28-02-2025,19:53:00,40,4,1407,0,33,1440,Delivered,5,Rainy,No
+792,1132,Customer_172,Male,38,Pune,3,Burger Town,Fast Food,4.8,Partner_26,Bike,Net Banking,21-02-2025,20:44:00,33,7.3,1246,100,30,1176,Delivered,5,Rainy,Yes
+793,1103,Customer_292,Female,31,Mumbai,1,Spice Hub,North Indian,4.8,Partner_20,Scooter,Cash,28-01-2025,07:01:00,18,10.1,285,100,71,256,Delivered,3,Sunny,Yes
+794,1256,Customer_199,Female,47,Bengaluru,1,Spice Hub,North Indian,5,Partner_39,Bike,Cash,27-03-2025,07:02:00,45,8.9,643,20,75,698,Delivered,2,Sunny,Yes
+795,1001,Customer_156,Female,42,Delhi,1,Spice Hub,North Indian,4.6,Partner_11,Bike,UPI,03-01-2025,09:21:00,38,4,1468,0,74,1542,Delivered,4,Cloudy,No
+796,1155,Customer_73,Female,47,Delhi,3,Burger Town,Fast Food,4.9,Partner_14,Bike,Net Banking,09-01-2025,04:05:00,58,12.1,1055,0,39,1094,Delivered,4,Sunny,Yes
+797,1286,Customer_140,Female,19,Delhi,1,Spice Hub,North Indian,4.6,Partner_31,Bike,Net Banking,29-05-2025,23:43:00,59,3.1,680,100,75,655,Delivered,4,Sunny,Yes
+798,1023,Customer_33,Female,36,Hyderabad,4,Biryani House,Biryani,4.6,Partner_13,Scooter,UPI,04-01-2025,19:41:00,57,4.8,1153,100,31,1084,Delivered,2,Cloudy,No
+799,1251,Customer_119,Male,36,Delhi,6,Tandoori Treat,Chinese,4,Partner_39,Scooter,Cash,22-04-2025,19:04:00,45,8.6,290,150,73,213,Delivered,3,Cloudy,Yes
+800,1191,Customer_240,Female,36,Bengaluru,6,Tandoori Treat,Chinese,3.7,Partner_44,Scooter,Net Banking,29-05-2025,13:42:00,49,6.7,910,100,31,841,Cancelled,1,Cloudy,No
+801,1085,Customer_22,Female,50,Mumbai,3,Burger Town,Fast Food,4.9,Partner_41,Bike,Wallet,19-05-2025,23:13:00,36,8.6,934,100,48,882,Delivered,2,Cloudy,Yes
+802,1257,Customer_279,Male,51,Mumbai,6,Tandoori Treat,Chinese,3.7,Partner_1,Scooter,Wallet,18-04-2025,03:49:00,57,14.2,1011,0,72,1083,Delivered,3,Rainy,Yes
+803,1202,Customer_113,Female,44,Bengaluru,6,Tandoori Treat,Chinese,4.5,Partner_7,Bike,Net Banking,12-04-2025,17:51:00,56,7.4,964,150,79,893,Delivered,2,Cloudy,Yes
+804,1157,Customer_124,Female,37,Pune,1,Spice Hub,North Indian,4.7,Partner_35,Cycle,UPI,19-01-2025,23:43:00,27,1.3,1214,20,78,1272,Delivered,1,Sunny,Yes
+805,1184,Customer_207,Male,56,Chandigarh,1,Spice Hub,North Indian,4,Partner_25,Scooter,Credit Card,31-01-2025,14:24:00,34,7,337,50,48,335,Delivered,4,Cloudy,Yes
+806,1131,Customer_243,Female,52,Chandigarh,4,Biryani House,Biryani,4.7,Partner_28,Cycle,Wallet,31-03-2025,01:03:00,54,13.3,264,100,40,204,Cancelled,4,Sunny,No
+807,1043,Customer_126,Male,47,Delhi,4,Biryani House,Biryani,4.1,Partner_22,Bike,Wallet,20-05-2025,03:08:00,45,1.5,377,100,36,313,Delivered,4,Sunny,No
+808,1260,Customer_228,Male,50,Delhi,1,Spice Hub,North Indian,3.8,Partner_18,Cycle,Wallet,22-06-2025,00:57:00,39,12.2,462,150,75,387,Delivered,1,Rainy,Yes
+809,1084,Customer_21,Female,56,Chandigarh,5,Green Bowl,Healthy,4,Partner_8,Cycle,Credit Card,26-04-2025,10:00:00,19,3.8,1205,20,77,1262,Delivered,1,Rainy,Yes
+810,1299,Customer_253,Male,46,Hyderabad,1,Spice Hub,North Indian,4.7,Partner_8,Bike,Credit Card,29-03-2025,23:18:00,23,2.8,819,20,34,833,Cancelled,5,Cloudy,Yes
+811,1189,Customer_279,Male,44,Hyderabad,4,Biryani House,Biryani,4.2,Partner_18,Scooter,Wallet,15-05-2025,23:40:00,59,6.9,950,100,21,871,Delivered,3,Cloudy,No
+812,1013,Customer_83,Male,54,Hyderabad,4,Biryani House,Biryani,3.8,Partner_13,Scooter,Net Banking,05-02-2025,04:07:00,49,6.2,1238,20,78,1296,Delivered,1,Cloudy,Yes
+813,1076,Customer_154,Male,43,Pune,4,Biryani House,Biryani,3.5,Partner_4,Cycle,UPI,01-03-2025,06:54:00,22,8.3,437,150,22,309,Delivered,5,Sunny,No
+814,1244,Customer_245,Female,31,Mumbai,3,Burger Town,Fast Food,3.6,Partner_25,Cycle,Net Banking,24-02-2025,06:26:00,55,8.6,699,100,71,670,Delivered,2,Cloudy,Yes
+815,1085,Customer_127,Female,58,Pune,2,Pizza Point,Italian,4,Partner_15,Scooter,Cash,19-01-2025,19:19:00,18,11.5,339,100,52,291,Delivered,3,Rainy,Yes
+816,1066,Customer_246,Female,59,Mumbai,6,Tandoori Treat,Chinese,4.8,Partner_41,Bike,Credit Card,05-06-2025,07:40:00,53,8.3,965,100,48,913,Delivered,1,Rainy,Yes
+817,1021,Customer_190,Female,43,Hyderabad,1,Spice Hub,North Indian,3.9,Partner_42,Scooter,Debit Card,07-02-2025,21:53:00,49,9.5,1350,0,65,1415,Delivered,4,Cloudy,No
+818,1294,Customer_71,Female,39,Hyderabad,6,Tandoori Treat,Chinese,3.6,Partner_32,Scooter,Wallet,24-06-2025,20:39:00,48,9.6,1407,150,79,1336,Delivered,3,Rainy,No
+819,1290,Customer_98,Female,37,Pune,5,Green Bowl,Healthy,3.8,Partner_22,Cycle,Net Banking,24-03-2025,08:10:00,41,4.9,666,50,79,695,Delivered,2,Cloudy,Yes
+820,1165,Customer_105,Female,55,Chandigarh,3,Burger Town,Fast Food,4.3,Partner_8,Cycle,Net Banking,19-05-2025,18:52:00,33,9.9,589,50,65,604,Delivered,3,Sunny,No
+821,1236,Customer_276,Female,27,Bengaluru,2,Pizza Point,Italian,3.9,Partner_5,Scooter,UPI,11-03-2025,19:23:00,39,12.4,1002,100,65,967,Cancelled,1,Sunny,Yes
+822,1291,Customer_216,Male,35,Bengaluru,4,Biryani House,Biryani,3.6,Partner_28,Cycle,Cash,12-03-2025,17:26:00,53,2.5,1131,150,57,1038,Delivered,3,Sunny,Yes
+823,1056,Customer_281,Female,26,Mumbai,1,Spice Hub,North Indian,4.7,Partner_48,Cycle,Cash,18-01-2025,09:28:00,28,1.6,940,0,22,962,Delivered,1,Sunny,Yes
+824,1113,Customer_293,Female,53,Bengaluru,5,Green Bowl,Healthy,4,Partner_16,Bike,UPI,03-03-2025,07:52:00,50,9.2,767,50,47,764,Delivered,2,Rainy,Yes
+825,1139,Customer_249,Male,24,Pune,5,Green Bowl,Healthy,3.9,Partner_27,Bike,Credit Card,27-05-2025,20:57:00,44,9.5,235,20,25,240,Delivered,2,Rainy,Yes
+826,1229,Customer_110,Male,24,Delhi,2,Pizza Point,Italian,4.8,Partner_27,Cycle,Cash,03-06-2025,13:11:00,43,3.1,831,100,57,788,Delivered,5,Rainy,Yes
+827,1165,Customer_11,Female,50,Pune,3,Burger Town,Fast Food,4.4,Partner_29,Cycle,Credit Card,15-05-2025,11:41:00,38,3,620,100,47,567,Delivered,4,Sunny,No
+828,1149,Customer_119,Female,56,Mumbai,2,Pizza Point,Italian,4.8,Partner_2,Cycle,Wallet,12-03-2025,08:29:00,30,10,843,50,45,838,Delivered,1,Rainy,No
+829,1046,Customer_224,Female,40,Bengaluru,4,Biryani House,Biryani,3.8,Partner_24,Scooter,Cash,25-04-2025,14:28:00,25,3.4,241,100,47,188,Delivered,5,Cloudy,Yes
+830,1082,Customer_48,Male,34,Delhi,4,Biryani House,Biryani,3.6,Partner_17,Scooter,Credit Card,28-02-2025,03:04:00,33,3,946,0,68,1014,Delivered,2,Sunny,No
+831,1027,Customer_294,Male,36,Bengaluru,2,Pizza Point,Italian,4.3,Partner_28,Bike,Credit Card,24-01-2025,21:11:00,16,12.3,1266,0,34,1300,Delivered,1,Sunny,Yes
+832,1189,Customer_92,Male,52,Bengaluru,2,Pizza Point,Italian,4.9,Partner_16,Bike,Debit Card,29-04-2025,18:53:00,25,11.7,1293,0,69,1362,Delivered,1,Cloudy,Yes
+833,1124,Customer_189,Female,47,Hyderabad,2,Pizza Point,Italian,3.9,Partner_12,Cycle,UPI,09-02-2025,04:30:00,60,4.5,542,0,50,592,Delivered,1,Sunny,No
+834,1203,Customer_282,Female,51,Mumbai,1,Spice Hub,North Indian,4.2,Partner_42,Cycle,Debit Card,06-05-2025,23:07:00,53,9.1,788,100,53,741,Delivered,4,Rainy,No
+835,1038,Customer_189,Female,25,Mumbai,5,Green Bowl,Healthy,4.4,Partner_27,Scooter,Cash,10-01-2025,07:03:00,34,6.2,1223,20,71,1274,Delivered,2,Sunny,Yes
+836,1155,Customer_203,Male,27,Hyderabad,6,Tandoori Treat,Chinese,3.5,Partner_15,Scooter,Debit Card,01-06-2025,04:46:00,46,6.6,501,100,75,476,Delivered,3,Sunny,No
+837,1052,Customer_152,Female,21,Mumbai,4,Biryani House,Biryani,4,Partner_25,Cycle,Cash,07-02-2025,21:50:00,19,9.4,305,20,80,365,Delivered,5,Cloudy,No
+838,1260,Customer_85,Male,24,Delhi,4,Biryani House,Biryani,3.7,Partner_46,Cycle,Debit Card,19-02-2025,10:35:00,18,1.3,338,50,41,329,Delivered,5,Rainy,Yes
+839,1168,Customer_146,Female,21,Hyderabad,4,Biryani House,Biryani,4.7,Partner_38,Bike,Cash,30-03-2025,21:13:00,46,7.1,884,150,49,783,Delivered,5,Cloudy,Yes
+840,1074,Customer_73,Male,23,Mumbai,4,Biryani House,Biryani,4.4,Partner_18,Scooter,Credit Card,12-06-2025,09:07:00,17,1.6,876,100,66,842,Delivered,2,Sunny,No
+841,1131,Customer_108,Male,22,Pune,2,Pizza Point,Italian,3.7,Partner_3,Scooter,Net Banking,21-05-2025,19:23:00,45,12,1055,20,47,1082,Delivered,2,Cloudy,No
+842,1133,Customer_296,Female,58,Delhi,1,Spice Hub,North Indian,4.5,Partner_34,Bike,Net Banking,06-04-2025,16:00:00,58,12.7,1141,50,59,1150,Delivered,3,Cloudy,Yes
+843,1154,Customer_256,Female,21,Mumbai,1,Spice Hub,North Indian,4.9,Partner_20,Scooter,UPI,26-03-2025,17:22:00,24,8.8,1088,100,37,1025,Delivered,2,Sunny,No
+844,1215,Customer_291,Female,37,Mumbai,1,Spice Hub,North Indian,3.6,Partner_11,Cycle,Cash,16-04-2025,13:38:00,57,1.9,1310,150,43,1203,Delivered,1,Rainy,No
+845,1061,Customer_158,Male,49,Hyderabad,2,Pizza Point,Italian,4.8,Partner_32,Scooter,Wallet,27-03-2025,12:38:00,28,6.7,1048,100,21,969,Delivered,3,Sunny,Yes
+846,1052,Customer_43,Male,18,Bengaluru,2,Pizza Point,Italian,3.7,Partner_28,Scooter,UPI,07-04-2025,02:49:00,59,10.1,1424,50,57,1431,Cancelled,1,Rainy,Yes
+847,1183,Customer_293,Male,20,Delhi,2,Pizza Point,Italian,3.7,Partner_20,Scooter,UPI,25-06-2025,23:53:00,17,14.9,796,50,63,809,Delivered,1,Cloudy,Yes
+848,1150,Customer_270,Male,57,Mumbai,2,Pizza Point,Italian,3.9,Partner_5,Scooter,Wallet,10-03-2025,20:15:00,31,3.2,1000,100,26,926,Delivered,5,Sunny,No
+849,1084,Customer_243,Female,40,Pune,2,Pizza Point,Italian,4.9,Partner_20,Scooter,Net Banking,28-03-2025,22:41:00,60,12.4,781,0,45,826,Delivered,2,Rainy,No
+850,1041,Customer_31,Male,27,Mumbai,2,Pizza Point,Italian,3.7,Partner_29,Bike,Credit Card,09-02-2025,01:15:00,19,5,1144,20,65,1189,Delivered,3,Cloudy,Yes
+851,1283,Customer_155,Male,48,Chandigarh,4,Biryani House,Biryani,4.5,Partner_24,Bike,Cash,14-06-2025,22:48:00,27,5.8,1091,100,27,1018,Delivered,3,Rainy,Yes
+852,1217,Customer_162,Male,18,Hyderabad,4,Biryani House,Biryani,4.8,Partner_11,Scooter,Cash,04-02-2025,11:09:00,20,7.8,1014,50,48,1012,Cancelled,2,Sunny,Yes
+853,1214,Customer_20,Male,58,Mumbai,5,Green Bowl,Healthy,4,Partner_22,Cycle,Debit Card,21-02-2025,06:09:00,36,1,1436,100,37,1373,Delivered,5,Sunny,Yes
+854,1101,Customer_223,Male,47,Mumbai,3,Burger Town,Fast Food,4.9,Partner_38,Cycle,Debit Card,11-04-2025,18:02:00,49,15,1234,50,53,1237,Delivered,3,Rainy,Yes
+855,1293,Customer_119,Female,55,Hyderabad,5,Green Bowl,Healthy,3.8,Partner_17,Scooter,Net Banking,17-04-2025,15:49:00,17,12.4,1484,0,50,1534,Delivered,5,Rainy,No
+856,1123,Customer_204,Male,45,Bengaluru,1,Spice Hub,North Indian,3.6,Partner_5,Scooter,Wallet,26-02-2025,15:20:00,49,14.2,1286,20,22,1288,Delivered,3,Cloudy,Yes
+857,1060,Customer_121,Female,53,Hyderabad,5,Green Bowl,Healthy,4.6,Partner_12,Cycle,Net Banking,22-05-2025,09:48:00,27,1.2,637,150,62,549,Delivered,3,Cloudy,Yes
+858,1150,Customer_132,Female,28,Hyderabad,1,Spice Hub,North Indian,4.9,Partner_14,Cycle,Credit Card,08-03-2025,05:46:00,38,2.4,403,20,79,462,Cancelled,3,Cloudy,Yes
+859,1092,Customer_59,Female,39,Delhi,2,Pizza Point,Italian,3.7,Partner_50,Cycle,Cash,17-01-2025,09:13:00,47,2.7,448,0,35,483,Delivered,3,Sunny,No
+860,1129,Customer_10,Male,22,Delhi,3,Burger Town,Fast Food,3.7,Partner_22,Bike,Wallet,18-02-2025,18:36:00,59,8.5,561,100,71,532,Delivered,3,Sunny,No
+861,1086,Customer_98,Female,55,Hyderabad,4,Biryani House,Biryani,4.6,Partner_5,Cycle,Credit Card,14-04-2025,07:14:00,57,14.1,412,150,69,331,Delivered,5,Rainy,No
+862,1232,Customer_97,Male,54,Bengaluru,6,Tandoori Treat,Chinese,4,Partner_43,Scooter,Net Banking,11-01-2025,01:14:00,36,6.8,955,20,77,1012,Delivered,3,Rainy,Yes
+863,1070,Customer_243,Female,53,Mumbai,1,Spice Hub,North Indian,5,Partner_47,Scooter,UPI,30-01-2025,20:14:00,54,12.4,1417,150,55,1322,Delivered,3,Sunny,No
+864,1154,Customer_71,Female,42,Pune,4,Biryani House,Biryani,5,Partner_18,Scooter,Cash,28-01-2025,01:52:00,19,14.7,800,0,74,874,Delivered,4,Rainy,No
+865,1071,Customer_269,Male,41,Hyderabad,1,Spice Hub,North Indian,3.7,Partner_17,Scooter,Debit Card,17-02-2025,03:10:00,22,3.6,253,50,40,243,Delivered,1,Sunny,Yes
+866,1296,Customer_280,Female,53,Bengaluru,3,Burger Town,Fast Food,4.5,Partner_7,Scooter,UPI,21-01-2025,18:44:00,34,13.9,1326,150,78,1254,Delivered,3,Rainy,Yes
+867,1022,Customer_241,Female,43,Mumbai,1,Spice Hub,North Indian,4.3,Partner_17,Bike,Wallet,28-01-2025,16:16:00,50,13.5,393,150,20,263,Delivered,3,Sunny,Yes
+868,1087,Customer_261,Male,44,Chandigarh,5,Green Bowl,Healthy,3.5,Partner_34,Scooter,Wallet,25-02-2025,04:19:00,27,7.9,412,0,50,462,Delivered,4,Sunny,No
+869,1211,Customer_297,Female,35,Mumbai,5,Green Bowl,Healthy,3.9,Partner_8,Cycle,Cash,14-04-2025,20:09:00,31,10.1,799,50,28,777,Delivered,1,Rainy,Yes
+870,1062,Customer_128,Male,20,Chandigarh,3,Burger Town,Fast Food,3.8,Partner_16,Cycle,UPI,14-06-2025,19:48:00,19,10.6,462,150,31,343,Delivered,2,Rainy,Yes
+871,1212,Customer_55,Female,31,Pune,1,Spice Hub,North Indian,4.2,Partner_10,Cycle,Net Banking,28-06-2025,00:28:00,22,13.2,630,0,73,703,Delivered,4,Rainy,No
+872,1097,Customer_125,Female,49,Hyderabad,6,Tandoori Treat,Chinese,4.9,Partner_28,Bike,Debit Card,10-04-2025,12:03:00,15,7.1,612,20,33,625,Delivered,1,Cloudy,No
+873,1146,Customer_144,Male,45,Pune,3,Burger Town,Fast Food,4.7,Partner_31,Cycle,UPI,15-03-2025,04:48:00,52,7.4,617,100,27,544,Delivered,2,Rainy,Yes
+874,1113,Customer_225,Male,19,Chandigarh,3,Burger Town,Fast Food,4.7,Partner_42,Scooter,Cash,11-02-2025,16:23:00,29,14.8,1176,100,37,1113,Delivered,2,Sunny,No
+875,1265,Customer_159,Female,19,Chandigarh,3,Burger Town,Fast Food,3.6,Partner_7,Bike,Debit Card,26-01-2025,09:16:00,31,12.3,1269,50,64,1283,Delivered,5,Cloudy,Yes
+876,1284,Customer_215,Female,18,Chandigarh,4,Biryani House,Biryani,4.2,Partner_12,Bike,Net Banking,06-01-2025,11:10:00,34,11.1,1282,0,29,1311,Delivered,3,Cloudy,Yes
+877,1195,Customer_242,Male,33,Chandigarh,4,Biryani House,Biryani,4,Partner_22,Scooter,Cash,02-04-2025,03:16:00,30,8.5,1432,150,56,1338,Delivered,4,Cloudy,Yes
+878,1211,Customer_23,Male,47,Chandigarh,1,Spice Hub,North Indian,4.1,Partner_48,Bike,UPI,05-02-2025,07:53:00,58,14.9,411,150,77,338,Delivered,2,Sunny,Yes
+879,1210,Customer_62,Female,59,Mumbai,3,Burger Town,Fast Food,4.4,Partner_29,Bike,UPI,03-01-2025,20:03:00,36,13.9,398,0,36,434,Delivered,1,Rainy,Yes
+880,1004,Customer_251,Male,44,Delhi,4,Biryani House,Biryani,4.8,Partner_7,Bike,Wallet,18-06-2025,23:45:00,52,4.2,767,150,30,647,Delivered,1,Rainy,No
+881,1293,Customer_11,Female,30,Bengaluru,4,Biryani House,Biryani,3.8,Partner_11,Bike,Net Banking,25-01-2025,21:24:00,17,11.3,1339,20,21,1340,Delivered,2,Sunny,Yes
+882,1017,Customer_61,Male,41,Bengaluru,4,Biryani House,Biryani,4.4,Partner_49,Scooter,Net Banking,08-06-2025,04:35:00,42,3.2,325,100,34,259,Delivered,2,Rainy,No
+883,1216,Customer_56,Male,28,Delhi,2,Pizza Point,Italian,3.8,Partner_10,Scooter,UPI,14-02-2025,23:21:00,42,4.2,967,0,54,1021,Delivered,3,Cloudy,No
+884,1230,Customer_218,Male,57,Hyderabad,2,Pizza Point,Italian,4.8,Partner_29,Scooter,Debit Card,26-05-2025,07:21:00,31,9.5,1417,150,62,1329,Cancelled,1,Sunny,No
+885,1060,Customer_65,Male,32,Bengaluru,4,Biryani House,Biryani,4.6,Partner_35,Bike,Wallet,24-01-2025,19:50:00,45,6.5,1296,100,79,1275,Delivered,2,Sunny,Yes
+886,1279,Customer_38,Male,52,Pune,2,Pizza Point,Italian,4.3,Partner_22,Cycle,Wallet,13-01-2025,17:21:00,20,4.6,458,20,78,516,Delivered,2,Sunny,Yes
+887,1046,Customer_266,Male,57,Hyderabad,4,Biryani House,Biryani,4.2,Partner_28,Cycle,Net Banking,26-02-2025,23:51:00,49,2.1,620,20,71,671,Delivered,4,Sunny,No
+888,1013,Customer_16,Male,38,Bengaluru,1,Spice Hub,North Indian,3.7,Partner_48,Cycle,Wallet,07-01-2025,22:41:00,20,2.2,267,0,69,336,Delivered,1,Rainy,No
+889,1161,Customer_195,Male,50,Delhi,6,Tandoori Treat,Chinese,4.5,Partner_49,Scooter,Debit Card,08-02-2025,12:03:00,25,2.2,1438,0,66,1504,Delivered,5,Cloudy,No
+890,1257,Customer_22,Female,42,Bengaluru,4,Biryani House,Biryani,4.2,Partner_33,Scooter,Cash,14-02-2025,09:51:00,16,1.6,1269,0,29,1298,Delivered,3,Sunny,No
+891,1272,Customer_77,Female,42,Bengaluru,6,Tandoori Treat,Chinese,4.3,Partner_16,Scooter,Credit Card,13-05-2025,09:23:00,32,8.2,899,0,43,942,Cancelled,3,Cloudy,Yes
+892,1021,Customer_241,Male,44,Bengaluru,3,Burger Town,Fast Food,3.8,Partner_27,Cycle,Wallet,11-01-2025,18:51:00,50,7.4,548,150,44,442,Delivered,1,Cloudy,Yes
+893,1201,Customer_130,Male,53,Mumbai,1,Spice Hub,North Indian,4.9,Partner_48,Bike,Debit Card,13-01-2025,04:10:00,55,11.3,324,50,71,345,Cancelled,2,Cloudy,No
+894,1033,Customer_205,Female,33,Hyderabad,2,Pizza Point,Italian,3.7,Partner_5,Bike,Net Banking,18-02-2025,18:02:00,40,9.7,1256,20,44,1280,Delivered,2,Cloudy,No
+895,1189,Customer_271,Female,31,Hyderabad,3,Burger Town,Fast Food,3.7,Partner_50,Scooter,UPI,18-04-2025,04:27:00,44,13.2,524,0,35,559,Delivered,3,Cloudy,No
+896,1207,Customer_118,Female,39,Mumbai,3,Burger Town,Fast Food,4.3,Partner_12,Scooter,Credit Card,11-01-2025,06:22:00,16,10.4,965,50,75,990,Delivered,3,Rainy,No
+897,1056,Customer_189,Male,53,Bengaluru,5,Green Bowl,Healthy,4.5,Partner_34,Bike,Debit Card,06-01-2025,07:42:00,36,11.2,1379,150,52,1281,Delivered,5,Cloudy,Yes
+898,1030,Customer_150,Male,31,Chandigarh,6,Tandoori Treat,Chinese,4.9,Partner_14,Scooter,Credit Card,25-06-2025,21:48:00,48,4.6,896,0,38,934,Delivered,1,Rainy,Yes
+899,1270,Customer_239,Male,52,Mumbai,1,Spice Hub,North Indian,3.6,Partner_13,Bike,Wallet,03-06-2025,15:31:00,20,9.8,384,0,65,449,Delivered,2,Sunny,No
+900,1040,Customer_43,Female,38,Chandigarh,3,Burger Town,Fast Food,5,Partner_7,Scooter,Wallet,15-04-2025,01:11:00,41,11.9,662,0,76,738,Delivered,5,Sunny,Yes
+901,1213,Customer_58,Male,56,Mumbai,2,Pizza Point,Italian,4.3,Partner_1,Bike,Net Banking,28-01-2025,11:25:00,39,5.7,254,0,57,311,Delivered,4,Rainy,No
+902,1110,Customer_201,Female,57,Pune,1,Spice Hub,North Indian,4.7,Partner_9,Bike,UPI,08-06-2025,23:12:00,34,9.5,1050,0,76,1126,Delivered,5,Cloudy,No
+903,1245,Customer_176,Male,55,Delhi,5,Green Bowl,Healthy,3.7,Partner_27,Bike,Credit Card,12-04-2025,18:05:00,25,14.2,798,20,34,812,Delivered,5,Sunny,Yes
+904,1048,Customer_131,Male,36,Mumbai,4,Biryani House,Biryani,3.7,Partner_35,Scooter,Net Banking,18-04-2025,02:37:00,17,12.6,763,50,41,754,Delivered,3,Sunny,No
+905,1060,Customer_66,Female,19,Hyderabad,4,Biryani House,Biryani,4.9,Partner_13,Bike,Wallet,27-06-2025,03:16:00,28,6.1,1091,0,53,1144,Delivered,5,Sunny,Yes
+906,1090,Customer_112,Female,39,Hyderabad,2,Pizza Point,Italian,4,Partner_28,Cycle,Wallet,24-02-2025,03:24:00,26,7.1,1133,0,40,1173,Delivered,4,Rainy,Yes
+907,1124,Customer_156,Male,51,Pune,2,Pizza Point,Italian,5,Partner_50,Bike,Debit Card,11-01-2025,03:57:00,34,4.3,1274,50,38,1262,Delivered,5,Cloudy,Yes
+908,1064,Customer_28,Male,60,Hyderabad,1,Spice Hub,North Indian,4.1,Partner_45,Cycle,UPI,06-04-2025,20:58:00,53,12.5,634,20,61,675,Delivered,5,Cloudy,Yes
+909,1131,Customer_299,Male,43,Bengaluru,3,Burger Town,Fast Food,4.6,Partner_46,Cycle,Wallet,05-01-2025,15:27:00,55,6.9,1375,20,79,1434,Delivered,4,Cloudy,No
+910,1234,Customer_46,Female,27,Pune,6,Tandoori Treat,Chinese,4.3,Partner_24,Cycle,Cash,23-06-2025,23:09:00,55,14.3,1438,150,67,1355,Delivered,3,Cloudy,Yes
+911,1090,Customer_98,Male,29,Bengaluru,1,Spice Hub,North Indian,4.8,Partner_15,Scooter,Credit Card,08-06-2025,06:38:00,42,6.7,1224,50,56,1230,Delivered,1,Rainy,Yes
+912,1214,Customer_16,Female,29,Pune,4,Biryani House,Biryani,4.6,Partner_20,Cycle,Net Banking,31-01-2025,15:36:00,29,8.3,517,100,60,477,Delivered,5,Rainy,Yes
+913,1177,Customer_209,Male,27,Pune,2,Pizza Point,Italian,4.9,Partner_37,Cycle,Cash,14-03-2025,00:06:00,36,1.4,1349,0,73,1422,Delivered,2,Rainy,No
+914,1282,Customer_196,Female,40,Pune,6,Tandoori Treat,Chinese,4.1,Partner_5,Bike,UPI,10-03-2025,03:11:00,50,7.7,500,100,62,462,Delivered,2,Sunny,No
+915,1205,Customer_278,Male,33,Pune,3,Burger Town,Fast Food,4.4,Partner_50,Scooter,Wallet,19-02-2025,09:06:00,32,9.8,446,50,73,469,Delivered,1,Sunny,No
+916,1200,Customer_33,Male,25,Mumbai,1,Spice Hub,North Indian,4.8,Partner_49,Scooter,Wallet,03-06-2025,13:20:00,27,2.1,213,150,47,110,Delivered,5,Rainy,Yes
+917,1143,Customer_42,Female,58,Delhi,1,Spice Hub,North Indian,4.4,Partner_48,Scooter,UPI,06-06-2025,22:07:00,44,6.7,968,150,23,841,Delivered,5,Sunny,No
+918,1144,Customer_139,Male,49,Chandigarh,4,Biryani House,Biryani,4.2,Partner_39,Scooter,Cash,05-04-2025,07:31:00,25,1.8,1484,20,23,1487,Cancelled,2,Cloudy,No
+919,1285,Customer_48,Female,58,Hyderabad,6,Tandoori Treat,Chinese,4.7,Partner_25,Bike,Credit Card,30-03-2025,00:39:00,51,10.8,466,150,28,344,Delivered,3,Sunny,No
+920,1104,Customer_233,Male,23,Pune,6,Tandoori Treat,Chinese,4.9,Partner_21,Scooter,Net Banking,19-02-2025,06:46:00,25,3.8,1292,50,24,1266,Delivered,4,Sunny,No
+921,1053,Customer_41,Male,18,Pune,1,Spice Hub,North Indian,4.1,Partner_15,Scooter,Credit Card,12-02-2025,23:08:00,47,14.7,1150,0,33,1183,Delivered,4,Rainy,No
+922,1280,Customer_152,Female,34,Hyderabad,1,Spice Hub,North Indian,4.4,Partner_47,Bike,Wallet,20-01-2025,22:47:00,35,1.7,589,20,48,617,Delivered,3,Cloudy,Yes
+923,1105,Customer_129,Male,43,Delhi,4,Biryani House,Biryani,4.2,Partner_7,Bike,Cash,02-03-2025,15:25:00,46,10.3,764,50,23,737,Delivered,2,Sunny,Yes
+924,1094,Customer_53,Male,34,Mumbai,6,Tandoori Treat,Chinese,4.3,Partner_27,Bike,Wallet,31-05-2025,18:18:00,49,5.8,388,100,77,365,Delivered,5,Rainy,Yes
+925,1091,Customer_279,Female,44,Hyderabad,2,Pizza Point,Italian,3.5,Partner_15,Cycle,Cash,30-01-2025,17:35:00,16,7.9,1304,20,76,1360,Delivered,5,Cloudy,No
+926,1207,Customer_255,Male,43,Hyderabad,6,Tandoori Treat,Chinese,4.3,Partner_10,Bike,Debit Card,29-06-2025,02:05:00,15,6.3,443,100,50,393,Delivered,2,Sunny,Yes
+927,1188,Customer_8,Female,52,Chandigarh,3,Burger Town,Fast Food,5,Partner_7,Cycle,Debit Card,11-04-2025,23:10:00,40,9,871,20,25,876,Delivered,5,Cloudy,Yes
+928,1021,Customer_286,Female,33,Delhi,5,Green Bowl,Healthy,4.1,Partner_39,Cycle,Debit Card,12-04-2025,15:35:00,49,13.2,484,50,56,490,Cancelled,2,Sunny,No
+929,1129,Customer_260,Female,59,Delhi,5,Green Bowl,Healthy,3.7,Partner_39,Scooter,Net Banking,03-06-2025,23:36:00,54,8.2,670,150,47,567,Delivered,1,Rainy,No
+930,1226,Customer_47,Female,29,Hyderabad,6,Tandoori Treat,Chinese,3.9,Partner_35,Scooter,Cash,10-01-2025,23:43:00,39,7.7,1317,150,49,1216,Delivered,2,Sunny,No
+931,1237,Customer_254,Female,42,Bengaluru,4,Biryani House,Biryani,4.3,Partner_40,Cycle,Cash,10-06-2025,22:39:00,47,8,359,150,24,233,Delivered,2,Rainy,Yes
+932,1001,Customer_205,Male,58,Hyderabad,6,Tandoori Treat,Chinese,4.7,Partner_24,Bike,Net Banking,24-06-2025,17:53:00,32,13.4,278,150,40,168,Delivered,3,Rainy,No
+933,1064,Customer_86,Female,52,Chandigarh,5,Green Bowl,Healthy,3.8,Partner_48,Scooter,Debit Card,10-01-2025,01:02:00,32,4.5,879,100,56,835,Cancelled,4,Rainy,No
+934,1127,Customer_69,Female,43,Mumbai,2,Pizza Point,Italian,4.7,Partner_15,Bike,Wallet,17-02-2025,21:47:00,51,14.1,922,150,38,810,Delivered,2,Rainy,Yes
+935,1092,Customer_176,Female,28,Chandigarh,6,Tandoori Treat,Chinese,5,Partner_11,Scooter,Wallet,28-03-2025,16:29:00,29,13.2,871,20,54,905,Delivered,5,Cloudy,No
+936,1188,Customer_14,Female,51,Delhi,2,Pizza Point,Italian,3.9,Partner_25,Cycle,Debit Card,11-04-2025,12:36:00,16,9.5,1233,0,55,1288,Delivered,3,Rainy,Yes
+937,1296,Customer_39,Male,48,Delhi,2,Pizza Point,Italian,4.4,Partner_11,Bike,Credit Card,22-06-2025,17:29:00,48,12.7,827,150,27,704,Delivered,2,Rainy,Yes
+938,1151,Customer_233,Male,38,Delhi,3,Burger Town,Fast Food,4.7,Partner_13,Bike,Credit Card,23-01-2025,11:06:00,26,6.1,630,100,39,569,Delivered,4,Rainy,Yes
+939,1137,Customer_77,Male,36,Mumbai,4,Biryani House,Biryani,4.9,Partner_6,Bike,Debit Card,05-01-2025,21:11:00,26,7.4,1116,50,22,1088,Delivered,1,Cloudy,No
+940,1140,Customer_185,Male,33,Pune,1,Spice Hub,North Indian,4.8,Partner_34,Cycle,Debit Card,03-05-2025,00:13:00,40,3.3,1439,20,68,1487,Delivered,3,Cloudy,No
+941,1276,Customer_227,Female,37,Hyderabad,1,Spice Hub,North Indian,4.8,Partner_9,Scooter,Net Banking,17-04-2025,15:21:00,36,8.1,864,150,52,766,Cancelled,3,Cloudy,No
+942,1148,Customer_92,Male,37,Chandigarh,5,Green Bowl,Healthy,4.9,Partner_8,Bike,Net Banking,23-03-2025,20:56:00,42,14.8,1064,50,70,1084,Delivered,1,Sunny,Yes
+943,1038,Customer_122,Male,59,Mumbai,3,Burger Town,Fast Food,4.8,Partner_8,Scooter,Debit Card,15-06-2025,07:55:00,19,3.9,962,20,57,999,Delivered,4,Sunny,Yes
+944,1052,Customer_146,Female,36,Chandigarh,6,Tandoori Treat,Chinese,4.8,Partner_34,Cycle,Cash,16-02-2025,23:16:00,39,9.2,1071,150,67,988,Cancelled,4,Sunny,No
+945,1150,Customer_212,Male,18,Chandigarh,2,Pizza Point,Italian,3.7,Partner_33,Cycle,Net Banking,13-06-2025,15:03:00,25,13.9,1066,100,77,1043,Delivered,1,Cloudy,Yes
+946,1033,Customer_65,Male,56,Mumbai,6,Tandoori Treat,Chinese,3.7,Partner_42,Bike,Net Banking,04-02-2025,06:29:00,34,9.7,1312,0,67,1379,Delivered,1,Sunny,Yes
+947,1177,Customer_13,Male,48,Hyderabad,3,Burger Town,Fast Food,4.1,Partner_46,Bike,Net Banking,22-05-2025,15:48:00,44,3.5,1202,20,33,1215,Delivered,3,Rainy,No
+948,1070,Customer_195,Male,54,Bengaluru,3,Burger Town,Fast Food,4.9,Partner_21,Bike,Wallet,10-03-2025,16:30:00,20,8.2,943,150,60,853,Delivered,4,Rainy,Yes
+949,1062,Customer_241,Male,22,Chandigarh,1,Spice Hub,North Indian,4.2,Partner_14,Bike,Cash,16-02-2025,15:00:00,60,11.2,1003,0,55,1058,Cancelled,5,Sunny,Yes
+950,1110,Customer_211,Male,24,Bengaluru,2,Pizza Point,Italian,4.6,Partner_21,Cycle,Wallet,26-05-2025,20:59:00,19,10,553,20,56,589,Delivered,5,Sunny,Yes
+951,1105,Customer_164,Female,35,Mumbai,3,Burger Town,Fast Food,4.1,Partner_32,Cycle,Net Banking,28-05-2025,18:26:00,44,11.3,944,20,70,994,Delivered,2,Sunny,No
+952,1296,Customer_256,Male,29,Bengaluru,2,Pizza Point,Italian,4.8,Partner_39,Cycle,Cash,08-03-2025,08:39:00,15,3.6,240,150,41,131,Delivered,1,Sunny,Yes
+953,1058,Customer_110,Female,38,Bengaluru,2,Pizza Point,Italian,3.7,Partner_36,Cycle,Credit Card,15-05-2025,16:59:00,23,3.1,1420,100,68,1388,Delivered,1,Sunny,No
+954,1023,Customer_136,Female,56,Hyderabad,6,Tandoori Treat,Chinese,4.7,Partner_44,Scooter,Wallet,14-02-2025,01:17:00,47,8.1,311,150,32,193,Delivered,3,Cloudy,Yes
+955,1274,Customer_202,Male,20,Chandigarh,6,Tandoori Treat,Chinese,3.8,Partner_18,Scooter,Credit Card,17-02-2025,08:04:00,39,10,962,150,42,854,Delivered,5,Rainy,Yes
+956,1012,Customer_77,Male,55,Hyderabad,1,Spice Hub,North Indian,4.6,Partner_43,Bike,UPI,27-05-2025,03:11:00,34,3.8,910,20,33,923,Delivered,5,Sunny,Yes
+957,1108,Customer_256,Male,56,Pune,2,Pizza Point,Italian,5,Partner_10,Scooter,UPI,01-05-2025,02:49:00,55,3.1,210,150,46,106,Delivered,2,Sunny,Yes
+958,1028,Customer_59,Male,25,Chandigarh,6,Tandoori Treat,Chinese,3.7,Partner_26,Bike,Credit Card,19-06-2025,04:45:00,26,1.6,1142,100,49,1091,Delivered,1,Rainy,Yes
+959,1110,Customer_19,Female,54,Chandigarh,3,Burger Town,Fast Food,3.8,Partner_25,Scooter,Credit Card,05-03-2025,06:45:00,49,1.2,1283,100,79,1262,Delivered,3,Cloudy,Yes
+960,1286,Customer_203,Male,39,Mumbai,3,Burger Town,Fast Food,4.8,Partner_37,Cycle,Debit Card,14-03-2025,00:46:00,23,3.1,560,0,25,585,Delivered,2,Sunny,Yes
+961,1001,Customer_110,Female,26,Chandigarh,3,Burger Town,Fast Food,4.7,Partner_38,Scooter,UPI,17-01-2025,22:21:00,21,4.2,916,100,73,889,Delivered,2,Rainy,Yes
+962,1158,Customer_67,Male,19,Hyderabad,3,Burger Town,Fast Food,3.9,Partner_5,Cycle,Credit Card,04-04-2025,13:13:00,16,3,1325,50,54,1329,Delivered,1,Rainy,Yes
+963,1143,Customer_31,Male,56,Bengaluru,5,Green Bowl,Healthy,4.4,Partner_29,Cycle,Net Banking,23-05-2025,16:53:00,20,7,531,100,34,465,Delivered,1,Rainy,Yes
+964,1164,Customer_134,Male,58,Mumbai,2,Pizza Point,Italian,4.5,Partner_15,Cycle,Net Banking,28-01-2025,11:41:00,33,1.5,776,150,61,687,Delivered,1,Cloudy,No
+965,1034,Customer_190,Female,55,Hyderabad,4,Biryani House,Biryani,4.5,Partner_23,Scooter,Debit Card,19-04-2025,10:31:00,42,12.8,1355,100,43,1298,Cancelled,3,Rainy,Yes
+966,1285,Customer_31,Male,50,Mumbai,3,Burger Town,Fast Food,3.7,Partner_14,Bike,Net Banking,29-01-2025,01:30:00,41,8.8,1145,100,20,1065,Delivered,4,Rainy,Yes
+967,1265,Customer_50,Female,46,Hyderabad,2,Pizza Point,Italian,3.7,Partner_38,Bike,Net Banking,20-05-2025,00:26:00,21,14.6,1067,150,22,939,Delivered,4,Sunny,Yes
+968,1237,Customer_118,Female,23,Pune,1,Spice Hub,North Indian,5,Partner_19,Scooter,Wallet,05-03-2025,01:50:00,32,7.9,1036,100,26,962,Delivered,4,Sunny,Yes
+969,1179,Customer_273,Female,46,Chandigarh,2,Pizza Point,Italian,4.1,Partner_28,Cycle,Debit Card,22-04-2025,06:12:00,46,1.4,250,0,56,306,Delivered,1,Rainy,Yes
+970,1224,Customer_202,Female,27,Chandigarh,2,Pizza Point,Italian,3.6,Partner_38,Bike,Wallet,23-04-2025,08:40:00,30,12.6,1443,100,30,1373,Delivered,4,Sunny,Yes
+971,1170,Customer_13,Male,25,Delhi,3,Burger Town,Fast Food,3.6,Partner_38,Scooter,Net Banking,26-01-2025,10:36:00,44,2.7,1025,100,47,972,Delivered,1,Cloudy,No
+972,1139,Customer_294,Male,38,Pune,2,Pizza Point,Italian,3.9,Partner_46,Bike,Debit Card,25-05-2025,23:53:00,26,1.6,1313,150,24,1187,Delivered,5,Sunny,No
+973,1253,Customer_115,Male,30,Chandigarh,5,Green Bowl,Healthy,4.2,Partner_29,Cycle,UPI,05-06-2025,18:03:00,41,6.4,1217,100,70,1187,Delivered,3,Sunny,No
+974,1249,Customer_246,Female,33,Hyderabad,1,Spice Hub,North Indian,3.8,Partner_12,Scooter,Cash,15-03-2025,01:40:00,26,4,504,20,51,535,Delivered,5,Cloudy,No
+975,1136,Customer_85,Female,60,Pune,5,Green Bowl,Healthy,3.7,Partner_14,Scooter,UPI,04-01-2025,02:17:00,47,7.5,433,150,48,331,Delivered,2,Sunny,Yes
+976,1133,Customer_49,Male,33,Hyderabad,1,Spice Hub,North Indian,4.1,Partner_45,Cycle,Wallet,19-06-2025,21:25:00,47,9.3,524,0,60,584,Delivered,5,Rainy,Yes
+977,1149,Customer_261,Male,22,Delhi,1,Spice Hub,North Indian,5,Partner_26,Scooter,Debit Card,18-05-2025,17:11:00,49,2.9,1110,0,66,1176,Delivered,4,Rainy,Yes
+978,1089,Customer_32,Male,34,Pune,4,Biryani House,Biryani,4.3,Partner_27,Scooter,Debit Card,03-01-2025,18:24:00,45,10.3,1238,50,48,1236,Delivered,2,Sunny,No
+979,1044,Customer_81,Female,55,Pune,1,Spice Hub,North Indian,3.9,Partner_11,Cycle,Net Banking,24-01-2025,22:07:00,42,8.8,813,150,45,708,Delivered,4,Cloudy,No
+980,1182,Customer_118,Male,34,Pune,6,Tandoori Treat,Chinese,4.9,Partner_6,Cycle,Cash,12-01-2025,20:05:00,22,6,1177,0,37,1214,Delivered,5,Cloudy,Yes
+981,1194,Customer_182,Male,47,Mumbai,4,Biryani House,Biryani,4.4,Partner_43,Cycle,Net Banking,27-02-2025,11:22:00,40,3.5,781,150,55,686,Delivered,5,Rainy,No
+982,1220,Customer_14,Female,46,Pune,4,Biryani House,Biryani,4.3,Partner_10,Bike,Cash,09-03-2025,20:52:00,15,3.1,985,150,35,870,Delivered,4,Sunny,Yes
+983,1065,Customer_1,Male,35,Bengaluru,5,Green Bowl,Healthy,4.3,Partner_35,Cycle,Wallet,19-05-2025,18:39:00,29,9.6,697,100,37,634,Delivered,2,Rainy,No
+984,1218,Customer_12,Male,23,Hyderabad,2,Pizza Point,Italian,3.9,Partner_14,Bike,Wallet,28-05-2025,02:19:00,30,6,1279,100,58,1237,Delivered,5,Cloudy,Yes
+985,1209,Customer_1,Female,29,Mumbai,6,Tandoori Treat,Chinese,5,Partner_3,Scooter,Debit Card,24-02-2025,16:13:00,50,8.2,1034,0,34,1068,Delivered,1,Sunny,No
+986,1050,Customer_220,Female,59,Bengaluru,3,Burger Town,Fast Food,3.5,Partner_13,Cycle,Debit Card,01-02-2025,21:02:00,32,1.4,1214,20,36,1230,Delivered,4,Sunny,No
+987,1276,Customer_294,Male,52,Chandigarh,4,Biryani House,Biryani,4.3,Partner_47,Bike,Cash,29-06-2025,08:49:00,44,12.7,333,150,28,211,Delivered,3,Sunny,No
+988,1095,Customer_202,Female,34,Bengaluru,4,Biryani House,Biryani,4.3,Partner_40,Cycle,Wallet,27-02-2025,11:08:00,54,12.3,1258,0,70,1328,Delivered,5,Rainy,No
+989,1168,Customer_175,Female,38,Bengaluru,5,Green Bowl,Healthy,4.7,Partner_4,Bike,UPI,26-06-2025,03:04:00,54,2.9,980,150,39,869,Delivered,2,Sunny,No
+990,1243,Customer_41,Female,21,Bengaluru,2,Pizza Point,Italian,3.8,Partner_39,Cycle,Wallet,30-01-2025,02:24:00,40,3.9,981,0,42,1023,Delivered,4,Cloudy,Yes
+991,1029,Customer_195,Female,18,Delhi,5,Green Bowl,Healthy,3.6,Partner_39,Cycle,Net Banking,06-04-2025,20:27:00,51,5.2,1386,50,40,1376,Delivered,5,Cloudy,No
+992,1286,Customer_223,Female,49,Mumbai,1,Spice Hub,North Indian,4.1,Partner_21,Scooter,Debit Card,24-06-2025,09:21:00,25,1.2,800,100,44,744,Delivered,3,Rainy,No
+993,1231,Customer_158,Female,32,Bengaluru,4,Biryani House,Biryani,3.8,Partner_33,Cycle,UPI,08-01-2025,19:29:00,42,2.8,1107,50,54,1111,Delivered,3,Rainy,No
+994,1149,Customer_28,Male,43,Hyderabad,2,Pizza Point,Italian,4.4,Partner_39,Cycle,Debit Card,18-04-2025,11:29:00,29,14,1497,20,69,1546,Delivered,4,Sunny,Yes
+995,1245,Customer_243,Female,43,Delhi,2,Pizza Point,Italian,3.7,Partner_21,Cycle,UPI,26-04-2025,14:36:00,39,1.4,511,50,31,492,Delivered,3,Cloudy,Yes
+996,1199,Customer_31,Male,52,Delhi,3,Burger Town,Fast Food,3.5,Partner_31,Cycle,Wallet,13-05-2025,21:49:00,40,7.7,1230,50,54,1234,Delivered,5,Sunny,Yes
+997,1007,Customer_140,Female,26,Delhi,2,Pizza Point,Italian,5,Partner_27,Scooter,Credit Card,02-04-2025,15:09:00,55,12.4,1383,150,76,1309,Delivered,1,Sunny,Yes
+998,1117,Customer_221,Female,55,Mumbai,5,Green Bowl,Healthy,4.6,Partner_49,Cycle,UPI,03-05-2025,11:40:00,44,8.8,714,20,67,761,Cancelled,2,Rainy,No
+999,1120,Customer_258,Female,34,Pune,2,Pizza Point,Italian,4,Partner_49,Scooter,UPI,21-06-2025,19:01:00,17,10.5,834,20,27,841,Delivered,3,Cloudy,No
+1000,1040,Customer_58,Male,30,Bengaluru,6,Tandoori Treat,Chinese,3.7,Partner_46,Scooter,Debit Card,07-02-2025,06:43:00,49,9.6,1156,50,67,1173,Delivered,4,Cloudy,Yes
