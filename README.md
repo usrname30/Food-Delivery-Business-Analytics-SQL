@@ -207,10 +207,6 @@ Solved business problems using:
 - Include predictive analytics for customer demand.
 
 
-#  About This Project
-
-This project was developed as part of my Data Analytics portfolio to demonstrate practical SQL skills and business problem-solving techniques. It showcases how SQL can be used to transform raw transactional data into actionable business insights.
 
 
 
-##  If you found this project useful, consider giving it a star on GitHub!
